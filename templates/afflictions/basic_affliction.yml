@@ -1,0 +1,36 @@
+# Basic Affliction Template for Barotrauma
+# Replace placeholder values with your own
+
+afflictions:
+  - identifier: YourAfflictionIdentifier  # Unique identifier for your affliction
+    name: Your Affliction Name           # Display name in game
+    description: Affliction description goes here
+    
+    # Affliction properties
+    type: poisoning                      # Type of affliction (poisoning, burn, etc.)
+    maxstrength: 100                     # Maximum strength value
+    damagepertick: 0.1                   # Damage applied per tick
+    tickspersecond: 1                    # Number of ticks per second
+    
+    # Affliction visuals
+    afflictiondecreasedividerthreshold: 0.5
+    karmachangeonapply: 0                # Karma change when affliction is applied
+    
+    # Status effects (symptoms)
+    statusEffects:
+      - target: Character                # Target of the effect (Character, Limb, etc.)
+        effect: DamageOverTime           # Type of effect
+        basedamage: 1                    # Base damage of the effect
+        damagerange: 0.25                # Range of damage variability
+        damagetype: poisoning            # Type of damage
+        limbspecific: false              # Whether the effect targets specific limbs
+        
+      - target: Character
+        effect: LowPassFilter            # Visual effect type
+        thresholdmin: 0.1                # Minimum threshold to activate effect
+        thresholdmax: 0.7                # Maximum threshold of effect
+        strengthdivider: 10              # Strength divider
+        
+    # Resistance properties (optional)
+    # resistanceid: YourResistanceIdentifier
+    # causespermanentdamage: false

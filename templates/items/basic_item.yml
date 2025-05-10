@@ -1,0 +1,59 @@
+# Basic Item Template for Barotrauma
+# Replace placeholder values with your own
+
+items:
+  - identifier: YourItemIdentifier     # Unique identifier for your item
+    name: Your Item Name              # Display name in game
+    category: Equipment               # Category (Equipment, Misc, Medical, etc.)
+    tags: tool                        # Comma-separated tags
+    description: Item description goes here
+    
+    # Item visuals
+    sprite:
+      texture: Items/YourItemTexture.png
+      depth: 0.55
+      sourcerect: [0, 0, 128, 128]
+    
+    inventoryIcon:
+      texture: Items/YourItemIcon.png
+      sourcerect: [0, 0, 64, 64]
+    
+    # Price information
+    price:
+      basePrice: 100
+      stores:
+        - store: outpost
+          multiplier: 1.0
+        - store: miningoutpost
+          multiplier: 1.2
+    
+    # Physical properties
+    preferredContainers:
+      - primary: storagetools
+    
+    # Item functionality - add components as needed
+    body:
+      width: 16
+      height: 16
+      density: 50
+      
+    # Optional components (uncomment and modify as needed)
+    # itemComponent:
+    #   removable: true
+    #   msg: ItemMsgDetach
+    
+    # pickable:
+    #   msg: ItemMsgPickUp
+    
+    # Example of a tool component
+    # tool:
+    #   range: 100
+    #   slots:
+    #     - primary: 1
+    
+    # Example of a container component
+    # container:
+    #   capacity: 5
+    #   slots:
+    #     - name: Content1
+    #       capacity: 1

@@ -1,0 +1,63 @@
+# Example Medical Item: Healing Spray
+# This demonstrates a simple medical item implementation
+
+items:
+  - identifier: HealingSpray
+    name: Healing Spray
+    category: Medical
+    tags: medical, tool
+    description: A compact spray that quickly treats minor injuries.
+    
+    # Item visuals
+    sprite:
+      texture: Items/Medical/healing_spray.png
+      depth: 0.55
+      sourcerect: [0, 0, 64, 64]
+    
+    inventoryIcon:
+      texture: Items/Medical/healing_spray_icon.png
+      sourcerect: [0, 0, 32, 32]
+    
+    # Price and store availability
+    price:
+      basePrice: 75
+      stores:
+        - store: outpost
+          multiplier: 1.0
+        - store: city
+          multiplier: 0.8
+        - store: research
+          multiplier: 1.2
+    
+    # Physical properties
+    preferredContainers:
+      - primary: medcab
+    
+    body:
+      width: 8
+      height: 16
+      density: 30
+    
+    # Medical functionality
+    medicalItem:
+      healamount: 15
+      usetime: 1.0
+      afflictions:
+        - identifier: burn
+          strength: -10
+        - identifier: bleeding
+          strength: -20
+      
+    # Limited use
+    itemComponent:
+      maxuses: 10
+      
+    # Allow picking up
+    pickable:
+      msg: ItemMsgPickUp
+      
+    # Sound effects
+    sound:
+      file: Content/Items/Medical/SpraySound.ogg
+      volume: 0.8
+      range: 150

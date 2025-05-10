@@ -1,0 +1,33 @@
+# Content Package Template for Barotrauma
+# This defines the metadata for your mod
+
+contentpackage:
+  name: YourModName               # Display name of your mod
+  modversion: 1.0.0               # Version of your mod
+  gameversion: 0.19.16.0          # Game version this mod is compatible with
+  
+  # Unique identifier for your mod - should include your name/handle
+  # Format: Workshop.[YourName].[ModName]
+  id: Workshop.YourName.YourModName
+  
+  description: >
+    A detailed description of your mod goes here.
+    Include what the mod adds, changes, or enhances.
+    You can use multiple lines for better readability.
+  
+  # Dependencies - other mods required for this mod to function
+  dependencies:
+    # Uncomment and modify if your mod depends on other mods
+    # - id: Workshop.AnotherAuthor.RequiredMod
+    #   version: 1.0.0
+  
+  # Steam Workshop settings (optional)
+  steamworkshopid: ''             # Leave empty for new mods
+  
+  # Credits for mod creators
+  authors:
+    - name: YourName
+      url: https://github.com/YourUsername
+  
+  # Default language
+  defaultlanguage: English
