@@ -1,0 +1,4842 @@
+{
+  "metadata": {
+    "timestamp": "2025-05-10T02:05:54.208570",
+    "content_directory": "x:\\steam_library\\steamapps\\common\\Barotrauma\\Content",
+    "hash_algorithm": "sha256",
+    "total_files": 604
+  },
+  "files": {
+    "Afflictions.xml": {
+      "checksum": "0718c605024c2c52235ea7790b5cea2c738ef30c9a91224a61449b36dd26fb73",
+      "algorithm": "sha256",
+      "size_bytes": 135965,
+      "last_modified": "2025-04-26T21:59:11.306341",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "AfflictionsGeneticMaterial.xml": {
+      "checksum": "4764e9041f2939ea38284a673c592eb65d6b8d04f674573ac7d18abbd525153a",
+      "algorithm": "sha256",
+      "size_bytes": 25560,
+      "last_modified": "2024-10-22T20:52:44.115918",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "BackgroundCreatures\\BackgroundCreaturePrefabs.xml": {
+      "checksum": "22c47863243fd3d0503b1e6c469b0dbee7acdb2e896b7036b6be51a47bd0216d",
+      "algorithm": "sha256",
+      "size_bytes": 21714,
+      "last_modified": "2025-04-26T21:59:11.383632",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Ancient\\Ancient.xml": {
+      "checksum": "8bc0203c6a708719c19dba0cd911099b112ecfca1457ce1664ca84ab00275f6a",
+      "algorithm": "sha256",
+      "size_bytes": 4135,
+      "last_modified": "2024-10-22T20:52:44.094454",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Ancient\\Animations\\AncientSwimFast.xml": {
+      "checksum": "8be672e5a0f2711aeb2e0cf890f590d6c1410769b659bdd5c8751985b2153066",
+      "algorithm": "sha256",
+      "size_bytes": 603,
+      "last_modified": "2024-10-22T20:52:43.569964",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Ancient\\Animations\\AncientSwimSlow.xml": {
+      "checksum": "01a6105e988d992e1d76a006eb448af247592a4c9d793766914dbfa2363dd6c1",
+      "algorithm": "sha256",
+      "size_bytes": 603,
+      "last_modified": "2024-10-22T20:52:43.531296",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Ancient\\Ragdolls\\AncientDefaultRagdoll.xml": {
+      "checksum": "10d4f2ae9e052e48b89ffc95c136a98b17267673c09efa31f85e91591a0cc360",
+      "algorithm": "sha256",
+      "size_bytes": 16596,
+      "last_modified": "2024-10-22T20:52:44.175178",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Balloon\\Animations\\BalloonRun.xml": {
+      "checksum": "69ed8cb95140b51490bbe800be5d025f55e3916c6e183e9b042ef5026fb5bf46",
+      "algorithm": "sha256",
+      "size_bytes": 753,
+      "last_modified": "2024-10-22T20:52:42.855868",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Balloon\\Animations\\BalloonSwimFast.xml": {
+      "checksum": "b486c84d62ddcfe4be62c7fa2b2e1d58aba245f82f8348749bca3dab0f04911c",
+      "algorithm": "sha256",
+      "size_bytes": 659,
+      "last_modified": "2024-10-22T20:52:42.854331",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Balloon\\Animations\\BalloonSwimSlow.xml": {
+      "checksum": "539ae4fb0dd110b0d53b4792ee2d6aaf8ba7931935002b23fcc913143c68d351",
+      "algorithm": "sha256",
+      "size_bytes": 658,
+      "last_modified": "2024-10-22T20:52:42.855122",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Balloon\\Animations\\BalloonWalk.xml": {
+      "checksum": "6abd7204ff40455110b9c234b46736d764a14f58251e13e4b27200302f4ce11d",
+      "algorithm": "sha256",
+      "size_bytes": 740,
+      "last_modified": "2024-10-22T20:52:44.135112",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Balloon\\Balloon.xml": {
+      "checksum": "4b07471c53695af97668e2829d1d4c17f5d59f076a52ffb0e456d7c46d2b5e89",
+      "algorithm": "sha256",
+      "size_bytes": 6168,
+      "last_modified": "2024-10-22T20:52:42.895566",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Balloon\\Ragdolls\\BalloonDefaultRagdoll.xml": {
+      "checksum": "9f390cc4c69f41d53c0548f7db1e472f2c6007369abcbce561e393aa3cb69b89",
+      "algorithm": "sha256",
+      "size_bytes": 5991,
+      "last_modified": "2024-10-22T20:52:43.557865",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Bonethresher\\Animations\\BonethresherSwimFast.xml": {
+      "checksum": "2b65caf1b003981348d040c4aa0078e72ec39443ce15e6d15e00b7408beaf564",
+      "algorithm": "sha256",
+      "size_bytes": 526,
+      "last_modified": "2022-08-28T22:52:53.953244",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Bonethresher\\Animations\\BonethresherSwimSlow.xml": {
+      "checksum": "b8933e4c99dc52e5c5fbc8c215ed2f761907c6ee3c9dd225c8a77940bf16a91a",
+      "algorithm": "sha256",
+      "size_bytes": 523,
+      "last_modified": "2022-08-28T22:52:54.959460",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Bonethresher\\Bonethresher.xml": {
+      "checksum": "c656b75d5d5957d364ab3048fb2614e030b84b996f23378c4f5171eb00c34335",
+      "algorithm": "sha256",
+      "size_bytes": 6003,
+      "last_modified": "2024-10-22T20:52:42.897256",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Bonethresher\\Ragdolls\\BonethresherDefaultRagdoll.xml": {
+      "checksum": "ca0bdf01e771e29c5ee8ac1aa82e3e9c0f471cac914ba64966f1550f83522e10",
+      "algorithm": "sha256",
+      "size_bytes": 25754,
+      "last_modified": "2024-10-22T20:52:43.530680",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Carrier\\Animations\\CarrierSwimFast.xml": {
+      "checksum": "4ad68d56a00d0b20e22d0a7a6fb6b639e88ba771e74a3f582e46ed7940ec611a",
+      "algorithm": "sha256",
+      "size_bytes": 365,
+      "last_modified": "2022-08-28T22:52:55.177178",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Carrier\\Animations\\CarrierSwimSlow.xml": {
+      "checksum": "2c520260e8c9b05b8d28d9f2b9a6bdc89617d97ad1c91d69929c8602ba465034",
+      "algorithm": "sha256",
+      "size_bytes": 365,
+      "last_modified": "2022-08-28T22:52:55.228729",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Carrier\\Carrier.xml": {
+      "checksum": "51831eb7f9fd029ab2523a80deaba98fa664df7c96041caaaf7c1eb25e058db7",
+      "algorithm": "sha256",
+      "size_bytes": 1526,
+      "last_modified": "2022-08-28T22:52:54.433450",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Carrier\\Ragdolls\\CarrierDefaultRagdoll.xml": {
+      "checksum": "45af68620b64ee99acc02aee85da920c2bc7176563093d26c03b32b827976dd2",
+      "algorithm": "sha256",
+      "size_bytes": 2346,
+      "last_modified": "2022-08-28T22:52:55.547771",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Charybdis\\Animations\\CharybdisSwimFast.xml": {
+      "checksum": "d3b10c2b0d07d9b3a2b6143904642d2d75df0db2facb8573404877a7160df37a",
+      "algorithm": "sha256",
+      "size_bytes": 487,
+      "last_modified": "2022-08-28T22:52:54.638651",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Charybdis\\Animations\\CharybdisSwimSlow.xml": {
+      "checksum": "93d159694a8ce55b40c9a6d6e70104ce0218f280e716d137a1d624016841872a",
+      "algorithm": "sha256",
+      "size_bytes": 487,
+      "last_modified": "2022-08-28T22:52:55.822657",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Charybdis\\Charybdis.xml": {
+      "checksum": "772b5f2353e41273cdd319e7a21cbbdf7ad816ed03b82113f1859687541ff2af",
+      "algorithm": "sha256",
+      "size_bytes": 8914,
+      "last_modified": "2024-10-22T20:52:44.284304",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Charybdis\\Ragdolls\\CharybdisDefaultRagdoll.xml": {
+      "checksum": "e48fc470dc53862e127a5177f454376b6eeffb96a60bab8814f3b3e2e8369d0d",
+      "algorithm": "sha256",
+      "size_bytes": 102721,
+      "last_modified": "2024-10-22T20:52:44.220571",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Charybdisold\\Animations\\CharybdisoldSwimFast.xml": {
+      "checksum": "ba771a51db89f72f16d7697ae8f3582461b07af6b42238606cfe40640d45a881",
+      "algorithm": "sha256",
+      "size_bytes": 455,
+      "last_modified": "2022-08-28T22:52:54.586694",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Charybdisold\\Animations\\CharybdisoldSwimSlow.xml": {
+      "checksum": "7a874ae3bf30ceb854627dc408dbf800e85448d1a2883b8075317dc8067ccc09",
+      "algorithm": "sha256",
+      "size_bytes": 469,
+      "last_modified": "2022-08-28T22:52:54.585176",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Charybdisold\\Charybdisold.xml": {
+      "checksum": "1880979ea9f14b8eed6c38810f00ed4c7f1f3e5e5435888064b5451165c0e2c4",
+      "algorithm": "sha256",
+      "size_bytes": 3895,
+      "last_modified": "2024-10-22T20:52:43.610873",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Charybdisold\\Ragdolls\\CharybdisoldDefaultRagdoll.xml": {
+      "checksum": "bb725c0459cd302b678f62c99426f0c3340e0de64c019e4288d0ddb68e09fccd",
+      "algorithm": "sha256",
+      "size_bytes": 45774,
+      "last_modified": "2022-08-28T22:52:54.646286",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Coelanth\\Animations\\CoelanthSwimFast.xml": {
+      "checksum": "b654488d4a85f6fc4ae8fb021a0821a8512512d7925ef6b83f437497e657f40a",
+      "algorithm": "sha256",
+      "size_bytes": 347,
+      "last_modified": "2022-08-28T22:52:55.942638",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Coelanth\\Animations\\CoelanthSwimSlow.xml": {
+      "checksum": "7eec06796c24f86c2895eb93fb35d570bd7a9ee409ae0c5d23741d5cc2840aef",
+      "algorithm": "sha256",
+      "size_bytes": 347,
+      "last_modified": "2022-08-28T22:52:55.023849",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Coelanth\\Coelanth.xml": {
+      "checksum": "26b79e6e18c9951e60d6c329a9b54ddb311a1c2f5d130a74cd7fac50c734ba26",
+      "algorithm": "sha256",
+      "size_bytes": 1433,
+      "last_modified": "2022-08-28T22:52:55.123795",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Coelanth\\Ragdolls\\CoelanthDefaultRagdoll.xml": {
+      "checksum": "d629174ecad2cb7ca9f3326f7921984d8fd92b8958d79fbe64646c977c2727ee",
+      "algorithm": "sha256",
+      "size_bytes": 2208,
+      "last_modified": "2022-08-28T22:52:55.122791",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawler\\Animations\\CrawlerRun.xml": {
+      "checksum": "68eb8a1da2e3e2c37a35dad2c30d51d4bff07357af4976b51c5a05d9b49ac008",
+      "algorithm": "sha256",
+      "size_bytes": 704,
+      "last_modified": "2022-08-28T22:52:55.942638",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawler\\Animations\\CrawlerSwimFast.xml": {
+      "checksum": "a82310c6949366807e56a798cc261f1329d85ba479773102656ba7fa10df1a4e",
+      "algorithm": "sha256",
+      "size_bytes": 515,
+      "last_modified": "2022-08-28T22:52:55.996640",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawler\\Animations\\CrawlerSwimSlow.xml": {
+      "checksum": "b743f4a446671d5c24c4151d21f7264c9b00746401505709b4e7c15998add909",
+      "algorithm": "sha256",
+      "size_bytes": 512,
+      "last_modified": "2022-08-28T22:52:57.658280",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawler\\Animations\\CrawlerWalk.xml": {
+      "checksum": "a1ecbd6fac306b7f137270100093022e9772749c3adec1d00888d3ebc92d7af3",
+      "algorithm": "sha256",
+      "size_bytes": 723,
+      "last_modified": "2022-08-28T22:52:55.944640",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawler\\Crawler.xml": {
+      "checksum": "a57d65aa3c9ec73acbed6273a4b5e4aefefebf65f25be77132e5212a1938347d",
+      "algorithm": "sha256",
+      "size_bytes": 6630,
+      "last_modified": "2024-10-22T20:52:44.336465",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawler\\Ragdolls\\CrawlerDefaultRagdoll.xml": {
+      "checksum": "7dd8d66a925912154513cba57ac2b3366c2dc89114d5e072e113427cc26591f1",
+      "algorithm": "sha256",
+      "size_bytes": 34050,
+      "last_modified": "2024-10-22T20:52:43.557379",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerbroodmother\\Animations\\CrawlerbroodmotherSwimFast.xml": {
+      "checksum": "069ebcb129728fac05a880c81a4c97c84e1701ff31eb3567fda56f7552f8eb35",
+      "algorithm": "sha256",
+      "size_bytes": 642,
+      "last_modified": "2022-08-28T22:52:55.176176",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerbroodmother\\Animations\\CrawlerbroodmotherSwimSlow.xml": {
+      "checksum": "50b68c583e25198880ef2fc58d3002e15b8a43f795a82cd050527676475037a5",
+      "algorithm": "sha256",
+      "size_bytes": 642,
+      "last_modified": "2022-08-28T22:52:56.162643",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerbroodmother\\Crawlerbroodmother.xml": {
+      "checksum": "d14b55fb5b3ac78f92cdbca4804c20e77fc4946cd38d03da54bf562bbc0b2f7c",
+      "algorithm": "sha256",
+      "size_bytes": 12780,
+      "last_modified": "2024-10-22T20:52:43.079529",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerbroodmother\\Ragdolls\\CrawlerbroodmotherDefaultRagdoll.xml": {
+      "checksum": "9697cf57fef7d8d64b9a07296166d10113f996e089b1feb545e3069c69c25e89",
+      "algorithm": "sha256",
+      "size_bytes": 34834,
+      "last_modified": "2022-08-28T22:52:55.708829",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerhusk\\Animations\\CrawlerhuskRun.xml": {
+      "checksum": "d4d1924e355b0d0777cccfca0c776155dd13a14bdf2ffc923e68f0db9d762f3b",
+      "algorithm": "sha256",
+      "size_bytes": 702,
+      "last_modified": "2024-10-22T20:52:44.249698",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerhusk\\Animations\\CrawlerhuskSwimFast.xml": {
+      "checksum": "641303bf888f61be62afb28543ca623d9846420641f81f1fb1385a92c1c9a6bd",
+      "algorithm": "sha256",
+      "size_bytes": 538,
+      "last_modified": "2022-08-28T22:52:57.168964",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerhusk\\Animations\\CrawlerhuskSwimSlow.xml": {
+      "checksum": "8fe3aba81776940a173806e69f19166d3de7ecf9a14e473e5eeeb80d614a7496",
+      "algorithm": "sha256",
+      "size_bytes": 539,
+      "last_modified": "2022-08-28T22:52:57.168964",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerhusk\\Animations\\CrawlerhuskWalk.xml": {
+      "checksum": "68e6384c8d54ff6b0ef1529983fcfd56f2ab15c32e968c89bda7918981170870",
+      "algorithm": "sha256",
+      "size_bytes": 711,
+      "last_modified": "2024-10-22T20:52:43.607863",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerhusk\\Crawlerhusk.xml": {
+      "checksum": "6c9ae1bfabdbc47cc8d5a0ee64f15e9667de7fc0421f3b89cd0292a7ce3f93d1",
+      "algorithm": "sha256",
+      "size_bytes": 6278,
+      "last_modified": "2024-10-22T20:52:44.250211",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Crawlerhusk\\Ragdolls\\CrawlerhuskDefaultRagdoll.xml": {
+      "checksum": "9f8a2b440738957fc90984debbd873fbac250856f534defa6f757d868c495d7e",
+      "algorithm": "sha256",
+      "size_bytes": 54204,
+      "last_modified": "2024-10-22T20:52:44.248307",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Cyborgworm\\Animations\\CyborgwormSwimFast.xml": {
+      "checksum": "438e22941dcac73cdd1221548d5235516253bfc9f68770deece2df0d2767f338",
+      "algorithm": "sha256",
+      "size_bytes": 550,
+      "last_modified": "2024-10-22T20:52:43.555435",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Cyborgworm\\Animations\\CyborgwormSwimSlow.xml": {
+      "checksum": "923ffca782e96af54a8242c1368041c12ab535d78ea0711f36188dec58ddcf20",
+      "algorithm": "sha256",
+      "size_bytes": 550,
+      "last_modified": "2024-10-22T20:52:43.178116",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Cyborgworm\\Cyborgworm.xml": {
+      "checksum": "8e800fec09a064058fa6ebf6e39dd7adde2ada3c37064f396596d230207e81c9",
+      "algorithm": "sha256",
+      "size_bytes": 7838,
+      "last_modified": "2024-10-22T20:52:43.556921",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Cyborgworm\\Ragdolls\\CyborgwormDefaultRagdoll.xml": {
+      "checksum": "7e9ae2abe95088e9895ee885c38833c09a2dab820a184b293aa258fc5e2e8df1",
+      "algorithm": "sha256",
+      "size_bytes": 214476,
+      "last_modified": "2024-10-22T20:52:44.360327",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Defensebot\\Animations\\DefensebotRun.xml": {
+      "checksum": "2ca8c640f2e05573b7c61c4878b3bfd0ce031a7b01b36ea6b716da8b901f738b",
+      "algorithm": "sha256",
+      "size_bytes": 647,
+      "last_modified": "2024-10-22T20:52:44.200445",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Defensebot\\Animations\\DefensebotSwimFast.xml": {
+      "checksum": "49b9918745cc322eef5f7a72c4ceb4e5d8d6aa3738b1baf12df356011c6dbef8",
+      "algorithm": "sha256",
+      "size_bytes": 542,
+      "last_modified": "2024-10-22T20:52:43.131986",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Defensebot\\Animations\\DefensebotSwimSlow.xml": {
+      "checksum": "c2b3cdb8982cc8bd1d6095a6a1caeb0c3c59adaf34a545fc4d11e7fcb24184c0",
+      "algorithm": "sha256",
+      "size_bytes": 545,
+      "last_modified": "2024-10-22T20:52:43.560937",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Defensebot\\Animations\\DefensebotWalk.xml": {
+      "checksum": "2be802ad13ecfedb9bbdf7489c0088107ba6f1c6e7595975ecafd3dc25c9d076",
+      "algorithm": "sha256",
+      "size_bytes": 648,
+      "last_modified": "2024-10-22T20:52:43.555949",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Defensebot\\Defensebot.xml": {
+      "checksum": "e664aa15a47389580a93e8c022b61bf5308def500cf6e6e72b66b7a7c27b7812",
+      "algorithm": "sha256",
+      "size_bytes": 7717,
+      "last_modified": "2024-10-22T20:52:44.369583",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Defensebot\\Ragdolls\\DefensebotDefaultRagdoll.xml": {
+      "checksum": "83a63e254fb345872630d4a0322f081a31bbebcc8f9b484925f07540049d427f",
+      "algorithm": "sha256",
+      "size_bytes": 18709,
+      "last_modified": "2024-10-22T20:52:43.558334",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Endworm\\Animations\\EndwormSwimFast.xml": {
+      "checksum": "5ed01739e62e0bb1bebfefd3eab561641c2e3684b9e3029818e0fa11a40d1350",
+      "algorithm": "sha256",
+      "size_bytes": 487,
+      "last_modified": "2022-08-28T22:52:57.918601",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Endworm\\Animations\\EndwormSwimSlow.xml": {
+      "checksum": "db4c4873f9d2b04c085a8152ed9c08719f8a7439c179e84ea37af832f3e06fb7",
+      "algorithm": "sha256",
+      "size_bytes": 487,
+      "last_modified": "2022-08-28T22:52:56.228637",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Endworm\\Endworm.xml": {
+      "checksum": "12612c8bf536c22eae856c9778dab73658e8bc2ce23c9a28510d9c73cd0323f8",
+      "algorithm": "sha256",
+      "size_bytes": 7623,
+      "last_modified": "2024-10-22T20:52:43.215144",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Endworm\\Ragdolls\\EndwormDefaultRagdoll.xml": {
+      "checksum": "b02d7703dad3d54580bb09fb82f66660da0ab5148efcc62c4e9433db20ea072f",
+      "algorithm": "sha256",
+      "size_bytes": 251060,
+      "last_modified": "2024-10-22T20:52:43.556437",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian2\\Animations\\Fractalguardian2SwimFast.xml": {
+      "checksum": "5cd8f7b759db66840e83d25d62b0e59f36704261607604151297e87b43a48eaf",
+      "algorithm": "sha256",
+      "size_bytes": 562,
+      "last_modified": "2024-10-22T20:52:43.213687",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian2\\Animations\\Fractalguardian2SwimSlow.xml": {
+      "checksum": "592580cc4b2731ad724c6a6e0b66d8a11b22f7bae8247564a2f4aee67ed2d93e",
+      "algorithm": "sha256",
+      "size_bytes": 560,
+      "last_modified": "2024-10-22T20:52:44.271014",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian2\\Fractalguardian2.xml": {
+      "checksum": "09a203ddcca256ea3fd214b739c13e61c1700d1b57b0b1fa95267cd98dfea81d",
+      "algorithm": "sha256",
+      "size_bytes": 9727,
+      "last_modified": "2024-10-22T20:52:44.272917",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian2\\Ragdolls\\Fractalguardian2DefaultRagdoll.xml": {
+      "checksum": "80bcfdd1796f574f00f8473f88fddd2d580858278a75d8cda20281363c784ab7",
+      "algorithm": "sha256",
+      "size_bytes": 25291,
+      "last_modified": "2024-10-22T20:52:43.127256",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian\\Animations\\FractalguardianSwimFast.xml": {
+      "checksum": "42fbf9ede48391d946ff4da5e7dc2310e00dc73a300e2cfccb1dd4c76136f850",
+      "algorithm": "sha256",
+      "size_bytes": 561,
+      "last_modified": "2024-10-22T20:52:43.214323",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian\\Animations\\FractalguardianSwimSlow.xml": {
+      "checksum": "0f3d87cafd05820c0378baaf397e6997812a32585123e81dd1435ef19b6a0e4f",
+      "algorithm": "sha256",
+      "size_bytes": 559,
+      "last_modified": "2024-10-22T20:52:43.549616",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian\\Fractalguardian.xml": {
+      "checksum": "c3c339dc905257c5ebc5ec451bf2c235c45a34daad0e3d43600f307f9b9aedd3",
+      "algorithm": "sha256",
+      "size_bytes": 9713,
+      "last_modified": "2024-10-22T20:52:44.483212",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian\\Ragdolls\\FractalguardianDefaultRagdoll.xml": {
+      "checksum": "ebc7b80e5e75f82bfc94b8a63525fcfd8562d3556b87e43ae9ea0a1afc89bd0f",
+      "algorithm": "sha256",
+      "size_bytes": 25788,
+      "last_modified": "2024-10-22T20:52:43.527028",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian_emp\\Animations\\Fractalguardian_empSwimFast.xml": {
+      "checksum": "8bbbc9a213a316a5c875fed69983b3fa1086afe809d158c4781c3cdf187ab310",
+      "algorithm": "sha256",
+      "size_bytes": 595,
+      "last_modified": "2024-10-22T20:52:43.131140",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian_emp\\Animations\\Fractalguardian_empSwimSlow.xml": {
+      "checksum": "618817324c5207498f0f0fc02b80a7e75b7ed170485526b9aed7901b61005dda",
+      "algorithm": "sha256",
+      "size_bytes": 593,
+      "last_modified": "2024-10-22T20:52:43.310584",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian_emp\\Fractalguardian_emp.xml": {
+      "checksum": "de8d2e462ada8fee5474ab63ef6d951466b29308e3c6186d073a6837c7f5308c",
+      "algorithm": "sha256",
+      "size_bytes": 11028,
+      "last_modified": "2024-10-22T20:52:43.563983",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Fractalguardian_emp\\Ragdolls\\Fractalguardian_empDefaultRagdoll.xml": {
+      "checksum": "4fda8fd8c0c4a103c32110eb2e96cd8632f5f9f2dddb9607e5506018df5ad27c",
+      "algorithm": "sha256",
+      "size_bytes": 32599,
+      "last_modified": "2024-10-22T20:52:44.363705",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Guardianrepairbot\\Animations\\GuardianrepairbotSwimFast.xml": {
+      "checksum": "ec3303b6b4b0d99144c80060f7436262d95b7b2f977cef44fb426126b4a8b133",
+      "algorithm": "sha256",
+      "size_bytes": 556,
+      "last_modified": "2024-10-22T20:52:44.283737",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Guardianrepairbot\\Animations\\GuardianrepairbotSwimSlow.xml": {
+      "checksum": "99ac3b19b9b47abe4abc5607a681e588878b19964ce12b65e2356f472ccf24b0",
+      "algorithm": "sha256",
+      "size_bytes": 556,
+      "last_modified": "2024-10-22T20:52:43.364948",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Guardianrepairbot\\Guardianrepairbot.xml": {
+      "checksum": "e8f3547a3f4dc42dc9b38b04ac3fd216eb0569ae562dc02e27f69207b1f01daf",
+      "algorithm": "sha256",
+      "size_bytes": 6768,
+      "last_modified": "2025-04-26T21:59:11.575643",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Guardianrepairbot\\Ragdolls\\GuardianrepairbotDefaultRagdoll.xml": {
+      "checksum": "5af3488aa2e67c1916aff428f0bf603819e60ceccd1ab8dc8041597b993421f5",
+      "algorithm": "sha256",
+      "size_bytes": 4600,
+      "last_modified": "2025-04-26T21:59:11.601786",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerhead\\Animations\\HammerheadSwimFast.xml": {
+      "checksum": "e168950feb06019c05796a72b3a8cf4018878fed16b981abad722683dd55d363",
+      "algorithm": "sha256",
+      "size_bytes": 439,
+      "last_modified": "2022-08-28T22:52:57.645208",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerhead\\Animations\\HammerheadSwimSlow.xml": {
+      "checksum": "1f4a38df9da5cb4453fa2e5ee3e474ca7db05e29657de1537d04858f447bf4ec",
+      "algorithm": "sha256",
+      "size_bytes": 426,
+      "last_modified": "2022-08-28T22:52:58.170702",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerhead\\Hammerhead.xml": {
+      "checksum": "75696c13fd4f33b7751281377fb32eb1072d26089179169af5ed49dbfc63b03e",
+      "algorithm": "sha256",
+      "size_bytes": 5287,
+      "last_modified": "2024-10-22T20:52:43.306770",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerhead\\Ragdolls\\HammerheadDefaultRagdoll.xml": {
+      "checksum": "c72eed739e78cbae68a3cdc5b6167dc37275a9723cd3c3080daf6ff02ea87b5e",
+      "algorithm": "sha256",
+      "size_bytes": 35707,
+      "last_modified": "2024-10-22T20:52:44.354952",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadgold\\Animations\\HammerheadgoldSwimFast.xml": {
+      "checksum": "8fdc712572db57d789b66609d2ec5e83403293655dedd373387ed894dcf35385",
+      "algorithm": "sha256",
+      "size_bytes": 438,
+      "last_modified": "2022-08-28T22:52:57.116975",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadgold\\Animations\\HammerheadgoldSwimSlow.xml": {
+      "checksum": "aaa8570aeecb846d3e63e0979152e5a8eed4f49d34412472c060aff2c7c84021",
+      "algorithm": "sha256",
+      "size_bytes": 430,
+      "last_modified": "2022-08-28T22:52:59.367441",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadgold\\Hammerheadgold.xml": {
+      "checksum": "d305fb62080b52405729c7fed5031461f723765a4e40fbdd76facd61966480e3",
+      "algorithm": "sha256",
+      "size_bytes": 5422,
+      "last_modified": "2024-10-22T20:52:43.558802",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadgold\\Ragdolls\\HammerheadgoldDefaultRagdoll.xml": {
+      "checksum": "d063729ef09af4fcfe878a5960ee4cf6cedd9c3972a19e05655ad61425c8f536",
+      "algorithm": "sha256",
+      "size_bytes": 28699,
+      "last_modified": "2024-10-22T20:52:43.609438",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadmatriarch\\Animations\\HammerheadmatriarchSwimFast.xml": {
+      "checksum": "36a229213b87e47da2ab29332bdf65c9bcd457a29ff73a62a46f6f41272683c2",
+      "algorithm": "sha256",
+      "size_bytes": 442,
+      "last_modified": "2022-08-28T22:52:57.859455",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadmatriarch\\Animations\\HammerheadmatriarchSwimSlow.xml": {
+      "checksum": "1458b7fb0a7ed633e2d13a41ee7be55c3927f6efe10956aeb08bd55fd9e92909",
+      "algorithm": "sha256",
+      "size_bytes": 448,
+      "last_modified": "2022-08-28T22:52:57.909024",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadmatriarch\\Hammerheadmatriarch.xml": {
+      "checksum": "f09456e4cc7c39da36d199cf48ec56a51f53a644db453d9096da6fd4f3410da6",
+      "algorithm": "sha256",
+      "size_bytes": 6223,
+      "last_modified": "2024-10-22T20:52:44.337432",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadmatriarch\\Ragdolls\\HammerheadmatriarchDefaultRagdoll.xml": {
+      "checksum": "6a279f53fa020207b44ffe4b3e7268a6eb5d6fe157ccc555b49cf1579ada6230",
+      "algorithm": "sha256",
+      "size_bytes": 65097,
+      "last_modified": "2022-08-28T22:52:57.658280",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadspawn\\Animations\\HammerheadspawnSwimFast.xml": {
+      "checksum": "010aeebeba377a378b25bcb219bb7754dc1d40526d6633d1dcdc36dffd9d97de",
+      "algorithm": "sha256",
+      "size_bytes": 439,
+      "last_modified": "2022-08-28T22:52:59.666529",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadspawn\\Animations\\HammerheadspawnSwimSlow.xml": {
+      "checksum": "82c69269df197b5fcc895d2c288161de9a77ce72db3507195b1a2a55d32cd173",
+      "algorithm": "sha256",
+      "size_bytes": 445,
+      "last_modified": "2022-08-28T22:52:58.090152",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadspawn\\Hammerheadspawn.xml": {
+      "checksum": "368598a0929e9c9cd89377f0255614753e16426e70451d93909fd8589c88a86c",
+      "algorithm": "sha256",
+      "size_bytes": 2630,
+      "last_modified": "2024-10-22T20:52:43.608710",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Hammerheadspawn\\Ragdolls\\HammerheadspawnDefaultRagdoll.xml": {
+      "checksum": "f9bc7ec1c0d959759da0323c4264466826e2a040337a845bd60c3bf74a301af9",
+      "algorithm": "sha256",
+      "size_bytes": 4629,
+      "last_modified": "2024-10-22T20:52:43.310988",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\DrunkenRun.xml": {
+      "checksum": "e8ec64dbdd7379cc99f41ac21c8ff316d7bb9d960bc87b87568ad45fa7c4c72e",
+      "algorithm": "sha256",
+      "size_bytes": 997,
+      "last_modified": "2024-10-22T20:52:43.732388",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\DrunkenWalk.xml": {
+      "checksum": "6d09dc713d7748ae9ca2c880d325deb86c836081f25a1386c153cc01e6f78de6",
+      "algorithm": "sha256",
+      "size_bytes": 971,
+      "last_modified": "2024-10-22T20:52:44.271268",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanCrouch.xml": {
+      "checksum": "939ed04052bbfffb88733796c6fd073c6408e9c4a8697348de6893de59bfdc47",
+      "algorithm": "sha256",
+      "size_bytes": 1013,
+      "last_modified": "2024-10-22T20:52:43.709099",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanRun.xml": {
+      "checksum": "775c7d3c208d3708132405bd806670636746deae7ad0babd416675d0bdc3575e",
+      "algorithm": "sha256",
+      "size_bytes": 977,
+      "last_modified": "2024-10-22T20:52:43.310185",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanRunDivingSuit.xml": {
+      "checksum": "caae852b915c63c16ad95dd5c952932a644c47820a843321dc6ebe42235a1638",
+      "algorithm": "sha256",
+      "size_bytes": 997,
+      "last_modified": "2024-10-22T20:52:43.214952",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanRunExosuit.xml": {
+      "checksum": "3da4e4eb967c6129065403b1a48003313191a40da6105df3515109def5aa5a45",
+      "algorithm": "sha256",
+      "size_bytes": 983,
+      "last_modified": "2024-10-22T20:52:43.242768",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanSwimFast.xml": {
+      "checksum": "e38379ebef5f1ed81423c2707a2f07831347f48be30d366650196edfb49d0c01",
+      "algorithm": "sha256",
+      "size_bytes": 537,
+      "last_modified": "2022-08-28T22:52:58.663205",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanSwimSlow.xml": {
+      "checksum": "d499a6b78588c2d644e54e936df2dbc7b2a8fc64cfcff5d54b4e352b67b1939c",
+      "algorithm": "sha256",
+      "size_bytes": 539,
+      "last_modified": "2022-08-28T22:52:58.733215",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanWalk.xml": {
+      "checksum": "c616fe3a980aa19a2fcb144edd2929d1f317b55655c987d46728382296c1aae3",
+      "algorithm": "sha256",
+      "size_bytes": 971,
+      "last_modified": "2024-10-22T20:52:43.766694",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanWalkDivingSuit.xml": {
+      "checksum": "396ae40b60b2d561352cf97378384dbd5942322d45a26d2b28a03e45bd3518a7",
+      "algorithm": "sha256",
+      "size_bytes": 993,
+      "last_modified": "2024-10-22T20:52:43.286335",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\HumanWalkExosuit.xml": {
+      "checksum": "f501746020a38fcdc589dc0f55dd0a09311a2bb68d0a5518c180bfc83f2ecfb4",
+      "algorithm": "sha256",
+      "size_bytes": 960,
+      "last_modified": "2024-10-22T20:52:44.371569",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\JollyWalk.xml": {
+      "checksum": "8341379222d5e5a94eb57ce3256fca8f67b2a4dccce42707d69c25c8eaa913ee",
+      "algorithm": "sha256",
+      "size_bytes": 825,
+      "last_modified": "2024-10-22T20:52:43.764249",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\Spasm.xml": {
+      "checksum": "9f470071856f4df143865bdbaf8133099d5311a3f3fc6822fe013840bdbd0363",
+      "algorithm": "sha256",
+      "size_bytes": 821,
+      "last_modified": "2024-10-22T20:52:43.248257",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\SpasmRun.xml": {
+      "checksum": "e501c8be055c35fc438f53328864c9b0467b2656a6e654f720ed08a33679605e",
+      "algorithm": "sha256",
+      "size_bytes": 819,
+      "last_modified": "2024-10-22T20:52:43.214117",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\VigorousWalk.xml": {
+      "checksum": "de25d363ac46c47f73338486fe804fb1436c76b7a881e4c6b890b98233dd6cbf",
+      "algorithm": "sha256",
+      "size_bytes": 810,
+      "last_modified": "2024-10-22T20:52:43.713031",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Animations\\Vomit.xml": {
+      "checksum": "ac9fb45018efb1ef67cef491e77055e29e1f3c0754074f5c80974d0510fad1b6",
+      "algorithm": "sha256",
+      "size_bytes": 845,
+      "last_modified": "2024-10-22T20:52:43.715257",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Human.xml": {
+      "checksum": "ef11c7e874282a3a4323487f1caeb9227ca50b15e9697b7d7dd37e32238cdfe8",
+      "algorithm": "sha256",
+      "size_bytes": 21590,
+      "last_modified": "2024-10-22T20:52:43.708324",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\PersonalityTraits.xml": {
+      "checksum": "deb2e0e14784a1ceb63c2a506bd18f91f2fca12304887bbd52eb0abb368fb1a8",
+      "algorithm": "sha256",
+      "size_bytes": 834,
+      "last_modified": "2024-10-22T20:52:43.736100",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\Ragdolls\\HumanDefaultRagdoll.xml": {
+      "checksum": "046ccc74fba6aa5068cc03f6083d511a36db338fe6b508956f2f4016a165324b",
+      "algorithm": "sha256",
+      "size_bytes": 30490,
+      "last_modified": "2024-12-11T14:53:08.973394",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Human\\names.xml": {
+      "checksum": "dff1774526f644f871c43015d5ccdc5b829080906775943569346b74c62bc4de",
+      "algorithm": "sha256",
+      "size_bytes": 27700,
+      "last_modified": "2024-10-22T20:52:44.270762",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Animations\\HumanhuskCrouch.xml": {
+      "checksum": "4d8f494cfe44a2a364251388d419822f1f7295af5b3c2d8ed3d3ae355c2e0dcc",
+      "algorithm": "sha256",
+      "size_bytes": 1303,
+      "last_modified": "2024-10-22T20:52:44.274533",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Animations\\HumanhuskRun.xml": {
+      "checksum": "b063448832ecc229545438b7e317b38df0d4924239be511b7087221fa4f82a5e",
+      "algorithm": "sha256",
+      "size_bytes": 1148,
+      "last_modified": "2024-10-22T20:52:43.563612",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Animations\\HumanhuskSwimFast.xml": {
+      "checksum": "e31a05ca3a82eb9a8153876f26455b84272549822278365eb6639a43b1dc2a90",
+      "algorithm": "sha256",
+      "size_bytes": 515,
+      "last_modified": "2022-08-28T22:52:58.445723",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Animations\\HumanhuskSwimSlow.xml": {
+      "checksum": "f7ce308f59ba365b2024d497466d682752f5b11d8c7508e2abd8cfbff2b125e0",
+      "algorithm": "sha256",
+      "size_bytes": 528,
+      "last_modified": "2022-08-28T22:52:58.527714",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Animations\\HumanhuskWalk.xml": {
+      "checksum": "1c6b8aeab676255355f8f6c3b33f9bd4aa435f86e3fe5da29a29d84c42a159b9",
+      "algorithm": "sha256",
+      "size_bytes": 1172,
+      "last_modified": "2024-10-22T20:52:43.309250",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Humanhusk.xml": {
+      "checksum": "a81bcded1b55a9ce49d1f44d7caa2407748c38c5de320eafda193209985ddf77",
+      "algorithm": "sha256",
+      "size_bytes": 9555,
+      "last_modified": "2025-04-26T21:59:11.743195",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Huskappendage.xml": {
+      "checksum": "9f2c8d2367830e4a3d7143b88779926289760c5ad669f67d4e68400ad41889d8",
+      "algorithm": "sha256",
+      "size_bytes": 8500,
+      "last_modified": "2024-10-22T20:52:43.309728",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Huskappendagesymbiosis.xml": {
+      "checksum": "d1aeb4e3ffd66c97235d646f97972b3444b1338b8a27e9914385909337afe31e",
+      "algorithm": "sha256",
+      "size_bytes": 6748,
+      "last_modified": "2024-10-22T20:52:44.356815",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Mudraptorbeak.xml": {
+      "checksum": "431d98e2d8a1d14e78b234b787ff9dff373944eca780ec3f6107d3373161d2c5",
+      "algorithm": "sha256",
+      "size_bytes": 3110,
+      "last_modified": "2024-12-11T14:53:09.227012",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Humanhusk\\Spinelingspine.xml": {
+      "checksum": "09197bab75e09655b6be9a5c8b73214dfdc643200ac96a016ddbb35b7f40c880",
+      "algorithm": "sha256",
+      "size_bytes": 9967,
+      "last_modified": "2024-10-22T20:52:43.307269",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk\\Animations\\HuskCrouch.xml": {
+      "checksum": "160b750dbaf99c3fe76d20ce1483403c96337b65c9f335c13d0667fcf992513e",
+      "algorithm": "sha256",
+      "size_bytes": 1300,
+      "last_modified": "2024-10-22T20:52:43.243524",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk\\Animations\\HuskRun.xml": {
+      "checksum": "3ec816cbf978ffb9ab47d81c888072a96e6c328dd380e1a824cf4d40328ba58d",
+      "algorithm": "sha256",
+      "size_bytes": 1339,
+      "last_modified": "2024-10-22T20:52:44.354543",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk\\Animations\\HuskSwimFast.xml": {
+      "checksum": "d9ed89524af12767c473f8cd01b61c13fead1daf5f867894386c9fbf7f89fd39",
+      "algorithm": "sha256",
+      "size_bytes": 535,
+      "last_modified": "2024-10-22T20:52:43.735390",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk\\Animations\\HuskSwimSlow.xml": {
+      "checksum": "30db3d38534ec4e965ccf096f22f9ff128dca2d1ae7da724797c1c60b7f2cef1",
+      "algorithm": "sha256",
+      "size_bytes": 549,
+      "last_modified": "2024-10-22T20:52:44.369845",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk\\Animations\\HuskWalk.xml": {
+      "checksum": "eb7b3fad02228e0454f41ca049c64927ca81844d31f585c6cf0c6b9adaa4a917",
+      "algorithm": "sha256",
+      "size_bytes": 1362,
+      "last_modified": "2024-10-22T20:52:43.734672",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk\\Husk.xml": {
+      "checksum": "042aa65be1c06f1b1902164723e09c79622f4f3377a2e0b725185c88a831a9a6",
+      "algorithm": "sha256",
+      "size_bytes": 8266,
+      "last_modified": "2025-04-26T21:59:11.755622",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk\\Ragdolls\\HuskDefaultRagdoll.xml": {
+      "checksum": "096f459accba0728ba078a79e3e4c311e94619bc426dd7261d81aac63bfd38a2",
+      "algorithm": "sha256",
+      "size_bytes": 38770,
+      "last_modified": "2024-10-22T20:52:43.246750",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_chimera\\Animations\\Husk_chimeraRun.xml": {
+      "checksum": "20ab08786135c149329cbe6f9f838f9887f1af692aeea8b98b04c87c3f8197a3",
+      "algorithm": "sha256",
+      "size_bytes": 844,
+      "last_modified": "2024-10-22T20:52:43.714123",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_chimera\\Animations\\Husk_chimeraSwimFast.xml": {
+      "checksum": "3920a767be028fce6ec15536687aa77acffe0efdefb8c68a386a886aef48d0a1",
+      "algorithm": "sha256",
+      "size_bytes": 632,
+      "last_modified": "2024-10-22T20:52:43.317076",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_chimera\\Animations\\Husk_chimeraSwimSlow.xml": {
+      "checksum": "2dec9f6ae4d9a431778062ac2f143ff5a8677b50b6fd28449ba26395c551d408",
+      "algorithm": "sha256",
+      "size_bytes": 620,
+      "last_modified": "2024-10-22T20:52:44.392190",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_chimera\\Animations\\Husk_chimeraWalk.xml": {
+      "checksum": "89add7b272290b7d4827dc2a659d58267e2540971a470731a9d75ec2331f6821",
+      "algorithm": "sha256",
+      "size_bytes": 853,
+      "last_modified": "2024-10-22T20:52:44.509192",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_chimera\\Husk_chimera.xml": {
+      "checksum": "02c9b07742ffafc6ae8feaf6ffa6ae7574bdc51bfddedd0c0c24fae274520dda",
+      "algorithm": "sha256",
+      "size_bytes": 12719,
+      "last_modified": "2025-04-26T21:59:11.745214",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_chimera\\Ragdolls\\Husk_chimeraDefaultRagdoll.xml": {
+      "checksum": "2080a1c2d13e2682ba589ad1c781a7558c03dcfd110dced8dbdef230c1868692",
+      "algorithm": "sha256",
+      "size_bytes": 79005,
+      "last_modified": "2025-04-26T21:59:11.757891",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_exosuit\\Animations\\Husk_exosuitCrouch.xml": {
+      "checksum": "97370f646229272ca18be5b1adca0806c08b87a458de422abd0689b59e70fbeb",
+      "algorithm": "sha256",
+      "size_bytes": 1363,
+      "last_modified": "2024-10-22T20:52:43.738992",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_exosuit\\Animations\\Husk_exosuitRun.xml": {
+      "checksum": "fea19080dc4d445fd7c132bebdc52f9bb656496edfa814c9aa0e4f39dc81f3d0",
+      "algorithm": "sha256",
+      "size_bytes": 1370,
+      "last_modified": "2024-10-22T20:52:44.388112",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_exosuit\\Animations\\Husk_exosuitSwimFast.xml": {
+      "checksum": "0cbd02a5ddf26a6b1879e91db42eac925b48f4ad9f11ab8d0445ccbcb954ab91",
+      "algorithm": "sha256",
+      "size_bytes": 574,
+      "last_modified": "2024-10-22T20:52:44.391846",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_exosuit\\Animations\\Husk_exosuitSwimSlow.xml": {
+      "checksum": "1de480aa78ee1281ef0dca03ec86f5e111b3e250777fe0fe5812e37b84e4a6dc",
+      "algorithm": "sha256",
+      "size_bytes": 579,
+      "last_modified": "2024-10-22T20:52:43.315875",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_exosuit\\Animations\\Husk_exosuitWalk.xml": {
+      "checksum": "786e440af6ecdd9bbda8c40633c9dee8967ada1a22c246d15b32687be63c5edb",
+      "algorithm": "sha256",
+      "size_bytes": 1253,
+      "last_modified": "2024-10-22T20:52:43.738257",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_exosuit\\Husk_exosuit.xml": {
+      "checksum": "b233ae73bb26e24143547e245c66d3c762f4e6cdab8f4fdc833a76c404a53fa0",
+      "algorithm": "sha256",
+      "size_bytes": 12856,
+      "last_modified": "2025-04-26T21:59:11.587917",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_exosuit\\Ragdolls\\Husk_exosuitRagdoll.xml": {
+      "checksum": "e923e72d1d62b0b585856ff3d90fd8c9160abd645d5e51c4c499477b8931ff9c",
+      "algorithm": "sha256",
+      "size_bytes": 62666,
+      "last_modified": "2024-10-22T20:52:44.396651",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_prowler\\Animations\\Husk_prowlerRun.xml": {
+      "checksum": "1eddbf4b9dc6b78b63e74d0ecd8b5f9a3c050cc2720d930d066c126c40db1396",
+      "algorithm": "sha256",
+      "size_bytes": 1494,
+      "last_modified": "2024-10-22T20:52:43.311352",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_prowler\\Animations\\Husk_prowlerSwimFast.xml": {
+      "checksum": "d428c14bae5556935ae5ebb37149c97a06391f98f6ef2a5d2dba1247b5a7131e",
+      "algorithm": "sha256",
+      "size_bytes": 888,
+      "last_modified": "2024-10-22T20:52:46.532223",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_prowler\\Animations\\Husk_prowlerSwimSlow.xml": {
+      "checksum": "7cb8c73417909caedffc3b22938fd43ac8767995f828a6d776c688956256a66f",
+      "algorithm": "sha256",
+      "size_bytes": 886,
+      "last_modified": "2024-10-22T20:52:44.135393",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_prowler\\Animations\\Husk_prowlerWalk.xml": {
+      "checksum": "bd6b2dce684fc5f33afd2dcc41528d9eed2ea20eca2af31fbca6cc980195aabb",
+      "algorithm": "sha256",
+      "size_bytes": 1517,
+      "last_modified": "2024-10-22T20:52:44.392020",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_prowler\\Husk_prowler.xml": {
+      "checksum": "944db32af4dbb5b68bbbab4c3e6f0b282336d61d4ebf9564e3e1065c15fd4aa6",
+      "algorithm": "sha256",
+      "size_bytes": 13985,
+      "last_modified": "2025-04-26T21:59:11.599583",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Husk_prowler\\Ragdolls\\Husk_prowlerRagdoll.xml": {
+      "checksum": "6f8147562336ba1263c5a5293d9ec3ca94986cb93ac1656dff80a030870e1d4a",
+      "algorithm": "sha256",
+      "size_bytes": 50398,
+      "last_modified": "2024-10-22T20:52:44.130510",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Huskcontainer\\Animations\\HuskcontainerRun.xml": {
+      "checksum": "1f56f0dc5f263a01b08eb5a923176666f09bf149e7f641e9c9ba2e831964feae",
+      "algorithm": "sha256",
+      "size_bytes": 841,
+      "last_modified": "2024-10-22T20:52:43.247516",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Huskcontainer\\Animations\\HuskcontainerSwimFast.xml": {
+      "checksum": "e72e1dfe0aa10a507c6c7d1d36e24253fb433e8a0b34ea9770c044e29040ad0e",
+      "algorithm": "sha256",
+      "size_bytes": 601,
+      "last_modified": "2024-10-22T20:52:44.272253",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Huskcontainer\\Animations\\HuskcontainerSwimSlow.xml": {
+      "checksum": "3f27566aa93e3962e7a79725dac5dc92f4e73eb9b616658396e1ac9a31557f29",
+      "algorithm": "sha256",
+      "size_bytes": 608,
+      "last_modified": "2024-10-22T20:52:44.377206",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Huskcontainer\\Animations\\HuskcontainerWalk.xml": {
+      "checksum": "5f2ea7f4006f539bf3e0b29ad77928917086dfeada0fe6381b866e16c1004879",
+      "algorithm": "sha256",
+      "size_bytes": 845,
+      "last_modified": "2024-10-22T20:52:43.239321",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Huskcontainer\\Huskcontainer.xml": {
+      "checksum": "b3bdf9fee1ab6459b7c0f3033d77b72906c0841af516cbc6c75350e6b0d3f2f5",
+      "algorithm": "sha256",
+      "size_bytes": 7335,
+      "last_modified": "2025-04-26T21:59:11.546155",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Huskcontainer\\Ragdolls\\HuskcontainerDefaultRagdoll.xml": {
+      "checksum": "a65e90c51c21feb7941db65f5abb2772ee378bbe4e5f7e094e64f2582fbc82d0",
+      "algorithm": "sha256",
+      "size_bytes": 16082,
+      "last_modified": "2024-10-22T20:52:43.737529",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Jove\\Animations\\JoveSwimFast.xml": {
+      "checksum": "6039f72bb3befb2e590c57b9df3028c3d06b367847959913ffe13e97502be93d",
+      "algorithm": "sha256",
+      "size_bytes": 579,
+      "last_modified": "2024-10-22T20:52:44.484760",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Jove\\Animations\\JoveSwimSlow.xml": {
+      "checksum": "8ecc4d1ba422efe2df040feddb0143f073f88734350f618d6bc8eebdc881bf88",
+      "algorithm": "sha256",
+      "size_bytes": 583,
+      "last_modified": "2024-10-22T20:52:43.432409",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Jove\\Jove.xml": {
+      "checksum": "160c562be1ab7b3b8c1d2172b26dfa7d959663e29f541b2c9ef6e3e06c1d9c1c",
+      "algorithm": "sha256",
+      "size_bytes": 8925,
+      "last_modified": "2024-10-22T20:52:49.700070",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Jove\\Ragdolls\\JoveDefaultRagdoll.xml": {
+      "checksum": "edd5acf6ebf1652f00c371fe4d52df35f6054c3a024e2aa62bf8fdfe6b0f796d",
+      "algorithm": "sha256",
+      "size_bytes": 58713,
+      "last_modified": "2024-10-22T20:52:43.736804",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Jove\\Ragdolls\\JoveDefaultRagdoll_nondeformed.xml": {
+      "checksum": "0934a456ff91705e394711453613479a06c79d11a25d90c6f63ef5e85f988437",
+      "algorithm": "sha256",
+      "size_bytes": 55162,
+      "last_modified": "2024-10-22T20:52:44.510478",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Latcher\\Animations\\LatcherSwimFast.xml": {
+      "checksum": "769e994fd970f8621874a185cdbb347090974772ad8a415ea7b25acb68a0df54",
+      "algorithm": "sha256",
+      "size_bytes": 564,
+      "last_modified": "2022-08-28T22:53:00.693671",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Latcher\\Animations\\LatcherSwimSlow.xml": {
+      "checksum": "a7e55983694de9ad45fbf8fd60d391796db0a3ea6fffd9fb0b3c56af3a99e48a",
+      "algorithm": "sha256",
+      "size_bytes": 560,
+      "last_modified": "2022-08-28T22:53:00.692671",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Latcher\\Latcher.xml": {
+      "checksum": "6d44d76eb246395ced0737ce8b219979e584ae8a38ee0796901ed77aff66b2ee",
+      "algorithm": "sha256",
+      "size_bytes": 9726,
+      "last_modified": "2024-10-22T20:52:43.733190",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Latcher\\Ragdolls\\LatcherDefaultRagdoll.xml": {
+      "checksum": "b2b32b467f5097339799df5e26d52cba102e58e202adcc069961af9648ffcf40",
+      "algorithm": "sha256",
+      "size_bytes": 115396,
+      "last_modified": "2024-10-22T20:52:51.697155",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycharybdis\\Animations\\LegacycharybdisSwimFast.xml": {
+      "checksum": "804980e2e062f0e35bebcc8b45ba66e1c98ac53f3441d364927a37cec6615aa5",
+      "algorithm": "sha256",
+      "size_bytes": 374,
+      "last_modified": "2022-08-28T22:53:00.976587",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycharybdis\\Animations\\LegacycharybdisSwimSlow.xml": {
+      "checksum": "094b2217c1360d4287e045b7456566f62820b54d229966d4c715c6005d1a4592",
+      "algorithm": "sha256",
+      "size_bytes": 374,
+      "last_modified": "2022-08-28T22:53:00.999122",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycharybdis\\Legacycharybdis.xml": {
+      "checksum": "2e56ed0cb7579057870afec304c2193ee66156ea79df962d8744cba4a7737b4f",
+      "algorithm": "sha256",
+      "size_bytes": 1417,
+      "last_modified": "2022-08-28T22:53:00.851701",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycharybdis\\Ragdolls\\LegacycharybdisDefaultRagdoll.xml": {
+      "checksum": "0ed2c9b2688fe2e97efaa5265bec2ee6dcf4e413901a020ae6e86a95334e44ca",
+      "algorithm": "sha256",
+      "size_bytes": 2142,
+      "last_modified": "2022-08-28T22:53:06.480816",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycrawler\\Animations\\LegacycrawlerRun.xml": {
+      "checksum": "9ea5ce191852cfe1b11ca6f3e8d2481038101d758a33f8f9ef2112bf9acdc7dd",
+      "algorithm": "sha256",
+      "size_bytes": 513,
+      "last_modified": "2022-08-28T22:53:00.975586",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycrawler\\Animations\\LegacycrawlerSwimFast.xml": {
+      "checksum": "81d31cbe59dbc7d534bb29cb3fe5e0eac54bf6fa9febd1cf6a7b960ca2c95d71",
+      "algorithm": "sha256",
+      "size_bytes": 454,
+      "last_modified": "2022-08-28T22:53:00.850698",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycrawler\\Animations\\LegacycrawlerSwimSlow.xml": {
+      "checksum": "67f33faefaa158c3c2046cad122572f6a02ccb951de62165add89f1fdffa89c2",
+      "algorithm": "sha256",
+      "size_bytes": 454,
+      "last_modified": "2022-08-28T22:53:01.000124",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycrawler\\Animations\\LegacycrawlerWalk.xml": {
+      "checksum": "77d2ac35e00babae2cff2c5e39a3e81e810c6b51e6043972b5491187555d7e6b",
+      "algorithm": "sha256",
+      "size_bytes": 518,
+      "last_modified": "2022-08-28T22:53:01.010214",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycrawler\\Legacycrawler.xml": {
+      "checksum": "a3c27c98b3a2b673f64593169d598d608a96c4429d9a07e3aea936dea2989479",
+      "algorithm": "sha256",
+      "size_bytes": 2587,
+      "last_modified": "2022-08-28T22:53:02.869384",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacycrawler\\Ragdolls\\LegacycrawlerDefaultRagdoll.xml": {
+      "checksum": "74357953cf1e551fc5ab2ff50b1c1653d77878c835ccd47aa5eae68c5c87efdc",
+      "algorithm": "sha256",
+      "size_bytes": 7406,
+      "last_modified": "2022-08-28T22:53:01.058812",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyendworm\\Animations\\LegacyendwormSwimFast.xml": {
+      "checksum": "7c2a6fe34536747a4b16364ee0d62c879b7937fede50ca9df19ca539e7c8324e",
+      "algorithm": "sha256",
+      "size_bytes": 354,
+      "last_modified": "2022-08-28T22:53:07.060554",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyendworm\\Animations\\LegacyendwormSwimSlow.xml": {
+      "checksum": "7de6188eb3ce2bd3d1aaccf71f0fc077a73761c7fbd94cbdda0b3e6f388095c2",
+      "algorithm": "sha256",
+      "size_bytes": 380,
+      "last_modified": "2022-08-28T22:53:01.060470",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyendworm\\Legacyendworm.xml": {
+      "checksum": "48a362b689063d099f43c43e77c0bf5b5369b8711a55038a81a27b58eb6d96ec",
+      "algorithm": "sha256",
+      "size_bytes": 1825,
+      "last_modified": "2022-08-28T22:53:01.465154",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyendworm\\Ragdolls\\LegacyendwormDefaultRagdoll.xml": {
+      "checksum": "44986f81bb2e52b735bbd947d53cbbccaae39effc645c10f027a1c235b98e98f",
+      "algorithm": "sha256",
+      "size_bytes": 3279,
+      "last_modified": "2022-08-28T22:53:01.490398",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyfractalguardian2\\Animations\\Legacyfractalguardian2SwimFast.xml": {
+      "checksum": "c326d25d282fe7df996ff13447eb12d674accacc7f6306e831817c3579c21486",
+      "algorithm": "sha256",
+      "size_bytes": 363,
+      "last_modified": "2022-08-28T22:53:01.350206",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyfractalguardian2\\Animations\\Legacyfractalguardian2SwimSlow.xml": {
+      "checksum": "837525cb86a17fd78f7eda818c04dbd3e5127d379ddc4a81ee53efb104524d49",
+      "algorithm": "sha256",
+      "size_bytes": 361,
+      "last_modified": "2022-08-28T22:53:01.350206",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyfractalguardian2\\Legacyfractalguardian2.xml": {
+      "checksum": "95df7dfcd430bb5d3403dc24af29d79a7a076112ab616d5128f7ea0fa293121b",
+      "algorithm": "sha256",
+      "size_bytes": 2557,
+      "last_modified": "2022-08-28T22:53:03.526586",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyfractalguardian2\\Ragdolls\\Legacyfractalguardian2DefaultRagdoll.xml": {
+      "checksum": "a7fce571cd93e539f9d00c64f96fbce603eb9d9b2010f7dff80d1cb62a00f6ce",
+      "algorithm": "sha256",
+      "size_bytes": 2469,
+      "last_modified": "2022-08-28T22:53:01.583780",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyfractalguardian\\Animations\\LegacyfractalguardianSwimFast.xml": {
+      "checksum": "bde40303b676eeb7858db192cbe72523f46c9cebac3e954f06e160101af0cbe7",
+      "algorithm": "sha256",
+      "size_bytes": 364,
+      "last_modified": "2022-08-28T22:53:01.583780",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyfractalguardian\\Animations\\LegacyfractalguardianSwimSlow.xml": {
+      "checksum": "9975b759bd42a1b1820b78fe9d5571679516fc16c61d2ef3c718dfa70d36b5c7",
+      "algorithm": "sha256",
+      "size_bytes": 362,
+      "last_modified": "2022-08-28T22:53:01.583780",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyfractalguardian\\Legacyfractalguardian.xml": {
+      "checksum": "5ae91a57c6f080e4d624e3a3c684bcdf408fc1bd32897791fd4da7103dd6cbc9",
+      "algorithm": "sha256",
+      "size_bytes": 2430,
+      "last_modified": "2022-08-28T22:53:01.889259",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyfractalguardian\\Ragdolls\\LegacyfractalguardianDefaultRagdoll.xml": {
+      "checksum": "c7cca10e46a8a59b2a39b8e28ddac0b230e39b2e03d49f4bdf16593cea3743e4",
+      "algorithm": "sha256",
+      "size_bytes": 2705,
+      "last_modified": "2022-08-28T22:53:03.754303",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyhusk\\Animations\\LegacyhuskCrouch.xml": {
+      "checksum": "b043a69e318dfdc96cea93032cf22476f6f3f078d20786e53a3e8ef736edb22f",
+      "algorithm": "sha256",
+      "size_bytes": 893,
+      "last_modified": "2024-10-22T20:52:43.759729",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyhusk\\Animations\\LegacyhuskRun.xml": {
+      "checksum": "1bd1d43f9ea8a17e0f0e6f9fabdece5ed6e76bf36f2f35fd0f2e498f31675672",
+      "algorithm": "sha256",
+      "size_bytes": 731,
+      "last_modified": "2022-08-28T22:53:01.889259",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyhusk\\Animations\\LegacyhuskSwimFast.xml": {
+      "checksum": "e317f27e0e2a70cc435b23bbca09d6df9797853a1e7cb059bff1bf8d2bb69641",
+      "algorithm": "sha256",
+      "size_bytes": 324,
+      "last_modified": "2022-08-28T22:53:09.205225",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyhusk\\Animations\\LegacyhuskSwimSlow.xml": {
+      "checksum": "7773074148f12dc729fad73e2f50101a6378b4bf1b637b1a849270ca14aba96b",
+      "algorithm": "sha256",
+      "size_bytes": 344,
+      "last_modified": "2022-08-28T22:53:03.755303",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyhusk\\Animations\\LegacyhuskWalk.xml": {
+      "checksum": "001376f3b6dc72aeb380f2e62ed499e9281084cf7aa0107b893550ac49491058",
+      "algorithm": "sha256",
+      "size_bytes": 737,
+      "last_modified": "2022-08-28T22:53:09.726747",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyhusk\\Legacyhusk.xml": {
+      "checksum": "1750a37f2e5f629cc5ef82c0dff81bd593547d93a70a91c2064fc19cf6c2f541",
+      "algorithm": "sha256",
+      "size_bytes": 1618,
+      "last_modified": "2022-08-28T22:53:03.809307",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacyhusk\\Ragdolls\\LegacyhuskDefaultRagdoll.xml": {
+      "checksum": "1ae71d2c3b9d44819c60103e2032045878279036675d2828ea55c637cb117f85",
+      "algorithm": "sha256",
+      "size_bytes": 9931,
+      "last_modified": "2022-08-28T22:53:02.042857",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymantis\\Animations\\LegacymantisRun.xml": {
+      "checksum": "a78c22f4bf6dc77db77b8f1a66cbb4dcf51e154effaefc327b8c7134ce6f1a30",
+      "algorithm": "sha256",
+      "size_bytes": 497,
+      "last_modified": "2024-10-22T20:52:50.265417",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymantis\\Animations\\LegacymantisSwimFast.xml": {
+      "checksum": "86e6063ca30c115d79212dba97e8f1e9ff953c4bd954da872888545f3e26b762",
+      "algorithm": "sha256",
+      "size_bytes": 428,
+      "last_modified": "2024-10-22T20:52:51.658323",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymantis\\Animations\\LegacymantisSwimSlow.xml": {
+      "checksum": "bfb0e3a81417f9f06826cf612dd772f84f9c9438ee002969c88cccf5b8c152e6",
+      "algorithm": "sha256",
+      "size_bytes": 431,
+      "last_modified": "2024-10-22T20:52:49.718549",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymantis\\Animations\\LegacymantisWalk.xml": {
+      "checksum": "db1ecd2ec3d67e462955045d8eb5456a90991fc85c58f24568817b15286060f5",
+      "algorithm": "sha256",
+      "size_bytes": 532,
+      "last_modified": "2024-10-22T20:52:49.975536",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymantis\\Legacymantis.xml": {
+      "checksum": "a5a10fd8deb30dd8139a0f6504e631285976207389fdcae5d545808482e74233",
+      "algorithm": "sha256",
+      "size_bytes": 1844,
+      "last_modified": "2024-10-22T20:52:43.767833",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymantis\\Ragdolls\\LegacymantisDefaultRagdoll.xml": {
+      "checksum": "2667188b21a9397cd1aa93202655470d4bff9d265fe02971f0f214b2640ee568",
+      "algorithm": "sha256",
+      "size_bytes": 12592,
+      "last_modified": "2024-10-22T20:52:44.396110",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymoloch\\Animations\\LegacymolochSwimFast.xml": {
+      "checksum": "7e53e7db748a0cd82e3f06d3a9b4c5aaa41d165ccdf093dc6dc618b5b3f273f6",
+      "algorithm": "sha256",
+      "size_bytes": 286,
+      "last_modified": "2022-08-28T22:53:02.042857",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymoloch\\Animations\\LegacymolochSwimSlow.xml": {
+      "checksum": "22664e83be3327d10390f43b22052a2047de7375551f075cd4ff89b7f61c83cc",
+      "algorithm": "sha256",
+      "size_bytes": 286,
+      "last_modified": "2022-08-28T22:53:10.325596",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymoloch\\Legacymoloch.xml": {
+      "checksum": "d3dcb7f828977757c5d31aa7fa233dc2b3eb27a699d36a3be5c3117b35cfad47",
+      "algorithm": "sha256",
+      "size_bytes": 1239,
+      "last_modified": "2022-08-28T22:53:01.945617",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacymoloch\\Ragdolls\\LegacymolochDefaultRagdoll.xml": {
+      "checksum": "9309da94dc6cabbe2c63def2988bffa1c0194570b583ce816e8cce9d00875d8e",
+      "algorithm": "sha256",
+      "size_bytes": 3740,
+      "last_modified": "2022-08-28T22:53:01.940547",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacytigerthresher\\Animations\\LegacytigerthresherSwimFast.xml": {
+      "checksum": "b903b8dae3d9fe7a288c11004fb63d5aaef7933444cc3f13b16d9ee44b02e6bc",
+      "algorithm": "sha256",
+      "size_bytes": 361,
+      "last_modified": "2022-08-28T22:53:01.990742",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacytigerthresher\\Animations\\LegacytigerthresherSwimSlow.xml": {
+      "checksum": "e5633fefb42c12bd6b5133537b866407681d0fd48f40d2a78f91df189b0253a0",
+      "algorithm": "sha256",
+      "size_bytes": 361,
+      "last_modified": "2022-08-28T22:53:03.896249",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacytigerthresher\\Legacytigerthresher.xml": {
+      "checksum": "d4470777e91805dcb28b8b785e33a855880370e0e43392c24b0da27f9639fc37",
+      "algorithm": "sha256",
+      "size_bytes": 1580,
+      "last_modified": "2022-08-28T22:53:03.899250",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacytigerthresher\\Ragdolls\\LegacytigerthresherDefaultRagdoll.xml": {
+      "checksum": "2d52c262d4fa7522d8bc8457baf115816af14bb0f42fedf52f6d400c275b57b5",
+      "algorithm": "sha256",
+      "size_bytes": 6180,
+      "last_modified": "2022-08-28T22:53:10.174613",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacywatcher\\Animations\\LegacywatcherSwimFast.xml": {
+      "checksum": "448e62ec533c9a8d7be8f98b52acb5e63a680df4515cbff7b24d867565d73b4f",
+      "algorithm": "sha256",
+      "size_bytes": 312,
+      "last_modified": "2022-08-28T22:53:04.099736",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacywatcher\\Animations\\LegacywatcherSwimSlow.xml": {
+      "checksum": "a5bcc9519e5a9321b63698196f04afe7db3d25d3240928c44baee044a50161d2",
+      "algorithm": "sha256",
+      "size_bytes": 312,
+      "last_modified": "2022-08-28T22:53:02.209227",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacywatcher\\Legacywatcher.xml": {
+      "checksum": "ca49a50f7253e797e493474b0b623a069ec2e172e2599b4a852437c24ff7cad1",
+      "algorithm": "sha256",
+      "size_bytes": 1961,
+      "last_modified": "2022-08-28T22:53:02.211736",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Legacywatcher\\Ragdolls\\LegacywatcherDefaultRagdoll.xml": {
+      "checksum": "acf1cfd93193940981e49072bd82fc30f3eb1d432d120e9c9f3dee7ebe62cf91",
+      "algorithm": "sha256",
+      "size_bytes": 1714,
+      "last_modified": "2022-08-28T22:53:04.203743",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Leucocyte\\Animations\\LeucocyteSwimFast.xml": {
+      "checksum": "e0125aa7a36a6e0a09148c51b1a87e300bf463c27d418561e82bd648a99f647e",
+      "algorithm": "sha256",
+      "size_bytes": 420,
+      "last_modified": "2022-08-28T22:53:04.269739",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Leucocyte\\Animations\\LeucocyteSwimSlow.xml": {
+      "checksum": "499d43f71c26fd64e577689ea8ad9b5db9c086a701d227e07d876879f2290319",
+      "algorithm": "sha256",
+      "size_bytes": 426,
+      "last_modified": "2022-08-28T22:53:02.268303",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Leucocyte\\Leucocyte.xml": {
+      "checksum": "84c06c15a72e1519944638b2882f1328895953ddb2fead178dd449bd2727ceb7",
+      "algorithm": "sha256",
+      "size_bytes": 3881,
+      "last_modified": "2024-10-22T20:52:50.594393",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Leucocyte\\Ragdolls\\LeucocyteDefaultRagdoll.xml": {
+      "checksum": "eaf607e7dd436313def488c6a083016478d36e2d330eaf01205e7327a89a4db8",
+      "algorithm": "sha256",
+      "size_bytes": 7978,
+      "last_modified": "2024-10-22T20:52:43.764490",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mantis\\Animations\\MantisRun.xml": {
+      "checksum": "6e5473b84021545a085c7831a8dfb07f9018e0d0a7f4a6b8ffffd61628b16fcb",
+      "algorithm": "sha256",
+      "size_bytes": 767,
+      "last_modified": "2024-10-22T20:52:51.714642",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mantis\\Animations\\MantisSwimFast.xml": {
+      "checksum": "bfbc7e489c6c0d284ed09a06d61062ce925368a3eeb5b2c9610a2a26c41fe2a3",
+      "algorithm": "sha256",
+      "size_bytes": 670,
+      "last_modified": "2024-10-22T20:52:50.150984",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mantis\\Animations\\MantisSwimSlow.xml": {
+      "checksum": "f80dd0609325fcc1b70809f9457f3562ef738afe818fc81466ac712ac5f6b59f",
+      "algorithm": "sha256",
+      "size_bytes": 665,
+      "last_modified": "2024-10-22T20:52:44.497820",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mantis\\Animations\\MantisWalk.xml": {
+      "checksum": "3da2d2bd5e0b5cc82b5be942b7782b96eb02641e9c00961f3b94c1c226c1297f",
+      "algorithm": "sha256",
+      "size_bytes": 762,
+      "last_modified": "2024-10-22T20:52:50.773054",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mantis\\Mantis.xml": {
+      "checksum": "87aa868fe4e81ea7997fca4e2d6940235443535a2af7197c2b2ef588e86dea9c",
+      "algorithm": "sha256",
+      "size_bytes": 11263,
+      "last_modified": "2024-10-22T20:52:44.399910",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mantis\\Ragdolls\\MantisDefaultRagdoll.xml": {
+      "checksum": "5ee3d411771e6481024308c5bcf1f714cee42f6d83ed428a98420d2872dcfda3",
+      "algorithm": "sha256",
+      "size_bytes": 48934,
+      "last_modified": "2024-10-22T20:52:49.758807",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Moloch\\Animations\\MolochSwimFast.xml": {
+      "checksum": "a250372b92d687eb22108cca89d66a0f09fc31d0df5ac01f83d60d2f52882575",
+      "algorithm": "sha256",
+      "size_bytes": 487,
+      "last_modified": "2022-08-28T22:53:03.052532",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Moloch\\Animations\\MolochSwimSlow.xml": {
+      "checksum": "0b6542e3c10836a7945889fc226e268d532a5071d470a38f391c7fb1e3b27def",
+      "algorithm": "sha256",
+      "size_bytes": 479,
+      "last_modified": "2022-08-28T22:53:14.440294",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Moloch\\Moloch.xml": {
+      "checksum": "24162aa39967ea50e92208a69deb8a610482425cc567585ee258eaa9e4e13eec",
+      "algorithm": "sha256",
+      "size_bytes": 6080,
+      "last_modified": "2024-10-22T20:52:50.411737",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Moloch\\Ragdolls\\MolochDefaultRagdoll.xml": {
+      "checksum": "80d76f5c1c1bd5aa688c141ad29acac97e8eb26cbd66f0002bcd3f7b83e8b68c",
+      "algorithm": "sha256",
+      "size_bytes": 95503,
+      "last_modified": "2024-10-22T20:52:43.741796",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Molochbaby\\Animations\\MolochbabySwimFast.xml": {
+      "checksum": "58941b331e8fb50c2d13ab9a41152ba8803abb6613ae85744d1521ffb359b87e",
+      "algorithm": "sha256",
+      "size_bytes": 480,
+      "last_modified": "2022-08-28T22:53:04.370389",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Molochbaby\\Animations\\MolochbabySwimSlow.xml": {
+      "checksum": "aafc9da8f43ae38aa8775b8474dbcfe0f28261c0de53326cb50ac17e464b3baf",
+      "algorithm": "sha256",
+      "size_bytes": 482,
+      "last_modified": "2022-08-28T22:53:02.853383",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Molochbaby\\Molochbaby.xml": {
+      "checksum": "927c7d11269070e58f590db4115f85965b2d7120278f9e65a2bd96930bc4dec9",
+      "algorithm": "sha256",
+      "size_bytes": 7699,
+      "last_modified": "2024-10-22T20:52:49.650163",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Molochbaby\\Ragdolls\\MolochbabyDefaultRagdoll.xml": {
+      "checksum": "be97d1f68e96656f0d71ed3ea93aef4e60ec7abc59bd823dda065340afddc820",
+      "algorithm": "sha256",
+      "size_bytes": 4196,
+      "last_modified": "2022-08-28T22:53:04.422920",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Molochblack\\Animations\\MolochblackSwimFast.xml": {
+      "checksum": "b1d60a5e8c383f656ca19a403686820cf7e472410bdf1bebb8809976154786b7",
+      "algorithm": "sha256",
+      "size_bytes": 492,
+      "last_modified": "2022-08-28T22:53:04.532576",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Molochblack\\Animations\\MolochblackSwimSlow.xml": {
+      "checksum": "2158dbd7cbe52defd8ee16fb8a8aebd81c2d274a52a16265c100e8435c381b3b",
+      "algorithm": "sha256",
+      "size_bytes": 484,
+      "last_modified": "2022-08-28T22:53:04.533092",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Molochblack\\Molochblack.xml": {
+      "checksum": "c31c4f756f76df9e4d71a7c175d79cf61d8d1dadbafdc570cb8d05742b8b78e0",
+      "algorithm": "sha256",
+      "size_bytes": 6213,
+      "last_modified": "2024-10-22T20:52:43.767101",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Molochblack\\Ragdolls\\MolochblackDefaultRagdoll.xml": {
+      "checksum": "5740121fd4543c1adc7358b23f3455ab8e5a834c877fff8d224af28f3080a038",
+      "algorithm": "sha256",
+      "size_bytes": 96156,
+      "last_modified": "2024-10-22T20:52:51.719650",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor\\Animations\\MudraptorRun.xml": {
+      "checksum": "52861e7928dca0e264b4cb08d97849d0a7b8b39b654fc216f3e105bf69a3cb21",
+      "algorithm": "sha256",
+      "size_bytes": 730,
+      "last_modified": "2024-10-22T20:52:49.885716",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor\\Animations\\MudraptorSwimFast.xml": {
+      "checksum": "37c7b5632b4a869b8a9d8cb384cf83218ce84872f4044cb31f3a38a7584ff2f3",
+      "algorithm": "sha256",
+      "size_bytes": 591,
+      "last_modified": "2022-08-28T22:53:10.169615",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor\\Animations\\MudraptorSwimSlow.xml": {
+      "checksum": "93bafc835cff9e8921fdb289dd5eefb37021dcf7774ac0cbb195f57a4292318d",
+      "algorithm": "sha256",
+      "size_bytes": 590,
+      "last_modified": "2022-08-28T22:53:16.183616",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor\\Animations\\MudraptorWalk.xml": {
+      "checksum": "e05e706713c081bedc80bc51a4593824077066b07e4ffa6ac352f100a8a947d4",
+      "algorithm": "sha256",
+      "size_bytes": 712,
+      "last_modified": "2024-10-22T20:52:43.716201",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor\\Mudraptor.xml": {
+      "checksum": "cceb4e764bc6c497df4381f452a084709cd86531d732d3a123615fcf8c23838f",
+      "algorithm": "sha256",
+      "size_bytes": 6004,
+      "last_modified": "2024-10-22T20:52:43.741111",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor\\Ragdolls\\MudraptorDefaultRagdoll.xml": {
+      "checksum": "977ac048e7c6e9f12b5140627c1e8369a2843f1002132d5219be8b76edd6abfa",
+      "algorithm": "sha256",
+      "size_bytes": 58807,
+      "last_modified": "2024-10-22T20:52:51.637126",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor_unarmored\\Animations\\Mudraptor_unarmoredRun.xml": {
+      "checksum": "1aa1e7d0fe3fbd6cbdefc92a1043e2bf58424b1696ab76a291bc836896c24194",
+      "algorithm": "sha256",
+      "size_bytes": 750,
+      "last_modified": "2024-10-22T20:52:51.736011",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor_unarmored\\Animations\\Mudraptor_unarmoredSwimFast.xml": {
+      "checksum": "37fae07fd6c228174568b62398e96ea84a9f4bc118e524f1001d521b060691f0",
+      "algorithm": "sha256",
+      "size_bytes": 620,
+      "last_modified": "2022-08-28T22:53:03.263150",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor_unarmored\\Animations\\Mudraptor_unarmoredSwimSlow.xml": {
+      "checksum": "310ea752e49b4c8f3e85adb0d1085ac51915e6195aa0d832d254e170b204ee5b",
+      "algorithm": "sha256",
+      "size_bytes": 619,
+      "last_modified": "2022-08-28T22:53:15.101966",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor_unarmored\\Animations\\Mudraptor_unarmoredWalk.xml": {
+      "checksum": "b9b0ec96f884c7d4aa2035379180500cda818a97233f5ef28a17a5bfea5c33ac",
+      "algorithm": "sha256",
+      "size_bytes": 732,
+      "last_modified": "2024-10-22T20:52:51.661284",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor_unarmored\\Mudraptor_unarmored.xml": {
+      "checksum": "23d623c53d0b4a2ede4385980d458f627c7bdf8566c002624a601b2b3066c114",
+      "algorithm": "sha256",
+      "size_bytes": 5834,
+      "last_modified": "2024-10-22T20:52:43.770235",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Mudraptor_unarmored\\Ragdolls\\Mudraptor_unarmoredDefaultRagdoll.xml": {
+      "checksum": "f94346aba45a4b4be916a9668048f403fd7a3de3ce8bea1e9fbd122c28aa4e0a",
+      "algorithm": "sha256",
+      "size_bytes": 41004,
+      "last_modified": "2024-10-22T20:52:44.497232",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Orangeboy\\Animations\\OrangeboyRun.xml": {
+      "checksum": "3655e17d29b0544147f1269d5274516f0bb6edf1764f6f81d3b8e34c9ed5390a",
+      "algorithm": "sha256",
+      "size_bytes": 725,
+      "last_modified": "2024-10-22T20:52:50.990739",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Orangeboy\\Animations\\OrangeboySwimFast.xml": {
+      "checksum": "04eb26947d7f4e8a81904a09105ec4e9d31b24c8a9144b9ee03da6acd88f048e",
+      "algorithm": "sha256",
+      "size_bytes": 540,
+      "last_modified": "2022-08-28T22:53:05.856556",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Orangeboy\\Animations\\OrangeboySwimSlow.xml": {
+      "checksum": "ff3f02e5c073c52ac66335e96eb9de1e50ee2f0f9f5836751d6546723a40bceb",
+      "algorithm": "sha256",
+      "size_bytes": 543,
+      "last_modified": "2022-08-28T22:53:03.638864",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Orangeboy\\Animations\\OrangeboyWalk.xml": {
+      "checksum": "ae95f438dd721647a32f46c36c9b67493bf7c044f5ebff5604e1c2a79eed4b29",
+      "algorithm": "sha256",
+      "size_bytes": 729,
+      "last_modified": "2024-10-22T20:52:44.432251",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Orangeboy\\Orangeboy.xml": {
+      "checksum": "1a1e5f0eef84ba4caf935dbf4a87a9f675f18827f5dd04a4489791134985efd0",
+      "algorithm": "sha256",
+      "size_bytes": 4585,
+      "last_modified": "2024-10-22T20:52:51.664451",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Orangeboy\\Ragdolls\\OrangeboyDefaultRagdoll.xml": {
+      "checksum": "3f19be861b7b167270f9c2ee1bebf2e3815b59b72868887c67a536f800b559f6",
+      "algorithm": "sha256",
+      "size_bytes": 6766,
+      "last_modified": "2024-10-22T20:52:50.950627",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Peanut\\Animations\\PeanutRun.xml": {
+      "checksum": "edf6f03c6a6e3a718747159f4f74e037bc5f7f51906fc449f8332bdd3e1c8cae",
+      "algorithm": "sha256",
+      "size_bytes": 716,
+      "last_modified": "2024-10-22T20:52:44.433132",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Peanut\\Animations\\PeanutSwimFast.xml": {
+      "checksum": "39253f4c39e11ca11d48d0378ec22f59a9df2317c78eb07a6a6fcff87a3d9a83",
+      "algorithm": "sha256",
+      "size_bytes": 556,
+      "last_modified": "2022-08-28T22:53:03.866858",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Peanut\\Animations\\PeanutSwimSlow.xml": {
+      "checksum": "8adc902479b51e0daabd80390ce43316fcc9d620ec593a26d482be2548a25980",
+      "algorithm": "sha256",
+      "size_bytes": 555,
+      "last_modified": "2022-08-28T22:53:03.867430",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Peanut\\Animations\\PeanutWalk.xml": {
+      "checksum": "18c58e8c07b68c8d9af553914ff2967379e56aedef14a5deaad6524b148475ba",
+      "algorithm": "sha256",
+      "size_bytes": 713,
+      "last_modified": "2024-10-22T20:52:50.554851",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Peanut\\Peanut.xml": {
+      "checksum": "fca27343e24b03542d5cffb159c099b1d9d175f1fed23c1bcbe2790d20d98075",
+      "algorithm": "sha256",
+      "size_bytes": 4305,
+      "last_modified": "2024-10-22T20:52:49.594252",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Peanut\\Ragdolls\\PeanutDefaultRagdoll.xml": {
+      "checksum": "f442552384c27046b3be7afed05873577acc6c9e527a8c58bca318697b59678e",
+      "algorithm": "sha256",
+      "size_bytes": 6705,
+      "last_modified": "2024-10-22T20:52:51.714518",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Portalguardian\\Animations\\PortalguardianSwimFast.xml": {
+      "checksum": "92a4541223d2f4544559b1958eff88b5f6f8f2460ad81cb0152a27d8c01286a1",
+      "algorithm": "sha256",
+      "size_bytes": 585,
+      "last_modified": "2024-10-22T20:52:43.802715",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Portalguardian\\Animations\\PortalguardianSwimSlow.xml": {
+      "checksum": "07e67b7b88b6c2f4d81975616bba5fd95f857ac070a2a69b001dec9403c4e8e0",
+      "algorithm": "sha256",
+      "size_bytes": 583,
+      "last_modified": "2024-10-22T20:52:43.733935",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Portalguardian\\Portalguardian.xml": {
+      "checksum": "d612b31b795589feedeb0b6b108a2b3ba4664f2330646a1cb6f967c6427b3835",
+      "algorithm": "sha256",
+      "size_bytes": 12016,
+      "last_modified": "2024-10-22T20:52:44.397401",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Portalguardian\\Ragdolls\\PortalguardianDefaultRagdoll.xml": {
+      "checksum": "4432215994f47ba02a615411f61a89124e5b85a56e1655fb87e38f49fb718e8c",
+      "algorithm": "sha256",
+      "size_bytes": 33348,
+      "last_modified": "2024-10-22T20:52:43.715045",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Psilotoad\\Animations\\PsilotoadRun.xml": {
+      "checksum": "1e3f9f036346893a8176351b2709efc5fecab5099f63f476b2aff8b6cac78552",
+      "algorithm": "sha256",
+      "size_bytes": 719,
+      "last_modified": "2024-10-22T20:52:43.768399",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Psilotoad\\Animations\\PsilotoadSwimFast.xml": {
+      "checksum": "6ae204ff7175cfab437331dc6104a2bc3deefd430ede343c82153e1beab593db",
+      "algorithm": "sha256",
+      "size_bytes": 560,
+      "last_modified": "2022-08-28T22:53:03.638864",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Psilotoad\\Animations\\PsilotoadSwimSlow.xml": {
+      "checksum": "fbfb73c682bb27c11acb04bcc3ba6c252483f2f0d7729d726a3afb88c232f5bf",
+      "algorithm": "sha256",
+      "size_bytes": 562,
+      "last_modified": "2022-08-28T22:53:15.257723",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Psilotoad\\Animations\\PsilotoadWalk.xml": {
+      "checksum": "178b6008e1eb8184c38bf82f6bbf5e9e8f27fd3f8f62be7de3e37a9ddfc5f591",
+      "algorithm": "sha256",
+      "size_bytes": 716,
+      "last_modified": "2024-10-22T20:52:51.614742",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Psilotoad\\Psilotoad.xml": {
+      "checksum": "a1d50ab00cba464b66d665e216964d6f83d9f0bddcca2b2a471ac19b58d3be0a",
+      "algorithm": "sha256",
+      "size_bytes": 4494,
+      "last_modified": "2024-10-22T20:52:43.760023",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Psilotoad\\Ragdolls\\PsilotoadDefaultRagdoll.xml": {
+      "checksum": "adf6392d3976ca6a79c59fee95008abc92cf81c016cdca04349284175bf0a8ac",
+      "algorithm": "sha256",
+      "size_bytes": 6754,
+      "last_modified": "2024-10-22T20:52:44.524633",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling\\Animations\\SpinelingSwimFast.xml": {
+      "checksum": "a6f01d93e8ecb8f1ef70c3b0248ce86bd56e1dbc48a20ce16a3738474d4f03c4",
+      "algorithm": "sha256",
+      "size_bytes": 524,
+      "last_modified": "2022-08-28T22:53:15.383911",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling\\Animations\\SpinelingSwimSlow.xml": {
+      "checksum": "828229ae2ad1ae01a59d151d07ff164de1c9f9e91469de3595a20bf997fe875d",
+      "algorithm": "sha256",
+      "size_bytes": 515,
+      "last_modified": "2022-08-28T22:53:08.368601",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling\\Ragdolls\\SpinelingDefaultRagdoll.xml": {
+      "checksum": "820cfae6aa9af278e4cb93093c2e88a0b9928e557dcc47bfe6964a065d028264",
+      "algorithm": "sha256",
+      "size_bytes": 47408,
+      "last_modified": "2024-10-22T20:52:51.658874",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling\\Spineling.xml": {
+      "checksum": "7e288e260d93f19c2730c1f3e3b4096e2cd27ef1ac4f6e0e5736e83558ac3b58",
+      "algorithm": "sha256",
+      "size_bytes": 7700,
+      "last_modified": "2024-10-22T20:52:51.728372",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling_giant\\Animations\\Spineling_giantSwimFast.xml": {
+      "checksum": "4a98692dc22795c6ccd60798fbeb49c89932260401e77b5433384cc882ac7322",
+      "algorithm": "sha256",
+      "size_bytes": 598,
+      "last_modified": "2022-08-28T22:53:08.419859",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling_giant\\Animations\\Spineling_giantSwimSlow.xml": {
+      "checksum": "45d58ce053d1835f9b7b45f56389a2521156a48f08648f9d0e90c28fba73105a",
+      "algorithm": "sha256",
+      "size_bytes": 591,
+      "last_modified": "2022-08-28T22:53:08.531367",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling_giant\\Ragdolls\\Spineling_giantDefaultRagdoll.xml": {
+      "checksum": "4a6bc4327b0d36242bb121b742b439912ace3b48ba5c288bb8a142359bcd0d63",
+      "algorithm": "sha256",
+      "size_bytes": 49726,
+      "last_modified": "2024-10-22T20:52:51.664281",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling_giant\\Spineling_giant.xml": {
+      "checksum": "e18d6adc0db064d05cbfbd1651ba7d5f959ae990b623508e5b71b15d2a840c3c",
+      "algorithm": "sha256",
+      "size_bytes": 10519,
+      "last_modified": "2024-10-22T20:52:43.740421",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling_morbusine\\Spineling_morbusine.xml": {
+      "checksum": "e0bab47deec6ea612db334a0586d560f6c9191a38848f8dfd7b4e2b660096427",
+      "algorithm": "sha256",
+      "size_bytes": 12912,
+      "last_modified": "2024-10-22T20:52:44.410788",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Spineling_morbusine\\Spineling_morbusine_ragdoll.xml": {
+      "checksum": "fbd80fa93586fce5e7ad65c037f71871cd914838d8f346a6a51733b9dec535ba",
+      "algorithm": "sha256",
+      "size_bytes": 57495,
+      "last_modified": "2024-10-22T20:52:44.507634",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Swarmfeeder\\Animations\\SwarmfeederRun.xml": {
+      "checksum": "9707c15d57ab590ae360eb2c9700f8d4c2cae2077da04fd0506c4ee7e2e41e11",
+      "algorithm": "sha256",
+      "size_bytes": 717,
+      "last_modified": "2024-10-22T20:52:43.763531",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Swarmfeeder\\Animations\\SwarmfeederSwimFast.xml": {
+      "checksum": "126c79dc3e3e5d5553550071a6e2c649230ad2ee21acfa0805de5813dd887ba3",
+      "algorithm": "sha256",
+      "size_bytes": 572,
+      "last_modified": "2022-08-28T22:53:04.531572",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Swarmfeeder\\Animations\\SwarmfeederSwimSlow.xml": {
+      "checksum": "9fa4b5ac84ca3fe523ce5f071ff8b80cea15f728c551398f8ff8b16cfe5d9aa2",
+      "algorithm": "sha256",
+      "size_bytes": 574,
+      "last_modified": "2022-08-28T22:53:04.049420",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Swarmfeeder\\Animations\\SwarmfeederWalk.xml": {
+      "checksum": "d8648a0fd2b44d46fd3c881d05b8623390f70ab2eae521a97ab856a1b5d1abab",
+      "algorithm": "sha256",
+      "size_bytes": 701,
+      "last_modified": "2024-10-22T20:52:44.408193",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Swarmfeeder\\Ragdolls\\SwarmfeederDefaultRagdoll.xml": {
+      "checksum": "f7dc2d5a65eb14c1fea3e3b4ef9530dca284eb0266cbfd27b6ae37b9e4fd1587",
+      "algorithm": "sha256",
+      "size_bytes": 11084,
+      "last_modified": "2022-08-28T22:53:08.988730",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Swarmfeeder\\Swarmfeeder.xml": {
+      "checksum": "7bb44fcef20246219a8c025f22325e2bc83834c190e2bd7a283599b44b934f20",
+      "algorithm": "sha256",
+      "size_bytes": 8397,
+      "last_modified": "2024-10-22T20:52:44.413832",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Terminalcell\\Animations\\TerminalcellSwimFast.xml": {
+      "checksum": "d417015be199b4e56d83b25493654bd7da017d81180df0b0d7dba1d75fdbe3b5",
+      "algorithm": "sha256",
+      "size_bytes": 446,
+      "last_modified": "2022-08-28T22:53:04.099736",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Terminalcell\\Animations\\TerminalcellSwimSlow.xml": {
+      "checksum": "479be6f48439b46ffde449de160d6b50d0a90ff2f87febe3ebb922d1a8a4928e",
+      "algorithm": "sha256",
+      "size_bytes": 452,
+      "last_modified": "2022-08-28T22:53:04.198741",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Terminalcell\\Ragdolls\\TerminalcellDefaultRagdoll.xml": {
+      "checksum": "3772d3165f4a296bae6fbd685f08f6061b18d3beb21d27c30a3ed816dd80f9ad",
+      "algorithm": "sha256",
+      "size_bytes": 6758,
+      "last_modified": "2024-10-22T20:52:44.392517",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Terminalcell\\Terminalcell.xml": {
+      "checksum": "8b86ed091e797ebdbfbf8a4f2bde928ceee2cd23dedf1f1e73c306ed268561bb",
+      "algorithm": "sha256",
+      "size_bytes": 4318,
+      "last_modified": "2024-10-22T20:52:51.107093",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Tigerthresher\\Animations\\TigerthresherSwimFast.xml": {
+      "checksum": "9eedcf8e382433caabf5f6cc10766d032a5f5ecbf3425a330d3dd4538a8c7cbe",
+      "algorithm": "sha256",
+      "size_bytes": 502,
+      "last_modified": "2022-08-28T22:53:04.201743",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Tigerthresher\\Animations\\TigerthresherSwimSlow.xml": {
+      "checksum": "ec16f5d627f2678ef75a587386a4eaa28f7d2592cd3c688c82e7a6512fd1e996",
+      "algorithm": "sha256",
+      "size_bytes": 501,
+      "last_modified": "2022-08-28T22:53:04.267734",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Tigerthresher\\Ragdolls\\TigerthresherDefaultRagdoll.xml": {
+      "checksum": "982ba67c2ac36dcee3f8b27316045a294866026f2f5f375452bd4045b3cd0ae7",
+      "algorithm": "sha256",
+      "size_bytes": 25307,
+      "last_modified": "2024-10-22T20:52:44.620068",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Tigerthresher\\Tigerthresher.xml": {
+      "checksum": "33fed22829bc3e1cdd5611ea843fab93332d8da873a343b7a5748817580ec005",
+      "algorithm": "sha256",
+      "size_bytes": 6269,
+      "last_modified": "2024-10-22T20:52:50.583686",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Crawler_hatchling\\Animations\\Crawler_hatchlingRun.xml": {
+      "checksum": "88992a889009fdaf11e02a26e1acf260119a5b435b5b177cf1ef577b14444b9d",
+      "algorithm": "sha256",
+      "size_bytes": 713,
+      "last_modified": "2024-10-22T20:52:50.597835",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Crawler_hatchling\\Animations\\Crawler_hatchlingSwimFast.xml": {
+      "checksum": "b4458a664840e4bfd6d3a65141902a96b05c2ab6fc0f92c13c24871e235aecc6",
+      "algorithm": "sha256",
+      "size_bytes": 549,
+      "last_modified": "2022-08-28T22:53:15.800517",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Crawler_hatchling\\Animations\\Crawler_hatchlingSwimSlow.xml": {
+      "checksum": "074d9614ec86b4213980642eed8ab64deb4975747150e03480d5b38fe66bb67e",
+      "algorithm": "sha256",
+      "size_bytes": 554,
+      "last_modified": "2022-08-28T22:53:04.370389",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Crawler_hatchling\\Animations\\Crawler_hatchlingWalk.xml": {
+      "checksum": "dfe4a3b79e4400391c2a708b75eb6c3e31d43a9abb24f10f9c5158a4ebde3630",
+      "algorithm": "sha256",
+      "size_bytes": 732,
+      "last_modified": "2024-10-22T20:52:51.692894",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Crawler_hatchling\\Crawler_hatchling.xml": {
+      "checksum": "2b795e330aa515fdb9a295b930d4e01f2fd007e9b44f97bf7e02ca19319fc273",
+      "algorithm": "sha256",
+      "size_bytes": 906,
+      "last_modified": "2024-10-22T20:52:44.530919",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Crawler_large.xml": {
+      "checksum": "a4d8ba3fa4cd19a696d6cea672d1b6b79294f6d4ad0e78436569fe7ff7e309f2",
+      "algorithm": "sha256",
+      "size_bytes": 463,
+      "last_modified": "2024-10-22T20:52:50.590398",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Crawlerbroodmother_m.xml": {
+      "checksum": "70a7fbbf177122f49bcd59129c61e57cbab99ae2a807e3f1af4227147714b437",
+      "algorithm": "sha256",
+      "size_bytes": 175,
+      "last_modified": "2022-08-28T22:53:04.370389",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Doomworm.xml": {
+      "checksum": "b2ecb5a4fe5a26e1357e16261d7bbb5313f3d2059c99cd45967d028970625cb9",
+      "algorithm": "sha256",
+      "size_bytes": 349,
+      "last_modified": "2024-10-22T20:52:50.604729",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Fractalguardian3.xml": {
+      "checksum": "aef9fddadb2f181733f8223edcc32443ef7e4403daf2758a711dba3f5fb22de8",
+      "algorithm": "sha256",
+      "size_bytes": 2136,
+      "last_modified": "2024-10-22T20:52:43.714451",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Hammerhead_m.xml": {
+      "checksum": "6fc96bd29ecb8ac0e3cfc5010d8f04c262b88fb22aa4691b946e897c7f8f0510",
+      "algorithm": "sha256",
+      "size_bytes": 173,
+      "last_modified": "2024-10-22T20:52:43.768623",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Hammerhead_mNamed.xml": {
+      "checksum": "a4e54b0b38f021c6f81e050cfc42bacd5e8ed47a11f8ef41afdac6bc68cf58ea",
+      "algorithm": "sha256",
+      "size_bytes": 319,
+      "last_modified": "2025-04-26T21:59:11.579452",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Hammerheadgold_m.xml": {
+      "checksum": "661a431e1265d88c3efa370c656f73321132800b8c1babf59e5679f16b50264f",
+      "algorithm": "sha256",
+      "size_bytes": 185,
+      "last_modified": "2024-10-22T20:52:44.429107",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Moloch_m.xml": {
+      "checksum": "522da056f0abbf3f7f720f658ce4acfeeaa21ed5b078e720055034b23521a001",
+      "algorithm": "sha256",
+      "size_bytes": 342,
+      "last_modified": "2022-08-28T22:53:04.478643",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Molochblack_m.xml": {
+      "checksum": "cce7e564890a0fa6033dcb7524cc820d0ef4e5cc951969ff5e6e27aa4310c8a1",
+      "algorithm": "sha256",
+      "size_bytes": 357,
+      "last_modified": "2022-08-28T22:53:04.375926",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_hatchling\\Animations\\Mudraptor_hatchlingRun.xml": {
+      "checksum": "035a0f60281e2efbae74e9945f97c6ef42779ce92f8bfbd6b101328cf2a5d305",
+      "algorithm": "sha256",
+      "size_bytes": 749,
+      "last_modified": "2024-10-22T20:52:47.568054",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_hatchling\\Animations\\Mudraptor_hatchlingSwimFast.xml": {
+      "checksum": "a9e4c3b11ace976637be92ee4a77ac17ee0dd35bc15bd9ef440bcc803d7b362f",
+      "algorithm": "sha256",
+      "size_bytes": 627,
+      "last_modified": "2022-08-28T22:53:05.118288",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_hatchling\\Animations\\Mudraptor_hatchlingSwimSlow.xml": {
+      "checksum": "65edd0272fe50457804a814a2c9d7aa6f95407318f6495a389fe4eddc5b0eb3a",
+      "algorithm": "sha256",
+      "size_bytes": 619,
+      "last_modified": "2022-08-28T22:53:05.371315",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_hatchling\\Animations\\Mudraptor_hatchlingWalk.xml": {
+      "checksum": "2d3799e374b522742761eaa3c240a3089b7c43058b70ca083bad0bd11e910e77",
+      "algorithm": "sha256",
+      "size_bytes": 737,
+      "last_modified": "2024-10-22T20:52:43.806473",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_hatchling\\Mudraptor_hatchling.xml": {
+      "checksum": "01e9586b82a2f28e14161fd4521c7dbc0165839b35e6bef90abc50544a80ed3c",
+      "algorithm": "sha256",
+      "size_bytes": 565,
+      "last_modified": "2024-10-22T20:52:51.751779",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_passive.xml": {
+      "checksum": "23089551fa78baaa2a6d7a53ee1a395770cb7699adb7503062327b9c6416e08c",
+      "algorithm": "sha256",
+      "size_bytes": 361,
+      "last_modified": "2022-08-28T22:53:10.168615",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_pet\\Animations\\Mudraptor_petRun.xml": {
+      "checksum": "f9241789f57244fa61acc03822418e27c35c325e0f768990b38beaae3abf3980",
+      "algorithm": "sha256",
+      "size_bytes": 772,
+      "last_modified": "2024-10-22T20:52:43.814593",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_pet\\Animations\\Mudraptor_petSwimFast.xml": {
+      "checksum": "b48c7181b391993622b5eaac12aaf97ddf4a9887545ab801e666212204f63483",
+      "algorithm": "sha256",
+      "size_bytes": 653,
+      "last_modified": "2024-10-22T20:52:43.815396",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_pet\\Animations\\Mudraptor_petSwimSlow.xml": {
+      "checksum": "73668feefa8850f96655b7ae17798eb950e32e3351ab60baf0ce2d47835e83f5",
+      "algorithm": "sha256",
+      "size_bytes": 663,
+      "last_modified": "2024-10-22T20:52:43.819839",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_pet\\Animations\\Mudraptor_petWalk.xml": {
+      "checksum": "341bc4939e8080535a7a1009c664656baf6c5a34f71742641c7e36848f1488fc",
+      "algorithm": "sha256",
+      "size_bytes": 774,
+      "last_modified": "2024-10-22T20:52:43.821089",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_pet\\Mudraptor_pet.xml": {
+      "checksum": "3b968bfe0c6f60878b0dedb5f6cc446b0182d0e9a74b58b3041b3901e7aca341",
+      "algorithm": "sha256",
+      "size_bytes": 4315,
+      "last_modified": "2024-12-11T14:53:09.608188",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_veteran\\Animations\\Mudraptor_veteranRun.xml": {
+      "checksum": "3ea46e7e751d2b69565ed07883558d5dc0ffe5fb8cea0dc70d4eec2d5bbeddf6",
+      "algorithm": "sha256",
+      "size_bytes": 768,
+      "last_modified": "2024-10-22T20:52:44.509724",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_veteran\\Animations\\Mudraptor_veteranSwimFast.xml": {
+      "checksum": "37c7b5632b4a869b8a9d8cb384cf83218ce84872f4044cb31f3a38a7584ff2f3",
+      "algorithm": "sha256",
+      "size_bytes": 591,
+      "last_modified": "2022-08-28T22:53:10.170614",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_veteran\\Animations\\Mudraptor_veteranSwimSlow.xml": {
+      "checksum": "93bafc835cff9e8921fdb289dd5eefb37021dcf7774ac0cbb195f57a4292318d",
+      "algorithm": "sha256",
+      "size_bytes": 590,
+      "last_modified": "2022-08-28T22:53:16.183616",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_veteran\\Animations\\Mudraptor_veteranWalk.xml": {
+      "checksum": "97e7ad37c327d5517bc588bcc306ed7b0c66410d1fe6a274d0004ce38eb00a24",
+      "algorithm": "sha256",
+      "size_bytes": 760,
+      "last_modified": "2024-10-22T20:52:44.511032",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Mudraptor_veteran\\Mudraptor_veteran.xml": {
+      "checksum": "b9773a39b81223158efab8f730203da7a3d7ca6449d2ff45b36a2e1c155f03ec",
+      "algorithm": "sha256",
+      "size_bytes": 682,
+      "last_modified": "2024-10-22T20:52:43.854977",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Tigerthresher_hatchling\\Animations\\Tigerthresher_hatchlingSwimFast.xml": {
+      "checksum": "7f9f2f91605ed92ce510b053b4f9c755f0fffbcf3ab67ecd1e33a68579358260",
+      "algorithm": "sha256",
+      "size_bytes": 515,
+      "last_modified": "2022-08-28T22:53:04.531572",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Tigerthresher_hatchling\\Animations\\Tigerthresher_hatchlingSwimSlow.xml": {
+      "checksum": "9c5fdf35322dd155742e5d93733fd927853a20c3bf1e30e7357c685b24643ddd",
+      "algorithm": "sha256",
+      "size_bytes": 514,
+      "last_modified": "2022-08-28T22:53:04.533092",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Variants\\Tigerthresher_hatchling\\Tigerthresher_hatchling.xml": {
+      "checksum": "6076ec0a817d273909fe95f745f1b1c8498260899f918e0aff6abe60457959af",
+      "algorithm": "sha256",
+      "size_bytes": 555,
+      "last_modified": "2024-10-22T20:52:44.496183",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Watcher\\Animations\\WatcherSwimFast.xml": {
+      "checksum": "ce7f3c115712f9bd4b17d1678ea38aac403ac9473a7af296635353581fb68a0a",
+      "algorithm": "sha256",
+      "size_bytes": 506,
+      "last_modified": "2022-08-28T22:53:10.173615",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Watcher\\Animations\\WatcherSwimSlow.xml": {
+      "checksum": "e78575527cc9b623f3a01788dda8f37d09b4787b8575c8929de9928e41ca95d3",
+      "algorithm": "sha256",
+      "size_bytes": 510,
+      "last_modified": "2022-08-28T22:53:10.327611",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Watcher\\Ragdolls\\WatcherDefaultRagdoll.xml": {
+      "checksum": "d0b13d8395dc7ff2ad4b7c77b594b447a97704b2b6386e14b415b50523fe893a",
+      "algorithm": "sha256",
+      "size_bytes": 57485,
+      "last_modified": "2022-08-28T22:53:16.549670",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Characters\\Watcher\\Watcher.xml": {
+      "checksum": "5dfdeee2b046793c44d425244f9320f5bb89d8c6bdc6c4d9265e89b1a7846d87",
+      "algorithm": "sha256",
+      "size_bytes": 11103,
+      "last_modified": "2025-04-26T21:59:11.568315",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "ContainerTags.xml": {
+      "checksum": "ff8e0c627f765cc3359208aaf7581121d2b620c134ff02745a97a244fcd4c48b",
+      "algorithm": "sha256",
+      "size_bytes": 8241,
+      "last_modified": "2024-10-22T20:52:50.706732",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "ContentPackages\\Vanilla.xml": {
+      "checksum": "f52e5509911bc5f0cff7a70b43efa64fbc7703888ec6f77f87eaa77de7568198",
+      "algorithm": "sha256",
+      "size_bytes": 37700,
+      "last_modified": "2025-04-30T06:43:51.142858",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "EventManagerSettings.xml": {
+      "checksum": "7a58aee0cf703e91752552a7c9d689a99e644fdd682a8662cfe6ff0de3a5afd6",
+      "algorithm": "sha256",
+      "size_bytes": 2263,
+      "last_modified": "2022-08-28T22:53:16.713811",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\ChainingEvents.xml": {
+      "checksum": "401f2bc4744fff694617a2cf8500a37fdb0a85d5b4e34710401af5857c6b1eed",
+      "algorithm": "sha256",
+      "size_bytes": 64510,
+      "last_modified": "2024-12-11T14:53:09.493914",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\EventSets.xml": {
+      "checksum": "09454993eda3054152b353015dac6445a0e4f3ed90e36b5d679b8a1edf7a3124",
+      "algorithm": "sha256",
+      "size_bytes": 40987,
+      "last_modified": "2025-04-26T21:59:11.605822",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\FactionEvents.xml": {
+      "checksum": "13eb40cc46dd884dedd0f453ff00f8b9506546edc3a9a689e725237b0e0fe774",
+      "algorithm": "sha256",
+      "size_bytes": 176458,
+      "last_modified": "2025-04-26T21:59:11.509240",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\MainStoryEvents.xml": {
+      "checksum": "ea455ad7e64ac293951b01d0c489385dc3632ca755ab3e4e2b36ff444cf835d8",
+      "algorithm": "sha256",
+      "size_bytes": 44210,
+      "last_modified": "2025-04-26T21:59:11.844272",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\MissionEvents.xml": {
+      "checksum": "ce449a6ca9f37282fbd8534752a4c21e7b184459aa6795b028f29f763c461bed",
+      "algorithm": "sha256",
+      "size_bytes": 18996,
+      "last_modified": "2025-04-26T21:59:11.511226",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\OutpostEvents.xml": {
+      "checksum": "de7b9edccda1b29b61871538f79ab56951bbea48201fd23674953b9232f6d188",
+      "algorithm": "sha256",
+      "size_bytes": 143948,
+      "last_modified": "2025-04-26T21:59:11.775300",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\OutpostEventsLegacy.xml": {
+      "checksum": "6b0b3e69d2f3a2cbebe2230df6b622209f0af3d9fd210c25c5d8038c437a0106",
+      "algorithm": "sha256",
+      "size_bytes": 1515,
+      "last_modified": "2022-08-28T22:53:49.493229",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\PvPEvents.xml": {
+      "checksum": "6c64b485d323a4e09765f89aa8a3ec335d7458136414dc8068e21178d5e621f0",
+      "algorithm": "sha256",
+      "size_bytes": 23630,
+      "last_modified": "2025-04-26T21:59:11.733247",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Events\\TraitorEvents.xml": {
+      "checksum": "e4d528749589e3ad78bef24c4c099d4e33dbe4757b0218e69f9ec7ea2227519b",
+      "algorithm": "sha256",
+      "size_bytes": 176066,
+      "last_modified": "2025-04-26T21:59:11.865216",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Alien\\alienitems.xml": {
+      "checksum": "2d651db839037f3bacb968bc6a3959acd317590552661d911fa77657ab60af02",
+      "algorithm": "sha256",
+      "size_bytes": 239353,
+      "last_modified": "2025-04-26T21:59:11.738903",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AirlockDoors.xml": {
+      "checksum": "04f88bbf68fb2383397d4498a3e52aac285416ff86e813b7ad11c00a2ab4fd9d",
+      "algorithm": "sha256",
+      "size_bytes": 13869,
+      "last_modified": "2022-08-28T22:53:14.951371",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AirlockPump.xml": {
+      "checksum": "e4a0771ea83dbfe1fbcf780d04bfc107c59028ef893e930732703cf0db89201f",
+      "algorithm": "sha256",
+      "size_bytes": 7906,
+      "last_modified": "2022-08-28T22:53:19.294204",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienAssemblyDevice.xml": {
+      "checksum": "db19575200901b5a97494235027f64aa2031ad92272bd9ea2943905886939214",
+      "algorithm": "sha256",
+      "size_bytes": 1288,
+      "last_modified": "2025-04-26T21:59:11.957918",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienCellBottom.xml": {
+      "checksum": "f99684c275fb4c212b7f9b72f117c4f6554239cfb7a41b989c7cbbc96fd3e75d",
+      "algorithm": "sha256",
+      "size_bytes": 4071,
+      "last_modified": "2024-10-22T20:52:50.755280",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienCellTop.xml": {
+      "checksum": "75e7dcb3f7729a4cec93adf899eb537a589ff8fbce22fe059970280bf0dd5341",
+      "algorithm": "sha256",
+      "size_bytes": 4086,
+      "last_modified": "2024-10-22T20:52:50.591255",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienChestLarge.xml": {
+      "checksum": "6fb1c844cda555ccb24c7088fee0f8eda8056ce0706b3ca87b42df18f481bf73",
+      "algorithm": "sha256",
+      "size_bytes": 1597,
+      "last_modified": "2022-08-28T22:53:15.049077",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienChestSmall.xml": {
+      "checksum": "7b5d0f96186dccbaa1ea9e93b960ae4eac7d0e63e2a872a21b6b860db8ef1d06",
+      "algorithm": "sha256",
+      "size_bytes": 1596,
+      "last_modified": "2022-08-28T22:53:19.447164",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienCoilAssembly.xml": {
+      "checksum": "a94dc43504033b697d994cecf4fda4662e8dffc5d15dcbe08c57b5ef551b20c5",
+      "algorithm": "sha256",
+      "size_bytes": 16496,
+      "last_modified": "2024-10-22T20:52:43.855298",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienDoorAssembly1.xml": {
+      "checksum": "17f0ad5fd6918b89d63d4d4d4fb296ed30c8d820cc0b6ea909cb47d6c267c3e2",
+      "algorithm": "sha256",
+      "size_bytes": 3771,
+      "last_modified": "2024-10-22T20:52:51.716416",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienDoorAssembly2.xml": {
+      "checksum": "d69e73ac73a8db2051d2ff8bb52d26ba264d86e2614cddde1daa2063d05cf039",
+      "algorithm": "sha256",
+      "size_bytes": 39212,
+      "last_modified": "2024-10-22T20:52:51.759502",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienDoorAssembly5.xml": {
+      "checksum": "0804078efd057d0e14282467d657eebad9c9962ff33d7108dd54fa75d2a045cc",
+      "algorithm": "sha256",
+      "size_bytes": 18332,
+      "last_modified": "2024-10-22T20:52:51.693121",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienDoorw2Terminals.xml": {
+      "checksum": "9a8470d9158a90afc5a40c8fb92291405d044fd37b1796d8617e329529ab1a85",
+      "algorithm": "sha256",
+      "size_bytes": 12739,
+      "last_modified": "2024-10-22T20:52:51.728242",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienDoorwTerminal.xml": {
+      "checksum": "5ad89deb2418897f587b1e634c07aca9e9073ef4e67f071d0466283202f8d761",
+      "algorithm": "sha256",
+      "size_bytes": 11046,
+      "last_modified": "2024-10-22T20:52:51.751643",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienFractalSpawnpoint.xml": {
+      "checksum": "875b783cee1eceb454016d65be8db1e14a6de6ab7b001e77160959d9d9636380",
+      "algorithm": "sha256",
+      "size_bytes": 190,
+      "last_modified": "2022-08-28T22:53:23.981386",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienGeneratorCharged.xml": {
+      "checksum": "5ca62e2c73c354ee0135c412eb57662bd8345a5ddc0205c2fe710036f7033880",
+      "algorithm": "sha256",
+      "size_bytes": 2213,
+      "last_modified": "2024-10-22T20:52:43.858939",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienHatchAssembly.xml": {
+      "checksum": "5fbc9faa4e25dba285595693d2ec2a3e4680bbc3808d5201231b23ec856089c0",
+      "algorithm": "sha256",
+      "size_bytes": 4605,
+      "last_modified": "2024-10-22T20:52:51.710840",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienHatchAssembly2.xml": {
+      "checksum": "00c284cfe6a65f3dd34e8c024d9abc1e3d2c3c334a96443f15d4e6c6e5b1099f",
+      "algorithm": "sha256",
+      "size_bytes": 16583,
+      "last_modified": "2024-10-22T20:52:51.736150",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienHatchw2Terminals.xml": {
+      "checksum": "f253be830ae37326c69993516285667662dbfb0be249a1c3f756057e93693ae0",
+      "algorithm": "sha256",
+      "size_bytes": 12763,
+      "last_modified": "2024-10-22T20:52:51.652982",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienHatchwTerminal.xml": {
+      "checksum": "5610a7b3ce6df639bcb09c97e0d67171c9fd79f833ad26bd8642ec5b97d18f78",
+      "algorithm": "sha256",
+      "size_bytes": 11059,
+      "last_modified": "2024-10-22T20:52:50.883896",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienPumpAssembly.xml": {
+      "checksum": "5ec26f9fd36eed5561542204c60e0cef9c57c76c2bbfa14580fb4d71ccb2086c",
+      "algorithm": "sha256",
+      "size_bytes": 4387,
+      "last_modified": "2024-10-22T20:52:50.965899",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienPumpAssembly1.xml": {
+      "checksum": "eff4b1b9b33ae5a5de768683426452bdff3d6c06c7faceeb89da6f61f78d9502",
+      "algorithm": "sha256",
+      "size_bytes": 18986,
+      "last_modified": "2024-10-22T20:52:49.918222",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienPumpAssembly2.xml": {
+      "checksum": "4e7de57c7f4640db4a6122cc44c3bd9aad6eaf99af282495c852a434301f1ff1",
+      "algorithm": "sha256",
+      "size_bytes": 18125,
+      "last_modified": "2024-10-22T20:52:43.855450",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AlienTurretAssembly.xml": {
+      "checksum": "4b732a1bf8be8a8a2c5d406d00128455fe5922048bae66a30df9db44edbee07e",
+      "algorithm": "sha256",
+      "size_bytes": 14413,
+      "last_modified": "2024-12-11T14:53:08.934901",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AutoAirlockDoors.xml": {
+      "checksum": "caf204a93eab8eea60573e5abbf94ab3c11abf9fb3dd3a9dd3148c089c8baa6d",
+      "algorithm": "sha256",
+      "size_bytes": 19456,
+      "last_modified": "2024-12-11T14:53:08.967700",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AutoBilgePump.xml": {
+      "checksum": "6bd297bd1ff45e24716f38ff8215cb9587f8f11ba7fb68d2700c37261615418f",
+      "algorithm": "sha256",
+      "size_bytes": 6710,
+      "last_modified": "2022-08-28T22:53:11.374727",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AutoDockingHatch.xml": {
+      "checksum": "375fab2dc69fc49da10bd5460d2c943ea06683f10229bcf82b45de0fae903f1b",
+      "algorithm": "sha256",
+      "size_bytes": 45698,
+      "last_modified": "2024-10-22T20:52:43.856778",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AutoDoor.xml": {
+      "checksum": "f2a0813dff9a98d33e95da680302c6537305aedb2349fddc1de9a7ac1bfa5bab",
+      "algorithm": "sha256",
+      "size_bytes": 10573,
+      "last_modified": "2022-08-28T22:53:15.257723",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AutoDoorWindowed.xml": {
+      "checksum": "e14abb17738ffcd5087cff0ad464f7de925a61d0b2356dfe8313b4f7d886ff93",
+      "algorithm": "sha256",
+      "size_bytes": 10627,
+      "last_modified": "2022-08-28T22:53:15.258720",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\AutoHatch.xml": {
+      "checksum": "83bd74c68b1264f0220ac87bde4f6f1451f281db979d9f89e3338859555cc842",
+      "algorithm": "sha256",
+      "size_bytes": 10578,
+      "last_modified": "2024-10-22T20:52:49.919953",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\CurrentGeneratorAssembly.xml": {
+      "checksum": "c4a4ea4a8a3a72f05cfbac2ca1cbb5618f8025450c8ab63de37f4e25cb1dcfa0",
+      "algorithm": "sha256",
+      "size_bytes": 10930,
+      "last_modified": "2024-10-22T20:52:50.772000",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\DivingGearCabinetLarge.xml": {
+      "checksum": "19790303543eed68bd2a73785039444c990fcc759b65d84e8227aba78965c7ba",
+      "algorithm": "sha256",
+      "size_bytes": 39238,
+      "last_modified": "2022-08-28T22:53:19.781963",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\DivingGearCabinetSmall.xml": {
+      "checksum": "847532b67963ed529a1695694ba66189aecb1cc9cc090f06c7842f6762e2d5f7",
+      "algorithm": "sha256",
+      "size_bytes": 18722,
+      "last_modified": "2022-08-28T22:53:15.259232",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\DivingSuitLocker.xml": {
+      "checksum": "f60aa1fd82bae9fbfbff447df5b2cca4b01ed7b5b382859e464b6c083bf35676",
+      "algorithm": "sha256",
+      "size_bytes": 4681,
+      "last_modified": "2022-08-28T22:53:19.918467",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\Door.xml": {
+      "checksum": "419c85a1790226fb8527b22ccfaa500ef2526a0febf30ddb7f0593078210086f",
+      "algorithm": "sha256",
+      "size_bytes": 5069,
+      "last_modified": "2022-08-28T22:53:20.024011",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\GasCloudVent.xml": {
+      "checksum": "03e09ecb7b9a661ebd03d983e757e54c869b1a7ca3fdc8140872534553d35a15",
+      "algorithm": "sha256",
+      "size_bytes": 1025,
+      "last_modified": "2022-08-28T22:53:15.377909",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\GravitySphereAssembly.xml": {
+      "checksum": "f6ab98e4943ab5fd611a517b6d536fcc5c9a00ff1319ad875a5b94d6979624de",
+      "algorithm": "sha256",
+      "size_bytes": 10897,
+      "last_modified": "2024-10-22T20:52:50.954130",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\GravitySphereAssembly2Terminals.xml": {
+      "checksum": "8d5dec5f45f286c37a8931e0051845db12063771655eebc90df643e6c8ff04c6",
+      "algorithm": "sha256",
+      "size_bytes": 12633,
+      "last_modified": "2024-10-22T20:52:51.776649",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\GuardianPodAssembly.xml": {
+      "checksum": "ffc1c0a6ce1d974e805e65d3a677648a35a5890107f5340902923036c33e987d",
+      "algorithm": "sha256",
+      "size_bytes": 10923,
+      "last_modified": "2024-10-22T20:52:49.548998",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\PetSpawnerVent.xml": {
+      "checksum": "5cb6fbd0ef3696612c162dc41ecf2d7db3fedf40b011f21c6c06de903f2147fb",
+      "algorithm": "sha256",
+      "size_bytes": 1028,
+      "last_modified": "2022-08-28T22:53:20.028568",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\RuinAutoDoor.xml": {
+      "checksum": "0e605e5dcdfdcdc518d7d8d7d146843d4d040d4237a6073157574a77d23db778",
+      "algorithm": "sha256",
+      "size_bytes": 11431,
+      "last_modified": "2022-08-28T22:53:20.030096",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\RuinAutoHatch.xml": {
+      "checksum": "0661b2e09932dc8188e6334429a53cad283a5cbbbc71a3c4cc03793f31e71fe1",
+      "algorithm": "sha256",
+      "size_bytes": 11410,
+      "last_modified": "2022-08-28T22:53:24.325249",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\ToxinsGeneratorAssembly.xml": {
+      "checksum": "960f0b0dc0cb22142ed3faf011261cd343f86d3d6a87c6a175e7bda49920b35e",
+      "algorithm": "sha256",
+      "size_bytes": 20957,
+      "last_modified": "2025-04-26T21:59:11.835152",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Assemblies\\WiredSurveillanceSystem.xml": {
+      "checksum": "ae03ecada2bf0c48cbaf85a38c47cad7bc34132be41968fb6589160843582cd1",
+      "algorithm": "sha256",
+      "size_bytes": 17948,
+      "last_modified": "2024-10-22T20:52:51.858138",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Button\\button.xml": {
+      "checksum": "2684670e8d943eff15bb8df697f74d96bd0a2a01838250cccec799df1b612b0e",
+      "algorithm": "sha256",
+      "size_bytes": 7780,
+      "last_modified": "2025-04-26T21:59:11.874146",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Command\\command.xml": {
+      "checksum": "df81fa91d3769894d932c90b87317ceeba4b090c9cfff893c46d222434178ca8",
+      "algorithm": "sha256",
+      "size_bytes": 36374,
+      "last_modified": "2025-04-26T21:59:11.746328",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Containers\\containers.xml": {
+      "checksum": "73c8a5cbab4bd46326d4007df98433c244ea79760cecbd150ec1635d192b10cf",
+      "algorithm": "sha256",
+      "size_bytes": 40665,
+      "last_modified": "2025-04-26T21:59:11.841576",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\CreatureLoot\\creatureloot.xml": {
+      "checksum": "7e21f12840a4d524f28f41d05de93e853c60fb9d799f1e011b8333fa2d32e200",
+      "algorithm": "sha256",
+      "size_bytes": 47489,
+      "last_modified": "2025-04-26T21:59:11.593538",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Diving\\divinggear.xml": {
+      "checksum": "eb889ace7b6252c994ee70de653e70842e9434e4a237c7d576326ceb9d4183ef",
+      "algorithm": "sha256",
+      "size_bytes": 62757,
+      "last_modified": "2025-04-26T21:59:11.900427",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Door\\doors.xml": {
+      "checksum": "848ac6504b15b09f6095c754b276a4513768797e51829f9c10e686f1561ddf85",
+      "algorithm": "sha256",
+      "size_bytes": 34893,
+      "last_modified": "2025-04-26T21:59:11.593369",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Electricity\\lights.xml": {
+      "checksum": "2133ba13bd7c8d772dc017d762eeed94c5b5f811c6ec81268b95fc47375ba459",
+      "algorithm": "sha256",
+      "size_bytes": 44510,
+      "last_modified": "2025-04-26T21:59:11.959251",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Electricity\\poweritems.xml": {
+      "checksum": "01a3799a5815e40f7baaf74a73838cf84e86937c899c8add629fd1c4ee3f51db",
+      "algorithm": "sha256",
+      "size_bytes": 33513,
+      "last_modified": "2024-11-01T11:32:53.891725",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Electricity\\signalitems.xml": {
+      "checksum": "b2aed82fa632d83a10b548d7144a62fe1236d2823d003ceac3b6cabd13d6f1ac",
+      "algorithm": "sha256",
+      "size_bytes": 134777,
+      "last_modified": "2025-04-26T21:59:11.593148",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Engine\\engine.xml": {
+      "checksum": "30e658358748c745a3f591dd9721014a751e1ea75c0df416af191093bb0b5aa3",
+      "algorithm": "sha256",
+      "size_bytes": 17693,
+      "last_modified": "2024-10-22T20:52:50.556026",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Fabricators\\fabricators.xml": {
+      "checksum": "58fd12945b470fea4a566639cb6c9788781ee327109943b52f1ef7f54709162b",
+      "algorithm": "sha256",
+      "size_bytes": 18369,
+      "last_modified": "2025-04-26T21:59:11.768527",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Gardening\\ballastflora.xml": {
+      "checksum": "ac5056f3f42b470a60b125469a81a7bc8894de23f41e79b5d60901515222ff84",
+      "algorithm": "sha256",
+      "size_bytes": 4454,
+      "last_modified": "2024-10-22T20:52:51.906396",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Gardening\\gardeningtools.xml": {
+      "checksum": "0c8baaa4645e61b68117c704b08add3fb7b9fb7b2a20ac6d80493332c3722c9c",
+      "algorithm": "sha256",
+      "size_bytes": 7864,
+      "last_modified": "2025-04-26T21:59:11.898817",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Gardening\\growableplants.xml": {
+      "checksum": "7781a42f3bfbca4247d93d148ac41599b7ce0c7d35b3729d2ae4b14de680d771",
+      "algorithm": "sha256",
+      "size_bytes": 20320,
+      "last_modified": "2025-04-26T21:59:11.903611",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Gardening\\plantproducts.xml": {
+      "checksum": "4c6ca8d9c96a77b5b68239331427e7c495372e985c86b0eb2bb4d5ec60fbfa56",
+      "algorithm": "sha256",
+      "size_bytes": 14607,
+      "last_modified": "2024-10-22T20:52:50.908348",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Genetic\\genetic.xml": {
+      "checksum": "ad86fd12a06c0ac0d00c0a6c931d92357476e8d4da3b330f308e9afa4db613cf",
+      "algorithm": "sha256",
+      "size_bytes": 30147,
+      "last_modified": "2025-04-26T21:59:11.906028",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Assistant\\assistant_gear.xml": {
+      "checksum": "b733f84e0a32990d5278fd23989b9da2ece8a6e0586fa5619a55a323f1959cb4",
+      "algorithm": "sha256",
+      "size_bytes": 4442,
+      "last_modified": "2024-10-22T20:52:51.922528",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Assistant\\assistant_talent_items.xml": {
+      "checksum": "4208fa3705c284a5446f0ee9e97b7968b4cb195e6b314514cfb8c802ed6c037c",
+      "algorithm": "sha256",
+      "size_bytes": 15030,
+      "last_modified": "2024-10-22T20:52:43.856591",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Captain\\captain_gear.xml": {
+      "checksum": "2cb30f23912ec54b834757f90488b65bc8b329313860e48a91552cbb0c97ee54",
+      "algorithm": "sha256",
+      "size_bytes": 32820,
+      "last_modified": "2024-10-22T20:52:51.781293",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Captain\\captain_talent_items.xml": {
+      "checksum": "56937d776ee1a9b3be2d94f9db06f29540bcb7851bacb5511cf545b9dc111372",
+      "algorithm": "sha256",
+      "size_bytes": 17217,
+      "last_modified": "2025-04-26T21:59:11.913381",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Clown\\clown.xml": {
+      "checksum": "6039447f7b2750df97da353edb099f55f9252f91c48839d4473da9bbb75566df",
+      "algorithm": "sha256",
+      "size_bytes": 44145,
+      "last_modified": "2025-04-26T21:59:11.959997",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Commoner\\commoner_gear.xml": {
+      "checksum": "b298752949aff64bb33b1bed855123870465da0a424d59d04f56630febafcf83",
+      "algorithm": "sha256",
+      "size_bytes": 72542,
+      "last_modified": "2024-10-22T20:52:51.917953",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Cultist\\cultist_gear.xml": {
+      "checksum": "02d291044703000b4bb4981abebe05a50b5c3c4d8f659d30c90acd3fd84f6095",
+      "algorithm": "sha256",
+      "size_bytes": 14071,
+      "last_modified": "2024-12-11T14:53:08.907103",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Engineer\\engineer_gear.xml": {
+      "checksum": "902fe704a2038058c0803114cd90845a2a788d1bfb6918e87f37a2f4f184ef48",
+      "algorithm": "sha256",
+      "size_bytes": 17105,
+      "last_modified": "2024-10-22T20:52:51.904197",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Engineer\\engineer_talent_items.xml": {
+      "checksum": "4c14b3403fc079f1ec9229037e84ad31293299da3fc354326d2039af976c60fa",
+      "algorithm": "sha256",
+      "size_bytes": 57582,
+      "last_modified": "2025-04-26T21:59:11.771975",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Mechanic\\mechanic_gear.xml": {
+      "checksum": "af0c0a9765953b947896ea355fb58dde2bad44e93722250ebc26de854c93246f",
+      "algorithm": "sha256",
+      "size_bytes": 18963,
+      "last_modified": "2024-10-22T20:52:47.567845",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Mechanic\\mechanic_talent_items.xml": {
+      "checksum": "a6ca155981a9cc13aaac9397daf25f137cc211e693b21c0c8da5aa8bef28aeb8",
+      "algorithm": "sha256",
+      "size_bytes": 57803,
+      "last_modified": "2024-12-11T14:53:08.940015",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Medic\\medic_gear.xml": {
+      "checksum": "0f89cd1da1e28d1804fd1b5b1c7f31ce94182217fffdbb6161979a3446c91460",
+      "algorithm": "sha256",
+      "size_bytes": 18567,
+      "last_modified": "2024-12-11T14:53:08.938377",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Medic\\medic_talent_items.xml": {
+      "checksum": "07eeacf71ec4343533416aa73347e7ec442057e9e9353af543e49f06b799e41c",
+      "algorithm": "sha256",
+      "size_bytes": 34530,
+      "last_modified": "2025-04-26T21:59:11.954418",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Security\\securityofficer_gear.xml": {
+      "checksum": "9dc57ecad4d5b6aafba3490b08410df594089d4bf77c513fe1befc959c69222a",
+      "algorithm": "sha256",
+      "size_bytes": 40604,
+      "last_modified": "2024-10-22T20:52:52.157157",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Security\\securityofficer_talent_items.xml": {
+      "checksum": "7cf1474981223f49ea6e4f6d6a4fb461ede89ffef51e85078955e85ad649dd27",
+      "algorithm": "sha256",
+      "size_bytes": 40366,
+      "last_modified": "2025-04-26T21:59:11.915799",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\Watchman\\watchman_gear.xml": {
+      "checksum": "ae83e08d7a8f697c37260d5b7a1f79fee53bc2534861aa8fd4d3326f0b39636a",
+      "algorithm": "sha256",
+      "size_bytes": 3453,
+      "last_modified": "2024-10-22T20:52:51.104100",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Jobgear\\misc.xml": {
+      "checksum": "c002e435fa5dc054877cdc25c6c79599ec58b40c64c8c1d22f63a36633b4b404",
+      "algorithm": "sha256",
+      "size_bytes": 3318,
+      "last_modified": "2024-12-11T14:53:09.012265",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Labels\\labels.xml": {
+      "checksum": "872596079bf9faaf10e6f9c540e8cbad58bff0a21732b7137ef32d9ee6f89b2a",
+      "algorithm": "sha256",
+      "size_bytes": 3098,
+      "last_modified": "2024-12-11T14:53:10.371678",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Ladder\\ladder.xml": {
+      "checksum": "9f5842ec61f7ec10d06a7cfbf9b469a11727608caf34ce455bc0046e9f963220",
+      "algorithm": "sha256",
+      "size_bytes": 610,
+      "last_modified": "2022-08-28T22:53:25.792594",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacycommand.xml": {
+      "checksum": "3016be5dce63d864bfee01b6a0352790f1f38e9833f3d03a87552a85c1776c37",
+      "algorithm": "sha256",
+      "size_bytes": 10043,
+      "last_modified": "2024-10-22T20:52:50.932149",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacycontainers.xml": {
+      "checksum": "2af815dde0c44234f48fccdf18af0f8029134216d53ddf21ced5c30f19ce4f07",
+      "algorithm": "sha256",
+      "size_bytes": 1815,
+      "last_modified": "2022-08-28T22:53:25.171910",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacyengine.xml": {
+      "checksum": "67abf995984d13e2a788cfcfec49a495d5e1b3685dd224f7831ede3e790c3ca1",
+      "algorithm": "sha256",
+      "size_bytes": 3494,
+      "last_modified": "2022-08-28T22:53:25.266160",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacyfabricators.xml": {
+      "checksum": "de92dfd49d6424ab31c6cc62435fd58bb834d37ffddead3f0335296094aa091e",
+      "algorithm": "sha256",
+      "size_bytes": 8132,
+      "last_modified": "2024-10-22T20:52:50.935521",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacyoxygengenerator.xml": {
+      "checksum": "76851bce03b3b36d78de19ac89888fc66f6f416874291dd777ac0cbbfb0ad3c5",
+      "algorithm": "sha256",
+      "size_bytes": 2699,
+      "last_modified": "2024-10-22T20:52:44.224719",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacypoweritems.xml": {
+      "checksum": "9c08de0e7040acba32fc32a33b99121126d2a531d3860ece3d5b18de1e305b8a",
+      "algorithm": "sha256",
+      "size_bytes": 2449,
+      "last_modified": "2022-08-28T22:53:28.479146",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacypump.xml": {
+      "checksum": "43928f46b032ff49d38d04a0dfcde805a37c18b2ad65fe887a1650ebbea7f690",
+      "algorithm": "sha256",
+      "size_bytes": 6996,
+      "last_modified": "2024-10-22T20:52:44.274043",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacyrailgun.xml": {
+      "checksum": "deb314ecacccf1e2a4f87acedaa3ab3ef3090841f89e7d749bd9e55ca160c9ad",
+      "algorithm": "sha256",
+      "size_bytes": 16987,
+      "last_modified": "2024-10-22T20:52:49.730251",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Legacy\\legacysearchlight.xml": {
+      "checksum": "8a31520e627897a8734ba37c60aea54b46adb878af8619b2d73c7504afcbeed3",
+      "algorithm": "sha256",
+      "size_bytes": 1794,
+      "last_modified": "2024-10-22T20:52:44.253380",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Materials\\materials.xml": {
+      "checksum": "cf638304c968cf0f645698b5ab68153ecfad62b221b4275a9b45428d4cbbcbea",
+      "algorithm": "sha256",
+      "size_bytes": 62849,
+      "last_modified": "2024-10-22T20:52:52.121879",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Materials\\medmaterials.xml": {
+      "checksum": "05a86dd1698a88350e25c89757768c6895370f519568b3f061129b8b49304a52",
+      "algorithm": "sha256",
+      "size_bytes": 21479,
+      "last_modified": "2024-10-22T20:52:51.910098",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Materials\\minerals.xml": {
+      "checksum": "78a5574e85b879c058ff12f6135a4c8dd618d3796bf5874118d13bd8f8b8414e",
+      "algorithm": "sha256",
+      "size_bytes": 113412,
+      "last_modified": "2024-12-11T14:53:09.492476",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Medical\\buffs.xml": {
+      "checksum": "642f5543aaef79d6f5fcade7b0a8f9229ed150cc1651e13c30cc1a1274469108",
+      "algorithm": "sha256",
+      "size_bytes": 34441,
+      "last_modified": "2025-04-26T21:59:11.743923",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Medical\\medical.xml": {
+      "checksum": "a5d805f79dea0966c23a2ec64e640cd2dbe70b544543149201fdf27bedc00075",
+      "algorithm": "sha256",
+      "size_bytes": 108077,
+      "last_modified": "2025-04-26T21:59:11.748448",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Medical\\poisons.xml": {
+      "checksum": "ddd903ec4173bd5cb751a56269e55436c84c9ac31343e2786812d99f5694672d",
+      "algorithm": "sha256",
+      "size_bytes": 37107,
+      "last_modified": "2025-04-26T21:59:11.945226",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Misc\\misc.xml": {
+      "checksum": "a943b0e361bbdd9f6a9d3557bc55673ce5b259503eff419ed34c1110c7725d99",
+      "algorithm": "sha256",
+      "size_bytes": 13195,
+      "last_modified": "2025-04-26T21:59:11.896837",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Misc\\pvp_items.xml": {
+      "checksum": "a2c6865e2c9f788ccca3e510c74597dfdb35fa52c63e093bc38406c37c7dae0e",
+      "algorithm": "sha256",
+      "size_bytes": 51977,
+      "last_modified": "2025-04-26T21:59:11.774493",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Misc\\traitor_items.xml": {
+      "checksum": "5b35cd93490e4ac8d3e2c806897c1f16308aeb377ae370e9d961b2a465861ef7",
+      "algorithm": "sha256",
+      "size_bytes": 32340,
+      "last_modified": "2025-04-26T21:59:11.607152",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\OxygenGenerator\\oxygengenerator.xml": {
+      "checksum": "ddad7b7bf02e31cea326f9babe4957b6f1883bf591749da7d7aa4f0f44b06348",
+      "algorithm": "sha256",
+      "size_bytes": 17098,
+      "last_modified": "2025-04-26T21:59:11.685472",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Pets\\PetEggs.xml": {
+      "checksum": "43c4bbefb2c48c9d1b7ac296f4efb930bfc82be833503a6f1cd67edc7ca775f9",
+      "algorithm": "sha256",
+      "size_bytes": 10369,
+      "last_modified": "2024-10-22T20:52:50.966068",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Pets\\PetItems.xml": {
+      "checksum": "48c4f742d4fc8eb084aef70fc284aa6dac93427c2c1cd8ba35382cfc08cf5f92",
+      "algorithm": "sha256",
+      "size_bytes": 7571,
+      "last_modified": "2024-10-22T20:52:52.153524",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Pump\\pump.xml": {
+      "checksum": "4fdf25211bb630434d338ddf0699ffef36bacfe6d94840bd34f19d97789cd49a",
+      "algorithm": "sha256",
+      "size_bytes": 11903,
+      "last_modified": "2024-10-22T20:52:51.926824",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Reactor\\reactor.xml": {
+      "checksum": "8b166249e6e97a08cb3d1f91776488f38bd2b0552bc887649acf9a11a9632979",
+      "algorithm": "sha256",
+      "size_bytes": 12328,
+      "last_modified": "2024-10-22T20:52:52.115293",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\SearchLight\\searchlight.xml": {
+      "checksum": "1b020361ec691d2ed2077834d0223319fad44fef19cd2a99983fa620f54d199c",
+      "algorithm": "sha256",
+      "size_bytes": 2060,
+      "last_modified": "2024-10-22T20:52:52.158859",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Shipwrecks\\StructurePrefabsWrecked.xml": {
+      "checksum": "cf8057a6f2aa9c1a3b416708a2a8eea4d306106eba00a9e4f383cf0e33462224",
+      "algorithm": "sha256",
+      "size_bytes": 157656,
+      "last_modified": "2025-04-26T21:59:11.768890",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Shipwrecks\\wreckeditems.xml": {
+      "checksum": "b6ccc064aaaee3d39c02912f67c0100957cf7f8badc084d99584d4108c2a4eaa",
+      "algorithm": "sha256",
+      "size_bytes": 65682,
+      "last_modified": "2025-04-26T21:59:11.736284",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\StartItems.xml": {
+      "checksum": "6b8ec4cb6fbfcdb6c38c9b466cb8ddcda64385499c0dd5dc1bcdb73f35e90483",
+      "algorithm": "sha256",
+      "size_bytes": 4222,
+      "last_modified": "2024-10-22T20:52:44.252658",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Tools\\tools.xml": {
+      "checksum": "e21a8d4623ab4faca630dc2320be85af4c9b5ac5f9ccf41df7611e2f1a060cf5",
+      "algorithm": "sha256",
+      "size_bytes": 113367,
+      "last_modified": "2025-04-26T21:59:11.961357",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\chaingun.xml": {
+      "checksum": "44001bc0d61628c86a897d7ed5e47ee718c01c1c4b5b9c9c187b25ac057454e2",
+      "algorithm": "sha256",
+      "size_bytes": 28579,
+      "last_modified": "2025-04-26T21:59:11.721569",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\coilgun.xml": {
+      "checksum": "d8b6ca3e257c0e70c1839c208b876460784bb0e61a8b6d2348a64a4d98964417",
+      "algorithm": "sha256",
+      "size_bytes": 44163,
+      "last_modified": "2025-04-26T21:59:11.812627",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\depthcharge.xml": {
+      "checksum": "3ee8e5e2c6934b419dc879a7845c755d9e23efbbe943f84223d319178b74ed5c",
+      "algorithm": "sha256",
+      "size_bytes": 30582,
+      "last_modified": "2025-04-26T21:59:11.901484",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\dischargecoil.xml": {
+      "checksum": "d0d13e6127edafcb488106cea6d2163f852cf1231ec1fcb7791fc1995ffee45a",
+      "algorithm": "sha256",
+      "size_bytes": 1726,
+      "last_modified": "2025-04-26T21:59:11.732784",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\explosives.xml": {
+      "checksum": "f57edb1978b34a9163689d41be77de2e46942681e0085580dcc58429c452c4d8",
+      "algorithm": "sha256",
+      "size_bytes": 30516,
+      "last_modified": "2025-04-26T21:59:11.728054",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\flakcannon.xml": {
+      "checksum": "aaceb5a0555d228b66461a19c1152fc11b2a200d68bedb4091c94dfa5e509b88",
+      "algorithm": "sha256",
+      "size_bytes": 53714,
+      "last_modified": "2025-04-26T21:59:11.751624",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\pulselaser.xml": {
+      "checksum": "cc7498b56172b2d3899d3444fe85b05c54a308e00a682b5e8ab8f55d2cfe144c",
+      "algorithm": "sha256",
+      "size_bytes": 23228,
+      "last_modified": "2025-04-26T21:59:11.618238",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\railgun.xml": {
+      "checksum": "13df2033e152832d7a0da84515ec6a6590ff5426fa8bb689b731281c4a974371",
+      "algorithm": "sha256",
+      "size_bytes": 45197,
+      "last_modified": "2025-04-26T21:59:11.774664",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\turrethardpoint.xml": {
+      "checksum": "6e97b3342a77eeda81004731ce240e8d77ff136cc919d05157ee6fe1b81e7ff1",
+      "algorithm": "sha256",
+      "size_bytes": 6299,
+      "last_modified": "2025-04-26T21:59:11.625819",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\Weapons\\weapons.xml": {
+      "checksum": "8679cbd077613e51a8ac5f65511cd6e0582dd62d7b1b69a09c7d23c54762a2a4",
+      "algorithm": "sha256",
+      "size_bytes": 145471,
+      "last_modified": "2025-04-26T21:59:11.814292",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Items\\idcard.xml": {
+      "checksum": "55597ee262486b25f5ccdf6ab64c924e4cccb55527712a2b987020d07f5fefdb",
+      "algorithm": "sha256",
+      "size_bytes": 1254,
+      "last_modified": "2024-10-22T20:52:44.130027",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Jobs.xml": {
+      "checksum": "30e4d2bc8143f608d078efa0a6957239955a222ed33b692a89f298c4c27d580a",
+      "algorithm": "sha256",
+      "size_bytes": 27882,
+      "last_modified": "2025-04-26T21:59:11.508279",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\AphoticPlateau\\AphoticPlateau.xml": {
+      "checksum": "1531ffd81fca01c486117ff3feaff86b7944e5ca964a77da859a9b0392080e57",
+      "algorithm": "sha256",
+      "size_bytes": 19602,
+      "last_modified": "2025-04-26T21:59:11.918982",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\AphoticPlateau\\AphoticPlateauObjects.xml": {
+      "checksum": "0dd3589c807d8c600f5051205788b687a24efb81859cf235ee8f289102a9a464",
+      "algorithm": "sha256",
+      "size_bytes": 14689,
+      "last_modified": "2024-10-22T20:52:52.827847",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\BioluminescentCave\\BioluminescentCaveObject.xml": {
+      "checksum": "ea182166b3923eecf28c558585e0cf548a1a72abc147d75d466c2ec6afdb98ce",
+      "algorithm": "sha256",
+      "size_bytes": 5143,
+      "last_modified": "2024-10-22T20:52:50.950869",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\Biomes.xml": {
+      "checksum": "5848d67a90a2744fb29d1ca00580d652eb5c2322f707cd526d7f14167b391b19",
+      "algorithm": "sha256",
+      "size_bytes": 4777,
+      "last_modified": "2024-12-11T14:53:09.242332",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\CaveGenerationParameters.xml": {
+      "checksum": "95567598c7a0026c876e785f3fecd92310a33e09e9bc995d1015b15aaf554b38",
+      "algorithm": "sha256",
+      "size_bytes": 5359,
+      "last_modified": "2024-10-22T20:52:52.834749",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\ColdCaverns\\ColdCaverns.xml": {
+      "checksum": "4f1288ddabeeb9e01b34c1bd26a641549352529a0dd64fc30128e152c0ae6110",
+      "algorithm": "sha256",
+      "size_bytes": 20548,
+      "last_modified": "2025-04-26T21:59:11.962053",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\ColdCaverns\\ColdCavernsObjects.xml": {
+      "checksum": "0a175ef649c714645e769d2a72ae1308800d452f5f2d3a445e90e7708af78b59",
+      "algorithm": "sha256",
+      "size_bytes": 8569,
+      "last_modified": "2025-04-26T21:59:11.739667",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\Common\\CommonLevelObjects.xml": {
+      "checksum": "96727dcdbfaf6737192e521807d366e4dd5cfbae42333fabc751620e990e39b2",
+      "algorithm": "sha256",
+      "size_bytes": 42824,
+      "last_modified": "2024-12-11T14:53:09.250318",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\CrystalCave\\CrystalCaveObjects.xml": {
+      "checksum": "0fa9119ce3a47f32e89f94e958cc85b40da5f104178931a3437a5b11dcd7a943",
+      "algorithm": "sha256",
+      "size_bytes": 9922,
+      "last_modified": "2024-10-22T20:52:50.588657",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\EndBiome\\EndBiome.xml": {
+      "checksum": "802c9a85b5a71d89232363f8fa4df357aa97e765236ec55f559d18f9f93d2a28",
+      "algorithm": "sha256",
+      "size_bytes": 6431,
+      "last_modified": "2024-12-11T14:53:10.306328",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\EndBiome\\EndBiomeObjects.xml": {
+      "checksum": "baafbef51fc681e8d3bcebe9741cf426777db5fd6adbabc232f213f8c124e5e1",
+      "algorithm": "sha256",
+      "size_bytes": 2211,
+      "last_modified": "2024-10-22T20:52:52.835051",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\EuropanRidge\\EuropanRidge.xml": {
+      "checksum": "ef39d0fcf819b69a770031b9121a583d5e88069afcd637d1b15c21351f0229b5",
+      "algorithm": "sha256",
+      "size_bytes": 16738,
+      "last_modified": "2025-04-26T21:59:11.748096",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\EuropanRidge\\EuropanRidgeObjects.xml": {
+      "checksum": "748d89be5acee18f9980b2d09b477a01a83b567237c702cef4cd553e7d82f9a9",
+      "algorithm": "sha256",
+      "size_bytes": 8451,
+      "last_modified": "2024-12-11T14:53:10.373343",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\ForestCave\\ForestCaveObjects.xml": {
+      "checksum": "fb1d3222455e226a03613523636ec0d3f1525e17e777684268fcd44c740b8336",
+      "algorithm": "sha256",
+      "size_bytes": 10708,
+      "last_modified": "2024-10-22T20:52:49.713738",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\HydrothermalWastes\\HydrothermalWastes.xml": {
+      "checksum": "af7e58df202de5178a1c5d9747a63a90bd7df87cc3a41763e17de79ff331e807",
+      "algorithm": "sha256",
+      "size_bytes": 15948,
+      "last_modified": "2025-04-26T21:59:11.968331",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\HydrothermalWastes\\HydrothermalWastesObjects.xml": {
+      "checksum": "be3eb0f3def90c89dde04e77cad2708a449022641d7cd5eec245ba8be177e9a4",
+      "algorithm": "sha256",
+      "size_bytes": 7060,
+      "last_modified": "2025-04-30T06:43:50.757187",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\IceCave\\IceCaveObjects.xml": {
+      "checksum": "3ce6d2f5b0209c46464e6a647f76ebc5fe533694705cb2881e9a3df80100cdee",
+      "algorithm": "sha256",
+      "size_bytes": 6096,
+      "last_modified": "2024-10-22T20:52:52.664780",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\MushroomCave\\MushroomCaveObjects.xml": {
+      "checksum": "9e9fe538f929ab0739a0c9e8c8a1ec4076c1189a7deddb40ea6a126faebe3ffe",
+      "algorithm": "sha256",
+      "size_bytes": 17762,
+      "last_modified": "2024-10-22T20:52:49.698574",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\NestObjects\\NestObjects.xml": {
+      "checksum": "1c0a854cf7c988e258ba288607bdb7a5e0630ce7b348f5d437eac674319e31cf",
+      "algorithm": "sha256",
+      "size_bytes": 1183,
+      "last_modified": "2022-08-28T22:53:47.980146",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\RockCave\\RockCaveObjects.xml": {
+      "checksum": "4ea5eedb391350a220e74b84a9ee438e88fcad462cc8c24ed3b5e04dd8fd1ea2",
+      "algorithm": "sha256",
+      "size_bytes": 5077,
+      "last_modified": "2024-10-22T20:52:52.916739",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\TheGreatSea\\TheGreatSea.xml": {
+      "checksum": "f42f813f9593086baa61be3080aa8a1fd1e59a6e2fad981624d8a7c67f074b6b",
+      "algorithm": "sha256",
+      "size_bytes": 18045,
+      "last_modified": "2025-04-26T21:59:11.579150",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Biomes\\TheGreatSea\\TheGreatSeaObjects.xml": {
+      "checksum": "9c9ff55ca34a8ec1652d25ea19edc772117037fceeb3b08831ee225d60d1a926",
+      "algorithm": "sha256",
+      "size_bytes": 9576,
+      "last_modified": "2025-04-30T06:43:51.481477",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\MapGenerationParameters.xml": {
+      "checksum": "a90791f66f6dfe5d8cfe0a8851b8b2571c966d3c7aebc20bcf1986d5fdcba09d",
+      "algorithm": "sha256",
+      "size_bytes": 5614,
+      "last_modified": "2025-04-26T21:59:11.591420",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Outposts\\AbandonedOutpost\\AbandonedOutpostDecals.xml": {
+      "checksum": "c4949884efa2e55156bafa1baa63611ef4de293c9c650f3a4c76d698ba2ff08b",
+      "algorithm": "sha256",
+      "size_bytes": 23620,
+      "last_modified": "2025-04-26T21:59:11.968850",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Outposts\\OutpostGenerationParameters.xml": {
+      "checksum": "b9e707244316c8b363f6e488a23bdcebef09f4d847f7bc048fe438a26096fd6b",
+      "algorithm": "sha256",
+      "size_bytes": 19295,
+      "last_modified": "2025-04-26T21:59:11.657283",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Outposts\\OutpostItems.xml": {
+      "checksum": "765b788e82a280ab9a60ff5b7a586e511884a4045a3eda155e6e7a98e687f034",
+      "algorithm": "sha256",
+      "size_bytes": 123608,
+      "last_modified": "2025-04-26T21:59:11.767528",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Outposts\\OutpostStructurePrefabs.xml": {
+      "checksum": "1df8c9aa9e1035abced58c8f55608bcb49c23ea70b4c0af0c240f436077aa13d",
+      "algorithm": "sha256",
+      "size_bytes": 125537,
+      "last_modified": "2025-04-26T21:59:11.846795",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Pirates\\PirateItems.xml": {
+      "checksum": "2e8d7f5a5aa0641eb65e15e37ee6bc380a1eeec41a0e85a91c3027e9757f503a",
+      "algorithm": "sha256",
+      "size_bytes": 35980,
+      "last_modified": "2025-04-26T21:59:11.893372",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Pirates\\PirateStructures.xml": {
+      "checksum": "a677b41397c2b331aae43e30f380d3798ff99589fbbae015e473bda849a41af3",
+      "algorithm": "sha256",
+      "size_bytes": 4902,
+      "last_modified": "2025-04-26T21:59:11.969365",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\RuinConfig.xml": {
+      "checksum": "ab423879ed570490aefa1a2b604404c8d87cb6cb257fbf87f9c216c3784cec3f",
+      "algorithm": "sha256",
+      "size_bytes": 9648,
+      "last_modified": "2025-04-26T21:59:11.631099",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\StructurePrefabs.xml": {
+      "checksum": "f01a91d75116cdb2f2cc374d06435f7cf47e7d8c021ada4c1b1386a0b98c3583",
+      "algorithm": "sha256",
+      "size_bytes": 237376,
+      "last_modified": "2025-04-26T21:59:11.904581",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Thalamus\\ThalamusAI.xml": {
+      "checksum": "ab3f5f8d7d07fb02b5f030aed1ab29b7cd1c9e966bed8891c5654f3731628473",
+      "algorithm": "sha256",
+      "size_bytes": 1118,
+      "last_modified": "2024-10-22T20:52:56.971750",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Thalamus\\thalamusitems.xml": {
+      "checksum": "84ea31c902ad27bd51a653f1a97bc0d1e2a06cfebfee550c1e68fece16123c90",
+      "algorithm": "sha256",
+      "size_bytes": 28333,
+      "last_modified": "2025-04-26T21:59:11.908463",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\Thalamus\\thalamusstructures.xml": {
+      "checksum": "36aac41609cd4dcaf9974a51972793f7924ddd1d3f0b8cab224d83698e58224b",
+      "algorithm": "sha256",
+      "size_bytes": 3241,
+      "last_modified": "2024-10-22T20:52:51.861531",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\factions.xml": {
+      "checksum": "13827c614ec0d54d0c6f0e6dcc83b1cde0a0aaf51c2c35a27d5257ba0799c5ad",
+      "algorithm": "sha256",
+      "size_bytes": 4867,
+      "last_modified": "2024-12-11T14:53:09.477852",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Map\\locationTypes.xml": {
+      "checksum": "cef8b57d44cad1eaf5dd91ab3f2528855027a2e6bf42fda51f2040b928850e1d",
+      "algorithm": "sha256",
+      "size_bytes": 19639,
+      "last_modified": "2025-04-30T06:43:50.232604",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Missions.xml": {
+      "checksum": "aaa4469ba32346b62573a3c1dbd4a9e989236aa21fc9c4433c4d50f20b87de6a",
+      "algorithm": "sha256",
+      "size_bytes": 158064,
+      "last_modified": "2025-04-26T21:59:11.806203",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "MissionsPvP.xml": {
+      "checksum": "fe1e9072bdb1e93ae0e8085fdb5a58d5126e2ebf22b5b6ed0247144f1c1d6442",
+      "algorithm": "sha256",
+      "size_bytes": 2139,
+      "last_modified": "2025-04-26T21:59:11.744898",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\BrazilianPortuguese\\NpcConversations_BrazilianPortuguese.xml": {
+      "checksum": "662bbbdd014953aca64c681d696c566aebf4b3bf5a431bc7a21faba46c19299f",
+      "algorithm": "sha256",
+      "size_bytes": 69762,
+      "last_modified": "2024-10-22T20:52:56.670060",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\CastilianSpanish\\NpcConversations_CastilianSpanish.xml": {
+      "checksum": "34b6fd8bceb9c2b519dcc6076b5a84f6006b51aa2b518ff6c588a0eaf2aca9e5",
+      "algorithm": "sha256",
+      "size_bytes": 70512,
+      "last_modified": "2024-10-22T20:52:56.662017",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\English\\NpcConversations_English.xml": {
+      "checksum": "7feed9ea6f2f49511be90039b654f218a5d751255901083d4087d89ba39f6d89",
+      "algorithm": "sha256",
+      "size_bytes": 68297,
+      "last_modified": "2024-10-22T20:52:50.599442",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\French\\NpcConversations_French.xml": {
+      "checksum": "f010e041c35c44c6d5f48a51496b1a398a0051d87caf00b0ef58ec1f17b838d3",
+      "algorithm": "sha256",
+      "size_bytes": 76109,
+      "last_modified": "2024-10-22T20:52:56.973830",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\German\\NpcConversations_German.xml": {
+      "checksum": "d5f19b7d86820a914fba5543a82bb2a1e122619eb627d0bacc72912134e4141f",
+      "algorithm": "sha256",
+      "size_bytes": 72472,
+      "last_modified": "2024-10-22T20:52:52.579347",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\Japanese\\NpcConversations_Japanese.xml": {
+      "checksum": "7636a3d476d65da35ed860d83e477d0f06f2fee5eb0dd2bc04f58ecaeccd3a31",
+      "algorithm": "sha256",
+      "size_bytes": 73909,
+      "last_modified": "2024-10-22T20:52:50.983860",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\Korean\\NpcConversations_Korean.xml": {
+      "checksum": "464f1bbbe033e5e6067893a9e0c5029b199e54f992dfc6d87e0da7b1a5d11bb8",
+      "algorithm": "sha256",
+      "size_bytes": 75655,
+      "last_modified": "2024-10-22T20:52:56.615667",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\LatinamericanSpanish\\NpcConversations_LatinamericanSpanish.xml": {
+      "checksum": "a90f5eab603de79a3682dd141e0509b54a21c0ab69dcdd8a874bee5ccd252c4c",
+      "algorithm": "sha256",
+      "size_bytes": 70307,
+      "last_modified": "2024-10-22T20:52:50.971287",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\NpcConversations_Finnish.xml": {
+      "checksum": "b5cc239221e366384e24088a641ec8a05b0de91f9fd2fca1ed71ff3df427a05d",
+      "algorithm": "sha256",
+      "size_bytes": 2269,
+      "last_modified": "2022-08-28T22:54:04.330060",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\Polish\\NpcConversations_Polish.xml": {
+      "checksum": "fe5ce8719606fff790df6c2b1460f1743cafb20d29d67eae5034e2652d3e65fe",
+      "algorithm": "sha256",
+      "size_bytes": 69059,
+      "last_modified": "2024-10-22T20:52:52.954325",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\Russian\\NpcConversations_Russian.xml": {
+      "checksum": "61e8f275c6d0f4f5fdc650aee0d9e6f6408ee3eddb94290f3fde1926d0e32b63",
+      "algorithm": "sha256",
+      "size_bytes": 89700,
+      "last_modified": "2024-10-22T20:52:56.223507",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\SimplifiedChinese\\NpcConversations_SimplifiedChinese.xml": {
+      "checksum": "2ac8effd3ca514db530255436c4743d16f0541b2b841560433a4ebd519669ac3",
+      "algorithm": "sha256",
+      "size_bytes": 66312,
+      "last_modified": "2024-10-22T20:52:52.701862",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\TraditionalChinese\\NpcConversations_TraditionalChinese.xml": {
+      "checksum": "3d1c53bf0020856b4c734e86a028f357d2419e75fa5314340cc61143db4be09d",
+      "algorithm": "sha256",
+      "size_bytes": 66312,
+      "last_modified": "2024-10-22T20:52:50.258066",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCConversations\\Turkish\\NpcConversations_Turkish.xml": {
+      "checksum": "e9c2dc986345fa223a3e43847c2b7650bd77eb4ff91b3a2e4ca32aac0acf09e7",
+      "algorithm": "sha256",
+      "size_bytes": 68832,
+      "last_modified": "2024-10-22T20:52:52.729328",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCPrefabs\\CombatMissionNpcs.xml": {
+      "checksum": "d1d5de4731a28fcb26ee574a742c70590a0fedc4fda35c3e16982c6cb0c4fb67",
+      "algorithm": "sha256",
+      "size_bytes": 20116,
+      "last_modified": "2024-10-22T20:52:56.680260",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCPrefabs\\Corpses.xml": {
+      "checksum": "eaf944f0c3b0c8b3f3e45ee3545169761c19b0ac36102e941671f61ee0b9b570",
+      "algorithm": "sha256",
+      "size_bytes": 13691,
+      "last_modified": "2024-10-22T20:52:52.318803",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCPrefabs\\EscortMissionNpcs.xml": {
+      "checksum": "2e874c70d9e2c971eb47c9a0d68116ebc659e24ebe5da36d04452468bd4c4a8a",
+      "algorithm": "sha256",
+      "size_bytes": 8562,
+      "last_modified": "2024-10-22T20:52:56.270451",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCPrefabs\\OutpostNpcs.xml": {
+      "checksum": "5235f5b71f31c718e7e089bc4bcf51a46a7cc2d86b5bb20389563a58b4fa9490",
+      "algorithm": "sha256",
+      "size_bytes": 69761,
+      "last_modified": "2025-04-26T21:59:11.919791",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "NPCPrefabs\\SpecialNpcs.xml": {
+      "checksum": "827afbc8ef4a2d8da778ba819831ff7e0704cde5d37ff504649927bcf4fc3a13",
+      "algorithm": "sha256",
+      "size_bytes": 45748,
+      "last_modified": "2025-04-26T21:59:11.969852",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Orders.xml": {
+      "checksum": "79c3a604651b7231d4d1efc3fbf88a70fd77f31b5f8a5c18b08e8dd1e96f45ec",
+      "algorithm": "sha256",
+      "size_bytes": 14569,
+      "last_modified": "2024-10-22T20:52:56.765731",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Particles\\DecalPrefabs.xml": {
+      "checksum": "08163e81ea62ae5d84135213b12b648e1c62841eb02c68b0629140386eb47c38",
+      "algorithm": "sha256",
+      "size_bytes": 5351,
+      "last_modified": "2022-08-28T22:53:50.442411",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Particles\\ParticlePrefabs.xml": {
+      "checksum": "b6e7b48591fdc6a0dcdf4bb6c254e60d2f0b0269cf1ecd322beacb0516cdd8ca",
+      "algorithm": "sha256",
+      "size_bytes": 170613,
+      "last_modified": "2025-04-26T21:59:11.741566",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "SkillSettings.xml": {
+      "checksum": "423ef573a93446cc598ef394157bc6666eca16aad9a881eb0a2d59fad1450ced",
+      "algorithm": "sha256",
+      "size_bytes": 3333,
+      "last_modified": "2024-10-22T20:52:50.577693",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Slideshows.xml": {
+      "checksum": "90b08f098e1de277f86171589669e3f104000554b85fbdc517a1e61cbc4844fa",
+      "algorithm": "sha256",
+      "size_bytes": 1314,
+      "last_modified": "2025-04-26T21:59:11.933319",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Sounds\\sounds.xml": {
+      "checksum": "e355a25c800a31b359f3501a5178ccecd84fe34cabc7204ce8436bb7eccc2074",
+      "algorithm": "sha256",
+      "size_bytes": 26276,
+      "last_modified": "2024-10-22T20:52:55.363987",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Assistant\\AfflictionsAssistant.xml": {
+      "checksum": "b58a0a0710e244e9a51090c2752326275c02a39e278021a4bbd17d7ce7f084fb",
+      "algorithm": "sha256",
+      "size_bytes": 13398,
+      "last_modified": "2025-04-26T21:59:11.772689",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Assistant\\TalentsAssistant.xml": {
+      "checksum": "3a27dafb27602d562cadf79b85d8839e568ed8ce28d1a67cb316568d021fe38b",
+      "algorithm": "sha256",
+      "size_bytes": 36271,
+      "last_modified": "2024-10-22T20:52:55.619204",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Captain\\AfflictionsCaptain.xml": {
+      "checksum": "ada00e9e8f9ed043c7aa6e3c4be3d1099daf425f6873f322da12b2102ac7adde",
+      "algorithm": "sha256",
+      "size_bytes": 11935,
+      "last_modified": "2024-10-22T20:52:56.927900",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Captain\\TalentsCaptain.xml": {
+      "checksum": "2e1d16f8727b0e861c57542856c3fed1713642ee06ed0b1602f09ead1ef6a1f9",
+      "algorithm": "sha256",
+      "size_bytes": 32611,
+      "last_modified": "2024-12-11T14:53:09.969958",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Doctor\\AfflictionsDoctor.xml": {
+      "checksum": "cf1e35702f4232ec2d024e6a04b06d11aa743c29f2473a84a2b9b001b32ce70d",
+      "algorithm": "sha256",
+      "size_bytes": 7832,
+      "last_modified": "2024-10-22T20:52:55.548866",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Doctor\\TalentsDoctor.xml": {
+      "checksum": "4bc854a96f84d95060024579e5405897e331267b1b7826103b1e1d38c0ba9880",
+      "algorithm": "sha256",
+      "size_bytes": 24304,
+      "last_modified": "2024-10-22T20:52:55.738918",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Engineer\\AfflictionsEngineer.xml": {
+      "checksum": "0d223a2b184241620069f2f3cd6e86352c4323e3df4cc27eb4dd6a07944c1ab3",
+      "algorithm": "sha256",
+      "size_bytes": 3192,
+      "last_modified": "2024-10-22T20:52:56.582975",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Engineer\\TalentsEngineer.xml": {
+      "checksum": "dd0f58c41fb3cf9f6a1cb3591aa7a6b3f60c0e82ad572577b4c9b51f4a5cb868",
+      "algorithm": "sha256",
+      "size_bytes": 25113,
+      "last_modified": "2024-12-11T14:53:10.546488",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Mechanic\\AfflictionsMechanic.xml": {
+      "checksum": "87dd3a7818397da7edffb50bee9199bb25c31962d28eccf75bf11324d074eba3",
+      "algorithm": "sha256",
+      "size_bytes": 3444,
+      "last_modified": "2024-10-22T20:52:53.030938",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Mechanic\\TalentsMechanic.xml": {
+      "checksum": "365356b1a06e7f8375abe3856b0f5eebb3f48cf9a6f67b493bbb8419d3137186",
+      "algorithm": "sha256",
+      "size_bytes": 29568,
+      "last_modified": "2025-04-26T21:59:11.934242",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Security\\AfflictionsSecurity.xml": {
+      "checksum": "e456958a0ba5fd5fee71f01487855c93341c4d73b0b9d298b926d8ae96a2b31e",
+      "algorithm": "sha256",
+      "size_bytes": 4733,
+      "last_modified": "2024-10-22T20:52:56.456645",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\Security\\TalentsSecurity.xml": {
+      "checksum": "5abe290ef2f813e32ce506ac93f7333cb32d377f48987a6d1ec1775e4ad07c8b",
+      "algorithm": "sha256",
+      "size_bytes": 27216,
+      "last_modified": "2025-04-26T21:59:11.731250",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Talents\\TalentTrees.xml": {
+      "checksum": "8177e5240a40699fa09db03456f466fdb390e734b568df8091e7325572dd0e92",
+      "algorithm": "sha256",
+      "size_bytes": 16873,
+      "last_modified": "2024-10-22T20:52:52.837459",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\BrazilianPortuguese\\BrazilianPortugueseVanilla.xml": {
+      "checksum": "74f6e6a90379e3b597753e7982d7a37764f55f768e38e9acaeff7b998e53f0a5",
+      "algorithm": "sha256",
+      "size_bytes": 1105442,
+      "last_modified": "2025-04-26T21:59:17.257391",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\BrazilianPortuguese\\BrazilianPortugueseVanillaEditorTexts.xml": {
+      "checksum": "b289e4749a9aa7382b5124e83b8329b3e8ceb1beb1f139836579f26bd378e815",
+      "algorithm": "sha256",
+      "size_bytes": 148054,
+      "last_modified": "2025-04-26T21:59:11.923260",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\BrazilianPortuguese\\BrazilianPortugueseVanillaEndgame.xml": {
+      "checksum": "73ff7e8e7e568c1db4378e5d5b6ddcbf8f103796aa5f5706fdd9a4f2417d22ab",
+      "algorithm": "sha256",
+      "size_bytes": 29516,
+      "last_modified": "2025-04-26T21:59:11.767182",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\BrazilianPortuguese\\BrazilianPortugueseVanillaFactions.xml": {
+      "checksum": "57046b8201f7244af2f135be4209e17ed9d46459b51b2bcedcb8666f469956d5",
+      "algorithm": "sha256",
+      "size_bytes": 124299,
+      "last_modified": "2025-04-26T21:59:11.893993",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\CastilianSpanish\\CastilianSpanishVanilla.xml": {
+      "checksum": "35ce9783bb766b4e70222d14e3d0dc0f9af6e6018f9dca01c66141692a0388e6",
+      "algorithm": "sha256",
+      "size_bytes": 1108477,
+      "last_modified": "2025-04-26T21:59:17.275954",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\CastilianSpanish\\CastilianSpanishVanillaEditorTexts.xml": {
+      "checksum": "3bdaa81ab350952825d0869e3ad1976d576bbd5c10742cf8316ee9ef82326d33",
+      "algorithm": "sha256",
+      "size_bytes": 147262,
+      "last_modified": "2025-04-26T21:59:11.946357",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\CastilianSpanish\\CastilianSpanishVanillaEndgame.xml": {
+      "checksum": "e69f29b0be1ed0d819240b1e95c8fd28dfca04a2872480a30949375bce447c4a",
+      "algorithm": "sha256",
+      "size_bytes": 28903,
+      "last_modified": "2025-04-26T21:59:11.867940",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\CastilianSpanish\\CastilianSpanishVanillaFactions.xml": {
+      "checksum": "6e80935ebf2981e198ca3572c5da5f29eed8404190bab885643c66f5a32b2f0e",
+      "algorithm": "sha256",
+      "size_bytes": 119296,
+      "last_modified": "2025-04-26T21:59:11.841215",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Credits.xml": {
+      "checksum": "d45316266028da2b6dc54115896cea6958c92a4c952cc6e513184df12f537a87",
+      "algorithm": "sha256",
+      "size_bytes": 40583,
+      "last_modified": "2025-04-26T21:59:11.946158",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\English\\EnglishVanilla.xml": {
+      "checksum": "e1bc578019880eebe25b67c8934b11fd1d2cd5c9f91a3085894b0d359b21cd86",
+      "algorithm": "sha256",
+      "size_bytes": 1055203,
+      "last_modified": "2025-04-26T21:59:17.297941",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\English\\EnglishVanillaEditorTexts.xml": {
+      "checksum": "862e2e232769d5d135916301a00f8682babfa188c85b6a51ac9fa0d7280dfcb3",
+      "algorithm": "sha256",
+      "size_bytes": 138477,
+      "last_modified": "2025-04-26T21:59:11.828338",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\English\\EnglishVanillaEndgame.xml": {
+      "checksum": "2f4459b5bf648884e1699c4ea2e4bf4905efc9124f6ec9e18f4b31594c98f439",
+      "algorithm": "sha256",
+      "size_bytes": 28819,
+      "last_modified": "2025-04-26T21:59:11.769952",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\English\\EnglishVanillaFactions.xml": {
+      "checksum": "1e664fd2d4a46606b3a7377ee18d8823160b95e2fb14e007ce5147f609be75d4",
+      "algorithm": "sha256",
+      "size_bytes": 122497,
+      "last_modified": "2025-04-26T21:59:11.910460",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\English\\EnglishVanillaNew.xml": {
+      "checksum": "101b02b0cf472a44aa6a6a6a741582978714a8d8b59b09345b55fb55e298f8a8",
+      "algorithm": "sha256",
+      "size_bytes": 592,
+      "last_modified": "2025-04-26T21:59:12.517313",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\FinnishVanilla.xml": {
+      "checksum": "abeb3e861545941474f583c0d6c9efc6f930a2948a63f9f943df5450225c5abf",
+      "algorithm": "sha256",
+      "size_bytes": 58710,
+      "last_modified": "2022-08-28T22:55:42.464663",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\French\\FrenchVanilla.xml": {
+      "checksum": "04470489137a42c0b69921e0562f12580cc374f30eacdf37406fdf9b67f39519",
+      "algorithm": "sha256",
+      "size_bytes": 1146194,
+      "last_modified": "2025-04-26T21:59:17.323133",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\French\\FrenchVanillaEditorTexts.xml": {
+      "checksum": "a4aa52d6716a433c6a7e1ef62f17cdd283b02f44143ff06367061fe0d99b53a1",
+      "algorithm": "sha256",
+      "size_bytes": 149874,
+      "last_modified": "2025-04-26T21:59:11.834805",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\French\\FrenchVanillaEndgame.xml": {
+      "checksum": "51b71fc94bc4877b6912e31a6b4c7cb6aa03ee2dea954d15cfcac8272332d7ef",
+      "algorithm": "sha256",
+      "size_bytes": 31460,
+      "last_modified": "2025-04-26T21:59:11.742771",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\French\\FrenchVanillaFactions.xml": {
+      "checksum": "309bdf0ef725ba8d8165258717ac1de1c3bfb21d0280086ae53319de31262fa8",
+      "algorithm": "sha256",
+      "size_bytes": 129071,
+      "last_modified": "2025-04-26T21:59:11.732967",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\German\\GermanVanilla.xml": {
+      "checksum": "1262ff2738b5a827a435a31b1c573f9123a04bf2d99c0eef7fe361d3bdd17007",
+      "algorithm": "sha256",
+      "size_bytes": 1135627,
+      "last_modified": "2025-04-26T21:59:17.335827",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\German\\GermanVanillaEditorTexts.xml": {
+      "checksum": "d92b827dc9cbfd85665a0fa44f8e0d3aacf1ad656a8d9adfc31b1ddce4a0564b",
+      "algorithm": "sha256",
+      "size_bytes": 147090,
+      "last_modified": "2025-04-26T21:59:11.950238",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\German\\GermanVanillaEndgame.xml": {
+      "checksum": "113734757000de479d399d06b6517a1a94cb3a6cc5e6631845698faa88182528",
+      "algorithm": "sha256",
+      "size_bytes": 31485,
+      "last_modified": "2025-04-26T21:59:11.917036",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\German\\GermanVanillaFactions.xml": {
+      "checksum": "c1ee367ae8766c027cc64a4dc4e8da14cdef5868460700a4ba20ddee047ef5b1",
+      "algorithm": "sha256",
+      "size_bytes": 129019,
+      "last_modified": "2025-04-26T21:59:11.970316",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Japanese\\JapaneseVanilla.xml": {
+      "checksum": "f3c60a43ecc549aa9b2db078b841082f154622bdf8873c41ed0401bc5dfc408f",
+      "algorithm": "sha256",
+      "size_bytes": 1165408,
+      "last_modified": "2025-04-26T21:59:17.348785",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Japanese\\JapaneseVanillaEditorTexts.xml": {
+      "checksum": "0f91f5a5fc626da4b03270466fe2bc750fe9b4ab45a27d31d9ff0691987e937c",
+      "algorithm": "sha256",
+      "size_bytes": 154724,
+      "last_modified": "2025-04-26T21:59:11.814992",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Japanese\\JapaneseVanillaEndgame.xml": {
+      "checksum": "1b8429e405a2514b529a6a73be6b01cb558a0e7f09cef390fba5200e3b017743",
+      "algorithm": "sha256",
+      "size_bytes": 31869,
+      "last_modified": "2025-04-26T21:59:11.970790",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Japanese\\JapaneseVanillaFactions.xml": {
+      "checksum": "83f6a56ef81df5fccad760722eba950a3d90426699ecba11f293d0016860476f",
+      "algorithm": "sha256",
+      "size_bytes": 141793,
+      "last_modified": "2025-04-26T21:59:11.578810",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Korean\\KoreanVanilla.xml": {
+      "checksum": "08c7186665e432e4b850bf479e9a48f2ad1e229269843bf629430a490d57217b",
+      "algorithm": "sha256",
+      "size_bytes": 1142985,
+      "last_modified": "2025-04-26T21:59:17.362311",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Korean\\KoreanVanillaEditorTexts.xml": {
+      "checksum": "53d2ee97abb65831f19e157c4cd1edcf8f29a3c16e146f0ae36d352f8717fe18",
+      "algorithm": "sha256",
+      "size_bytes": 146603,
+      "last_modified": "2025-04-26T21:59:11.733867",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Korean\\KoreanVanillaEndgame.xml": {
+      "checksum": "0afc5e6ef0f51a1c5f22fa90f9756768070a29546e964c828190029007608977",
+      "algorithm": "sha256",
+      "size_bytes": 34501,
+      "last_modified": "2025-04-26T21:59:11.847132",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Korean\\KoreanVanillaFactions.xml": {
+      "checksum": "37a03cacdaa2e73965c9813e84f81fd684d4805d0b170dcb6dc437f984571140",
+      "algorithm": "sha256",
+      "size_bytes": 141379,
+      "last_modified": "2025-04-26T21:59:11.953034",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\LatinamericanSpanish\\LatinamericanSpanishVanilla.xml": {
+      "checksum": "0820c5699de8522b2aa09d71c33a1c11e8ec76e7db1cd9b4590e9c27e728eaf7",
+      "algorithm": "sha256",
+      "size_bytes": 1103923,
+      "last_modified": "2025-04-26T21:59:17.375521",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\LatinamericanSpanish\\LatinamericanSpanishVanillaEditorTexts.xml": {
+      "checksum": "58b45545768510448627fef6fbab87f3dd0c62e606ca22da16ec461b9fc358be",
+      "algorithm": "sha256",
+      "size_bytes": 147049,
+      "last_modified": "2025-04-26T21:59:11.766829",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\LatinamericanSpanish\\LatinamericanSpanishVanillaEndgame.xml": {
+      "checksum": "e592763db580033670a82e6f95e302750223e6375a5167571d3bd7876e4ebb7b",
+      "algorithm": "sha256",
+      "size_bytes": 28680,
+      "last_modified": "2025-04-26T21:59:11.767020",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\LatinamericanSpanish\\LatinamericanSpanishVanillaFactions.xml": {
+      "checksum": "32ad05b3239388db7eed7ae602fab8c535fc8acb481f908f35010231407a58bd",
+      "algorithm": "sha256",
+      "size_bytes": 118366,
+      "last_modified": "2025-04-26T21:59:12.015148",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Polish\\PolishVanilla.xml": {
+      "checksum": "d809a86c0c8500105f46deba6ecd4e79564dd32890e50623521998485eff8c81",
+      "algorithm": "sha256",
+      "size_bytes": 1101824,
+      "last_modified": "2025-04-26T21:59:17.388518",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Polish\\PolishVanillaEditorTexts.xml": {
+      "checksum": "9dd80f41ea2bdce3d744f3da66517dc8d07ee05a844b2688360026cc788ad9bf",
+      "algorithm": "sha256",
+      "size_bytes": 144543,
+      "last_modified": "2025-04-26T21:59:11.891198",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Polish\\PolishVanillaEndgame.xml": {
+      "checksum": "78f6cec988c7ae376b36b1544e27a2a0a7cd1ef0e09a1333252e42e3fee8da69",
+      "algorithm": "sha256",
+      "size_bytes": 30010,
+      "last_modified": "2025-04-26T21:59:11.965899",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Polish\\PolishVanillaFactions.xml": {
+      "checksum": "4e680fe54f26c949cdadd5e1586942733a01903b74cb73ef31c5443541ae9adc",
+      "algorithm": "sha256",
+      "size_bytes": 124234,
+      "last_modified": "2025-04-26T21:59:12.024216",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Russian\\RussianVanilla.xml": {
+      "checksum": "6f09404a4cc271a8f7a62503df64739120039419fc3ea9cef77dd7bf5635afa5",
+      "algorithm": "sha256",
+      "size_bytes": 1456727,
+      "last_modified": "2025-04-26T21:59:17.401344",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Russian\\RussianVanillaEditorTexts.xml": {
+      "checksum": "08dafa6cf390a93fe54ed0d129c741a9c51b4d2c5d294af4f425b45678a0658a",
+      "algorithm": "sha256",
+      "size_bytes": 182843,
+      "last_modified": "2025-04-26T21:59:11.773624",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Russian\\RussianVanillaEndgame.xml": {
+      "checksum": "f6c8cca71c41f11c8c37d1890b3475e6eb9b6323f47b1102e6da97687fd931ac",
+      "algorithm": "sha256",
+      "size_bytes": 42108,
+      "last_modified": "2025-04-26T21:59:11.772977",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Russian\\RussianVanillaFactions.xml": {
+      "checksum": "909e04594822266897538d0444c4727cd204030e9e1df87f5166d00d357da16d",
+      "algorithm": "sha256",
+      "size_bytes": 165959,
+      "last_modified": "2025-04-26T21:59:11.768033",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\SimplifiedChinese\\SimplifiedChineseVanilla.xml": {
+      "checksum": "157f05e1712754a0c2e83fa77e7d45cf9225e9db53f033cc1c3986bc577f52ed",
+      "algorithm": "sha256",
+      "size_bytes": 982840,
+      "last_modified": "2025-04-26T21:59:17.413449",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\SimplifiedChinese\\SimplifiedChineseVanillaEditorTexts.xml": {
+      "checksum": "451498a002c8cfcaf99c057e8bd91af698e694190dfb5a16d756eb5a594d3791",
+      "algorithm": "sha256",
+      "size_bytes": 131343,
+      "last_modified": "2025-04-26T21:59:11.612368",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\SimplifiedChinese\\SimplifiedChineseVanillaEndgame.xml": {
+      "checksum": "7004e0c9a3f1cdbc05b51e3bf21d13f7060716b6dff68bb1603f0c3f8f4524d1",
+      "algorithm": "sha256",
+      "size_bytes": 25729,
+      "last_modified": "2025-04-26T21:59:11.901970",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\SimplifiedChinese\\SimplifiedChineseVanillaFactions.xml": {
+      "checksum": "5a6c4a566b2509e7f3f748748c15b13be83bd6c2c52b04c34403c692ed21b53b",
+      "algorithm": "sha256",
+      "size_bytes": 110720,
+      "last_modified": "2025-04-26T21:59:11.959802",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\TraditionalChinese\\TraditionalChineseVanilla.xml": {
+      "checksum": "63ee20929bb16465e2f35fafb2454c948c1a0d066cd5eafda1acf994867127de",
+      "algorithm": "sha256",
+      "size_bytes": 982437,
+      "last_modified": "2025-04-26T21:59:17.426241",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\TraditionalChinese\\TraditionalChineseVanillaEditorTexts.xml": {
+      "checksum": "d5d6d9ddd780c45813ae0d396ad3db05e242f3e160d277ae70f9de8465fc4555",
+      "algorithm": "sha256",
+      "size_bytes": 131336,
+      "last_modified": "2025-04-26T21:59:11.892685",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\TraditionalChinese\\TraditionalChineseVanillaEndgame.xml": {
+      "checksum": "5eede62b2d0c0dfa844eeee26bd6abe30b12a712fbc1399e4585b8de67f7a0f8",
+      "algorithm": "sha256",
+      "size_bytes": 25730,
+      "last_modified": "2025-04-26T21:59:11.397565",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\TraditionalChinese\\TraditionalChineseVanillaFactions.xml": {
+      "checksum": "1b856cb44164cd7a2ca15d3c22dc646cf8b0726844c8b131863153e51812f33d",
+      "algorithm": "sha256",
+      "size_bytes": 110697,
+      "last_modified": "2025-04-26T21:59:11.895702",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Turkish\\TurkishVanilla.xml": {
+      "checksum": "10d9c1903fe8607fa5d89ab3ead87eb46cb1667fe54141863c83425afd4725a0",
+      "algorithm": "sha256",
+      "size_bytes": 1075996,
+      "last_modified": "2025-04-26T21:59:17.439147",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Turkish\\TurkishVanillaEditorTexts.xml": {
+      "checksum": "1faf4e338fd73076924840e93e30cde762d777ca3665638e11253ac13db8a393",
+      "algorithm": "sha256",
+      "size_bytes": 146901,
+      "last_modified": "2025-04-26T21:59:11.933978",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Turkish\\TurkishVanillaEndgame.xml": {
+      "checksum": "f69905bcb9dcf9c58bac0954753c9b287576d2983b7cd8e1572181aa4a86cf79",
+      "algorithm": "sha256",
+      "size_bytes": 30232,
+      "last_modified": "2025-04-26T21:59:11.936371",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Texts\\Turkish\\TurkishVanillaFactions.xml": {
+      "checksum": "6792a5d0e697e3742706bbd4b41f1aeb2489a33872df60dd434f843f24992ede",
+      "algorithm": "sha256",
+      "size_bytes": 124718,
+      "last_modified": "2025-04-26T21:59:11.770803",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "TraitorMissions.xml": {
+      "checksum": "f4e0b72d98d3fe8788d2c059cfa9898f604c182a8744995052cd2b098d803192",
+      "algorithm": "sha256",
+      "size_bytes": 9705,
+      "last_modified": "2022-08-28T22:55:44.111380",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Tutorials\\CampaignTutorialEvents.xml": {
+      "checksum": "3b4f01a9e0b973a545c5f70f16658b628bbe79aa3fa3cbbc6e18d957e73721d9",
+      "algorithm": "sha256",
+      "size_bytes": 23731,
+      "last_modified": "2025-04-26T21:59:11.943828",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Tutorials\\TutorialEvents.xml": {
+      "checksum": "2dd246a50694e5d92555956ff5e71e12e7266ae31178431b5c47b4845f68edda",
+      "algorithm": "sha256",
+      "size_bytes": 222479,
+      "last_modified": "2024-10-22T20:52:53.155174",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Tutorials\\Tutorials.xml": {
+      "checksum": "0d2ad2815b8a2227bc3f18d6dd76860e657544c63bb111afbe98adbf46b160fa",
+      "algorithm": "sha256",
+      "size_bytes": 1535,
+      "last_modified": "2024-10-22T20:52:52.600563",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "UI\\MenuContent.xml": {
+      "checksum": "032e1eb3148b4fd3a4394ad195f99434b170950dc0b7d82e79ab78f90bc0167a",
+      "algorithm": "sha256",
+      "size_bytes": 31344,
+      "last_modified": "2025-04-26T21:59:11.959604",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "UI\\Server\\PlayStyles.xml": {
+      "checksum": "f673a9131455d66c79ed1ae19adb698ad385c8123fa667cb58f6787c44480a62",
+      "algorithm": "sha256",
+      "size_bytes": 3349,
+      "last_modified": "2024-10-22T20:52:52.707100",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "UI\\Social\\Social.xml": {
+      "checksum": "ee822d23d2f397e4e01c75a3234d99be82c1c15a5fbadca5b388ba49e3fb1cb6",
+      "algorithm": "sha256",
+      "size_bytes": 2777,
+      "last_modified": "2024-10-22T20:52:56.671571",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "UI\\style.xml": {
+      "checksum": "e485d8fa5b0625f092ca00cc856fc0601b33e8c4b5873fd9551e9046908e72c7",
+      "algorithm": "sha256",
+      "size_bytes": 184910,
+      "last_modified": "2025-04-26T21:59:11.961204",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "Upgrades\\UpgradeModules.xml": {
+      "checksum": "db5a636efd89b05bdae7e13bb8d32ef2deef2101262a64b196eee79395c4ddb2",
+      "algorithm": "sha256",
+      "size_bytes": 15137,
+      "last_modified": "2024-10-22T20:52:52.726427",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "disembarkperks.xml": {
+      "checksum": "4afb7edf7363d92d6260b2a2989ad5dafeba1decb378335920fca1da49d11bbf",
+      "algorithm": "sha256",
+      "size_bytes": 13243,
+      "last_modified": "2024-10-22T20:52:46.687537",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "randomevents_campaign.xml": {
+      "checksum": "3ce2f8592090a73f997edf407705129c0e10255a1d262884f3b727e562bcb062",
+      "algorithm": "sha256",
+      "size_bytes": 234880,
+      "last_modified": "2025-04-26T21:59:11.751378",
+      "reverse_engineered": false,
+      "metadata": {}
+    },
+    "randomevents_lineardifficulty.xml": {
+      "checksum": "ea44f6980153a82fe2aa8bc453266a219f34cc59be84de7f5cfffc8a9f0133df",
+      "algorithm": "sha256",
+      "size_bytes": 267032,
+      "last_modified": "2025-04-26T21:59:17.151980",
+      "reverse_engineered": false,
+      "metadata": {}
+    }
+  }
+}
