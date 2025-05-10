@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define StatusEffect element -->
+  <xs:element name="StatusEffect">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sound" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="file" type="xs:string" use="required"/>
+            <xs:attribute name="range" type="xs:decimal" use="optional"/>
+            <xs:attribute name="selectionmode" type="xs:string" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Affliction" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="identifier" type="xs:string" use="required"/>
+            <xs:attribute name="strength" type="xs:string" use="required"/>
+            <xs:attribute name="amount" type="xs:decimal" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Conditional" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="name" type="xs:string" use="optional"/>
+            <xs:anyAttribute processContents="skip"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="type" type="xs:string" use="optional"/>
+      <xs:attribute name="target" type="xs:string" use="required"/>
+      <xs:attribute name="targetlimb" type="xs:string" use="optional"/>
+      <xs:attribute name="SpeedMultiplier" type="xs:decimal" use="optional"/>
+      <xs:attribute name="setvalue" type="xs:string" use="optional"/>
+      <xs:attribute name="disabledeltatime" type="xs:string" use="optional"/>
+      <xs:attribute name="interval" type="xs:decimal" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define Effect element -->
+  <xs:element name="Effect">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="StatusEffect" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="minstrength" type="xs:decimal" use="required"/>
+      <xs:attribute name="maxstrength" type="xs:decimal" use="required"/>
+      <xs:attribute name="strengthchange" type="xs:decimal" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define Affliction element -->
+  <xs:element name="Affliction">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Effect" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:string" use="required"/>
+      <xs:attribute name="identifier" type="xs:string" use="required"/>
+      <xs:attribute name="description" type="xs:string" use="optional"/>
+      <xs:attribute name="type" type="xs:string" use="required"/>
+      <xs:attribute name="limbspecific" type="xs:string" use="optional"/>
+      <xs:attribute name="indicatorlimb" type="xs:string" use="optional"/>
+      <xs:attribute name="showiconthreshold" type="xs:decimal" use="optional"/>
+      <xs:attribute name="showinhealthscannerthreshold" type="xs:decimal" use="optional"/>
+      <xs:attribute name="maxstrength" type="xs:decimal" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define Afflictions root element -->
+  <xs:element name="Afflictions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Affliction" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

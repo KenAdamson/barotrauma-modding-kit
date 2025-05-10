@@ -1,0 +1,248 @@
+# Barotrauma Items YAML Schema Definition (YSD)
+# This schema enforces the structure for Items in YAML format
+type: object
+required:
+  - items
+properties:
+  items:
+    type: array
+    items:
+      type: object
+      required:
+        - name
+        - identifier
+        - category
+      properties:
+        # Basic item attributes
+        name:
+          type: string
+        identifier:
+          type: string
+        category:
+          type: string
+        tags:
+          type: string
+        nameidentifier:
+          type: string
+        aliases:
+          type: string
+        description:
+          type: string
+        cargocontaineridentifier:
+          type: string
+        scale:
+          type: number
+        impactsoundtag:
+          type: string
+        hiddeningame:
+          type: boolean
+        
+        # Containers where this item may be found
+        preferredContainers:
+          type: array
+          items:
+            type: object
+            required:
+              - primary
+            properties:
+              primary:
+                type: string
+              minamount:
+                type: number
+              maxamount:
+                type: number
+              amount:
+                type: number
+              spawnprobability:
+                type: number
+        
+        # Economics
+        price:
+          type: object
+          required:
+            - basePrice
+          properties:
+            basePrice:
+              type: number
+            stores:
+              type: array
+              items:
+                type: object
+                required:
+                  - store
+                properties:
+                  store:
+                    type: string
+                  multiplier:
+                    type: number
+                  minavailable:
+                    type: number
+                  maxavailable:
+                    type: number
+                  sold:
+                    type: boolean
+        
+        # Crafting
+        deconstruct:
+          type: object
+          properties:
+            time:
+              type: number
+            items:
+              type: array
+              items:
+                type: object
+                properties:
+                  identifier:
+                    type: string
+                  amount:
+                    type: number
+        
+        fabricate:
+          type: object
+          properties:
+            suitablefabricators:
+              type: string
+            requiredtime:
+              type: number
+            amount:
+              type: number
+            requiredSkills:
+              type: array
+              items:
+                type: object
+                properties:
+                  identifier:
+                    type: string
+                  level:
+                    type: number
+            requiredItems:
+              type: array
+              items:
+                type: object
+                properties:
+                  identifier:
+                    type: string
+                  amount:
+                    type: number
+        
+        # Visual appearance
+        inventoryIcon:
+          type: object
+          properties:
+            texture:
+              type: string
+            sourcerect:
+              type: string
+            origin:
+              type: string
+            sheetindex:
+              type: string
+            sheetelementsize:
+              type: string
+        
+        sprite:
+          type: object
+          properties:
+            texture:
+              type: string
+            sourcerect:
+              type: string
+            depth:
+              type: number
+            origin:
+              type: string
+            color:
+              type: string
+            scale:
+              type: number
+        
+        # Physical properties
+        body:
+          type: object
+          properties:
+            width:
+              type: number
+            height:
+              type: number
+            density:
+              type: number
+            friction:
+              type: number
+            restitution:
+              type: number
+        
+        # Item usage
+        meleeWeapon:
+          type: object
+          properties:
+            slots:
+              type: string
+            aimpos:
+              type: string
+            handle1:
+              type: string
+            holdangle:
+              type: number
+            reload:
+              type: number
+            range:
+              type: number
+            combatpriority:
+              type: number
+        
+        pickable:
+          type: object
+          properties:
+            slots:
+              type: string
+            msg:
+              type: string
+        
+        # Special properties
+        liquidContainer:
+          type: object
+          properties:
+            capacity:
+              type: number
+            removecontentsondepleted:
+              type: boolean
+            initialheatvalue:
+              type: number
+            amountperdispense:
+              type: number
+        
+        itemComponent:
+          type: object
+          properties:
+            statusEffects:
+              type: array
+              items:
+                type: object
+                properties:
+                  type:
+                    type: string
+                  target:
+                    type: string
+                  targetlimb:
+                    type: string
+                  condition:
+                    type: string
+                  duration:
+                    type: number
+                  sound:
+                    type: object
+                    properties:
+                      file:
+                        type: string
+                      range:
+                        type: number
+                  afflictions:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        identifier:
+                          type: string
+                        strength:
+                          type: number

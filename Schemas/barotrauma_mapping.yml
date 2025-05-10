@@ -1,0 +1,121 @@
+# Barotrauma YAML to XML mapping file
+# This defines how YAML keys map to XML elements and attributes
+
+# Global mappings (applied to all elements)
+"*":
+  # Case conversions for attributes
+  basePrice: baseprice
+  storeIdentifier: storeidentifier
+  minAvailable: minavailable
+  maxAvailable: maxavailable
+  spawnProbability: spawnprobability
+  cargoContainerIdentifier: cargocontaineridentifier
+  impactSoundTag: impactsoundtag
+  
+  # Element name mappings
+  preferredContainers: PreferredContainer
+  price: Price
+  deconstruct: Deconstruct
+  fabricate: Fabricate
+  inventoryIcon: InventoryIcon
+  sprite: Sprite
+  body: Body
+  meleeWeapon: MeleeWeapon
+  pickable: Pickable
+  liquidContainer: LiquidContainer
+  itemComponent: ItemComponent
+  statusEffects: StatusEffect
+  afflictions: Affliction
+  requiredItems: RequiredItem
+  requiredSkills: RequiredSkill
+  sound: Sound
+
+# Context-specific mappings
+"Items":
+  items: Item
+
+"Item":
+  name: name
+  identifier: identifier
+  category: category
+  tags: Tags
+
+"Price":
+  # Special handling for the recursive Price element
+  stores: Price
+  # Store attributes
+  store: storeidentifier
+  multiplier: multiplier
+
+"PreferredContainer":
+  primary: primary
+  minAmount: minamount
+  maxAmount: maxamount
+  amount: amount
+
+"Fabricate":
+  suitableFabricators: suitablefabricators
+  requiredTime: requiredtime
+
+"RequiredItem":
+  identifier: identifier
+  amount: amount
+
+"RequiredSkill":
+  identifier: identifier
+  level: level
+
+"InventoryIcon":
+  texture: texture
+  sourceRect: sourcerect
+  origin: origin
+
+"Sprite":
+  texture: texture
+  sourceRect: sourcerect
+  depth: depth
+  origin: origin
+
+"Body":
+  width: width
+  height: height
+  density: density
+  friction: friction
+  restitution: restitution
+
+"MeleeWeapon":
+  slots: slots
+  aimPos: aimpos
+  handle1: handle1
+  holdAngle: holdangle
+  reload: reload
+  range: range
+  combatPriority: combatpriority
+
+"Pickable":
+  slots: slots
+  msg: msg
+
+"LiquidContainer":
+  capacity: Capacity
+  removeContentsOnDepleted: RemoveContentsOnDepleted
+  initialHeatValue: InitialHeatValue
+  amountPerDispense: AmountPerDispense
+
+"StatusEffect":
+  type: type
+  target: target
+  targetLimb: targetlimb
+  duration: duration
+
+"Affliction":
+  identifier: identifier
+  strength: strength
+
+"Sound":
+  file: file
+  range: range
+
+# Afflictions file mapping
+"Afflictions":
+  afflictions: Affliction

@@ -1,0 +1,115 @@
+# Barotrauma Afflictions YAML Schema Definition (YSD)
+# This schema enforces the structure for Afflictions in YAML format
+type: object
+required:
+  - afflictions
+properties:
+  afflictions:
+    type: array
+    items:
+      type: object
+      required:
+        - name
+        - identifier
+      properties:
+        # Basic affliction attributes
+        name:
+          type: string
+        identifier:
+          type: string
+        description:
+          type: string
+        type:
+          type: string
+
+        # Affliction behavior parameters
+        maxstrength:
+          type: number
+        damageoverlayalpha:
+          type: number
+        paintonscreen:
+          type: boolean
+
+        # Healing/damage properties
+        healable:
+          type: boolean
+        showinhealthscanner:
+          type: boolean
+        showinoxygenmonitor:
+          type: boolean
+        showonhud:
+          type: boolean
+        indicatorlimb:
+          type: string
+
+        # Effects
+        selfcausable:
+          type: boolean
+        karmachangeonapplied:
+          type: number
+
+        # Progression
+        effect:
+          type: object
+          properties:
+            decreaserate:
+              type: number
+            delay:
+              type: number
+            minduration:
+              type: number
+            maxduration:
+              type: number
+            durationalpha:
+              type: number
+
+        # Status indicators
+        limbspecific:
+          type: boolean
+        targets:
+          type: string
+
+        # Custom effects (for our custom Revitalizer effect)
+        healtime:
+          type: number
+        selfhealtime:
+          type: number
+
+        # Visual effects
+        iconcolor:
+          type: string
+        icon:
+          type: object
+          properties:
+            texture:
+              type: string
+            sourcerect:
+              type: string
+            color:
+              type: string
+
+        # Status effect integrations
+        statusEffects:
+          type: array
+          items:
+            type: object
+            properties:
+              condition:
+                type: string
+              target:
+                type: string
+              targetlimb:
+                type: string
+              type:
+                type: string
+              multiplybymultiplier:
+                type: boolean
+              afflictions:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    identifier:
+                      type: string
+                    strength:
+                      type: number

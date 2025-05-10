@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define common elements that can appear inside Item -->
+  <xs:element name="PreferredContainer">
+    <xs:complexType>
+      <xs:attribute name="primary" type="xs:string" use="optional"/>
+      <xs:attribute name="secondary" type="xs:string" use="optional"/>
+      <xs:attribute name="minamount" type="xs:integer" use="optional"/>
+      <xs:attribute name="maxamount" type="xs:integer" use="optional"/>
+      <xs:attribute name="amount" type="xs:integer" use="optional"/>
+      <xs:attribute name="spawnprobability" type="xs:decimal" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Price">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Price" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="storeidentifier" type="xs:string" use="optional"/>
+            <xs:attribute name="multiplier" type="xs:decimal" use="optional"/>
+            <xs:attribute name="minavailable" type="xs:integer" use="optional"/>
+            <xs:attribute name="sold" type="xs:string" use="optional"/>
+            <xs:anyAttribute processContents="skip"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="baseprice" type="xs:decimal" use="optional"/>
+      <xs:attribute name="sold" type="xs:string" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Deconstruct">
+    <xs:complexType>
+      <xs:attribute name="time" type="xs:decimal" use="required"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Fabricate">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="RequiredSkill" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="identifier" type="xs:string" use="required"/>
+            <xs:attribute name="level" type="xs:decimal" use="required"/>
+            <xs:anyAttribute processContents="skip"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RequiredItem" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="identifier" type="xs:string" use="required"/>
+            <xs:attribute name="amount" type="xs:integer" use="optional"/>
+            <xs:anyAttribute processContents="skip"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <!-- Fabricators where this item can be crafted (e.g., fabricator, medicalfabricator) -->
+      <xs:attribute name="suitablefabricators" type="xs:string" use="required">
+        <xs:annotation>
+          <xs:documentation>
+            Comma-separated list of fabricator types this item can be crafted in.
+            Common values: fabricator, medicalfabricator, weaponsfabricator
+          </xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <!-- Time in seconds required to fabricate the item -->
+      <xs:attribute name="requiredtime" type="xs:decimal" use="required"/>
+      <!-- How many items are produced from a single crafting operation -->
+      <xs:attribute name="amount" type="xs:integer" use="optional"/>
+      <!-- Minimum skill level the character requires to fabricate this item -->
+      <xs:attribute name="requiredroomforresult" type="xs:boolean" use="optional"/>
+      <xs:attribute name="displayname" type="xs:string" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="InventoryIcon">
+    <xs:complexType>
+      <xs:attribute name="texture" type="xs:string" use="required"/>
+      <xs:attribute name="sourcerect" type="xs:string" use="required"/>
+      <xs:attribute name="origin" type="xs:string" use="required"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Sprite">
+    <xs:complexType>
+      <xs:attribute name="texture" type="xs:string" use="required"/>
+      <xs:attribute name="sourcerect" type="xs:string" use="required"/>
+      <xs:attribute name="depth" type="xs:decimal" use="optional"/>
+      <xs:attribute name="origin" type="xs:string" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Body">
+    <xs:complexType>
+      <xs:attribute name="width" type="xs:decimal" use="required"/>
+      <xs:attribute name="height" type="xs:decimal" use="required"/>
+      <xs:attribute name="density" type="xs:decimal" use="required"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Pickable">
+    <xs:complexType>
+      <!-- Defines which inventory slots this item can be placed in -->
+      <xs:attribute name="slots" type="xs:string" use="required">
+        <xs:annotation>
+          <xs:documentation>
+            Defines which inventory slots this item can be placed in.
+            Common values:
+            - "Any" - Can be placed in any slot
+            - "RightHand,LeftHand" - Can be held in hands
+            - "Head" - Can be worn on head
+            - "InnerClothes,OuterClothes" - Can be worn as clothing
+            - "Card" - For ID cards and similar items
+          </xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+
+      <!-- Message shown when picking up or selecting the item -->
+      <xs:attribute name="msg" type="xs:string" use="optional">
+        <xs:annotation>
+          <xs:documentation>
+            Message shown when picking up or selecting the item.
+            Common values include: "ItemMsgPickUpSelect", "ItemMsgPickUp", "ItemMsgSelect"
+          </xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+
+      <!-- Pickup priority when multiple items are stacked -->
+      <xs:attribute name="pickingtime" type="xs:decimal" use="optional"/>
+
+      <!-- If true, item can be picked up even when underwater -->
+      <xs:attribute name="allowedunderwater" type="xs:boolean" use="optional"/>
+
+      <!-- Delay before the item can be picked up (in seconds) -->
+      <xs:attribute name="pickuptargetables" type="xs:string" use="optional"/>
+
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="MeleeWeapon">
+    <xs:complexType>
+      <xs:attribute name="slots" type="xs:string" use="required"/>
+      <xs:attribute name="aimpos" type="xs:string" use="optional"/>
+      <xs:attribute name="handle1" type="xs:string" use="optional"/>
+      <xs:attribute name="holdangle" type="xs:string" use="optional"/>
+      <xs:attribute name="reload" type="xs:string" use="optional"/>
+      <xs:attribute name="range" type="xs:string" use="optional"/>
+      <xs:attribute name="combatpriority" type="xs:string" use="optional"/>
+      <xs:attribute name="msg" type="xs:string" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="LiquidContainer">
+    <xs:complexType>
+      <xs:attribute name="Capacity" type="xs:decimal" use="required"/>
+      <xs:attribute name="RemoveContentsOnDepleted" type="xs:string" use="optional"/>
+      <xs:attribute name="InitialHeatValue" type="xs:decimal" use="optional"/>
+      <xs:attribute name="AmountPerDispense" type="xs:decimal" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="StatusEffect">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Sound" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="file" type="xs:string" use="required"/>
+            <xs:attribute name="range" type="xs:decimal" use="required"/>
+            <xs:anyAttribute processContents="skip"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Affliction" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="identifier" type="xs:string" use="required"/>
+            <xs:attribute name="strength" type="xs:string" use="required"/>
+            <xs:anyAttribute processContents="skip"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="type" type="xs:string" use="required"/>
+      <xs:attribute name="target" type="xs:string" use="required"/>
+      <xs:attribute name="targetlimb" type="xs:string" use="optional"/>
+      <xs:attribute name="duration" type="xs:decimal" use="optional"/>
+      <xs:attribute name="Condition" type="xs:string" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="ItemComponent">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="StatusEffect" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:string" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define Item element -->
+  <xs:element name="Item">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="PreferredContainer" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="Price" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="Deconstruct" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="Fabricate" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="InventoryIcon" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="Sprite" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="Body" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="MeleeWeapon" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="Pickable" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="LiquidContainer" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="ItemComponent" minOccurs="0" maxOccurs="1"/>
+        <xs:any processContents="skip" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:string" use="required"/>
+      <xs:attribute name="identifier" type="xs:string" use="required"/>
+      <xs:attribute name="category" type="xs:string" use="required"/>
+      <xs:attribute name="Tags" type="xs:string" use="required"/>
+      <!-- Specifies which type of cargo container this item can be found in -->
+      <xs:attribute name="cargocontaineridentifier" use="optional">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="mediccrate"/>
+            <xs:enumeration value="metalcrate"/>
+            <xs:enumeration value="explosivecrate"/>
+            <xs:enumeration value="chemicalcrate"/>
+            <xs:enumeration value="supplycab"/>
+            <xs:enumeration value="militarycrate"/>
+            <!-- Add other valid container types as needed -->
+            <xs:enumeration value=""/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute name="scale" type="xs:decimal" use="optional"/>
+      <xs:attribute name="impactsoundtag" type="xs:string" use="optional"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define Items root element -->
+  <xs:element name="Items">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Item" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

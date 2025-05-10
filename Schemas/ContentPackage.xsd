@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define Item element -->
+  <xs:element name="Item">
+    <xs:complexType>
+      <xs:attribute name="file" type="xs:string" use="required"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define Affliction element for filelist -->
+  <xs:element name="Affliction">
+    <xs:complexType>
+      <xs:attribute name="file" type="xs:string" use="required"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define contentpackage root element -->
+  <xs:element name="contentpackage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Item" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="Affliction" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:any processContents="skip" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:string" use="required"/>
+      <xs:attribute name="modversion" type="xs:string" use="required"/>
+      <xs:attribute name="corepackage" type="xs:string" use="required"/>
+      <xs:attribute name="gameversion" type="xs:string" use="required"/>
+      <xs:anyAttribute processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
