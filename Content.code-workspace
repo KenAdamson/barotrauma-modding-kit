@@ -1,16 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "X:/steam_library/steamapps/common/Barotrauma/Content"
+			"path": "E:/SteamLibrary/steamapps/common/Barotrauma/Content"
 		},
 		{
-			"path": "X:/steam_library/steamapps/common/Barotrauma/LocalMods"
+			"path": "E:/SteamLibrary/steamapps/common/Barotrauma/LocalMods"
 		},
 		{
 			"path": "."
 		},
 		{
-			"path": "../RevitalizingSyringe"
+			"path": "../Shock Ranger Armor"
 		}
 	],
 	"settings": {

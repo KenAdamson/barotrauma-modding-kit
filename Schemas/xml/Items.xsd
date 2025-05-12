@@ -160,15 +160,7 @@
     </xs:complexType>
   </xs:element>
 
-  <xs:element name="LiquidContainer">
-    <xs:complexType>
-      <xs:attribute name="Capacity" type="xs:decimal" use="required"/>
-      <xs:attribute name="RemoveContentsOnDepleted" type="xs:string" use="optional"/>
-      <xs:attribute name="InitialHeatValue" type="xs:decimal" use="optional"/>
-      <xs:attribute name="AmountPerDispense" type="xs:decimal" use="optional"/>
-      <xs:anyAttribute processContents="skip"/>
-    </xs:complexType>
-  </xs:element>
+
 
   <xs:element name="StatusEffect">
     <xs:complexType>
@@ -220,7 +212,6 @@
         <xs:element ref="Body" minOccurs="0" maxOccurs="1"/>
         <xs:element ref="MeleeWeapon" minOccurs="0" maxOccurs="1"/>
         <xs:element ref="Pickable" minOccurs="0" maxOccurs="1"/>
-        <xs:element ref="LiquidContainer" minOccurs="0" maxOccurs="1"/>
         <xs:element ref="ItemComponent" minOccurs="0" maxOccurs="1"/>
         <xs:any processContents="skip" minOccurs="0" maxOccurs="unbounded"/>
       </xs:sequence>
